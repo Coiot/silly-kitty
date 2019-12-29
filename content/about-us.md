@@ -7,7 +7,7 @@ enabled = false
 path = ""
 url = "#"
 [menu.main]
-weight = 12
+weight = 2
 [sidebar]
 enabled = false
 side = "left"

@@ -4,6 +4,6 @@ subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lo
 layout: elements
 menu:
   main:
-    weight: 7
+    weight: 3
 
 ---

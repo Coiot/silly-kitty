@@ -1,9 +1,9 @@
 ---
 title: home
 banner:
-  title: Amet donec nullam fermentum
+  title: Providing animal welfare services to our Community
   subtitle: To improve the lives of the estimated 50,000 community cats (stray, abandoned,
-    or feral) living in north west Arkansas by providing low cost spay/neuter, TNR
+    or feral) living in North West Arkansas by providing low cost spay/neuter, TNR
     (Trap, Neuter, Return) training and equipment, public education, and increased
     support and legal protection to colony caretakers, facilitating the humane management
     of community cats, ultimately decreasing their numbers in shelters and at large.

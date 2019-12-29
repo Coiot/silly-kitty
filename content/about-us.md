@@ -4,7 +4,7 @@ subtitle = ""
 title = "About Us"
 [content_img]
 enabled = false
-path = ""
+path = "/images/pic01.jpg"
 url = "#"
 [sidebar]
 enabled = false

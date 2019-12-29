@@ -9,7 +9,7 @@ url = "#"
 [menu.main]
 weight = 12
 [sidebar]
-enabled = true
+enabled = false
 side = "left"
 
 +++

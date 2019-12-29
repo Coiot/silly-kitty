@@ -1,9 +1,9 @@
 ---
 title: Elements
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+layout: elements
 menu:
   main:
-    name: Elements
-    weight: 3
-layout: elements
+    weight: 7
+
 ---

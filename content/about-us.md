@@ -6,6 +6,8 @@ title = "About Us"
 enabled = true
 path = "/images/pic01.jpg"
 url = "#"
+[menu.main]
+weight = 12
 [sidebar]
 enabled = true
 side = "left"

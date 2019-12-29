@@ -21,55 +21,55 @@ params:
         accent3: "#8075e5"
 menu:
   main:
-  - identifier: layouts
-    name: Page Layouts
-    url: "#"
-    weight: 2
-  - identifier: normal1
+  - url: "/left-sidebar"
     name: Left Sidebar
-    url: "/left-sidebar"
-    weight: 1
     parent: layouts
-  - identifier: normal2
-    name: Right Sidebar
-    url: "/right-sidebar"
-    weight: 2
-    parent: layouts
-  - identifier: normal3
-    name: No Sidebar
-    url: "/no-sidebar"
     weight: 3
-    parent: layouts
-  - identifier: submenu
-    name: Submenu
-    url: "#"
-    weight: 4
-    parent: layouts
-  - identifier: normal4
-    name: Option One
-    url: "#"
-    weight: 1
-    parent: submenu
-  - identifier: normal5
-    name: Option Two
-    url: "#"
-    weight: 2
-    parent: submenu
-  - identifier: normal6
-    name: Option Three
-    url: "#"
-    weight: 3
-    parent: submenu
-  - identifier: normal7
+    identifier: normal1
+  - url: "#"
     name: Option Four
-    url: "#"
-    weight: 4
     parent: submenu
-  footer:
-  - identifier: normal8
-    name: Made with Stackbit
-    url: https://www.stackbit.com
+    weight: 10
+    identifier: normal7
+  - url: "#"
+    name: Option Three
+    parent: submenu
+    weight: 8
+    identifier: normal6
+  - url: "#"
+    name: Option Two
+    parent: submenu
     weight: 4
+    identifier: normal5
+  - url: "#"
+    name: Option One
+    parent: submenu
+    weight: 2
+    identifier: normal4
+  - url: "#"
+    name: Submenu
+    parent: layouts
+    weight: 11
+    identifier: submenu
+  - url: "/no-sidebar"
+    name: No Sidebar
+    parent: layouts
+    weight: 9
+    identifier: normal3
+  - url: "/right-sidebar"
+    name: Right Sidebar
+    parent: layouts
+    weight: 5
+    identifier: normal2
+  - url: "#"
+    name: Page Layouts
+    weight: 6
+    identifier: layouts
+  footer:
+  - url: https://www.stackbit.com
+    name: Made with Stackbit
+    weight: 4
+    identifier: normal8
 disableKinds:
 - RSS
 - taxonomy

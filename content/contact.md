@@ -21,6 +21,14 @@ menu:
 <label class="form-label" for="contact-user-name">Name</label> 
 
 <input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Enter your name"> <span class="input-focus" aria-hidden="true"></span> </p> 
+  
+<select name="demo-category" id="demo-category">
+                                <option value="">- Category -</option>
+                                <option value="1">Manufacturing</option>
+                                <option value="1">Shipping</option>
+                                <option value="1">Administration</option>
+                                <option value="1">Human Resources</option>
+                            </select>
 
 <p class="form-row"> <label class="form-label" for="contact-user-email">Email</label> <input type="email" name="email" id="contact-user-email" class="form-input" placeholder="Enter your email address"> <span class="input-focus" aria-hidden="true"></span> </p> 
 

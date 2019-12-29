@@ -1,10 +1,10 @@
 +++
 layout = "page"
-subtitle = ""
+subtitle = "Helping all our feline friends!"
 title = "About Us"
 [content_img]
-enabled = true
-path = "/images/pic01.jpg"
+enabled = false
+path = ""
 url = "#"
 [menu.main]
 weight = 12

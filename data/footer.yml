@@ -28,7 +28,7 @@ contact_methods:
     title: Email
     icon: fa-envelope-o
     text: nwacommunitycatproject@gmail.com
-    url: "#"
+    url: mailto:nwacommunitycatproject@gmail.com
 copyright:
   enabled: true
   text: "&copy; Untitled. All rights reserved."

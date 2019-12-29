@@ -65,8 +65,4 @@ fields:
 pages:
 - content/about-us.md
 - content/contact.md
-- content/left-sidebar.md
-- content/no-sidebar.md
-- content/privacy.md
-- content/right-sidebar.md
 - content/terms.md

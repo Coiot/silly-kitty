@@ -29,6 +29,9 @@ menu:
                                 <option value="1">Administration</option>
                                 <option value="1">Human Resources</option>
                             </select>
+  
+  <input type="radio" id="demo-priority-low" name="demo-priority" checked>
+                            <label for="demo-priority-low">Low</label>
 
 <p class="form-row"> <label class="form-label" for="contact-user-email">Email</label> <input type="email" name="email" id="contact-user-email" class="form-input" placeholder="Enter your email address"> <span class="input-focus" aria-hidden="true"></span> </p> 
 

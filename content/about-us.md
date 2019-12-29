@@ -3,7 +3,7 @@ layout = "page"
 subtitle = ""
 title = "About Us"
 [content_img]
-enabled = false
+enabled = true
 path = "/images/pic01.jpg"
 url = "#"
 [sidebar]

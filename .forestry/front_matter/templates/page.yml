@@ -63,6 +63,7 @@ fields:
   config:
     required: true
 pages:
+- content/about-us.md
 - content/contact.md
 - content/left-sidebar.md
 - content/no-sidebar.md

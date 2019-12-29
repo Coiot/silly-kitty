@@ -65,11 +65,6 @@ menu:
     name: Page Layouts
     weight: 6
     identifier: layouts
-  footer:
-  - url: https://www.stackbit.com
-    name: Made with Stackbit
-    weight: 4
-    identifier: normal8
 disableKinds:
 - RSS
 - taxonomy

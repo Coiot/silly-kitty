@@ -11,7 +11,7 @@ sidebar:
 layout: page
 menu:
   footer:
-    weight: 3
+    weight: 1
 
 ---
   <form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form"

@@ -6,6 +6,9 @@ title = "Volunteer"
 enabled = false
 path = ""
 url = "#"
+[menu.main]
+name = "Volunteer "
+weight = 3
 [sidebar]
 enabled = false
 side = "left"

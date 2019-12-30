@@ -6,6 +6,9 @@ title = "SPAY/NEUTER RESOURCES & LINKS"
 enabled = false
 path = ""
 url = "#"
+[menu.main]
+name = "Resources & Links"
+weight = 5
 [sidebar]
 enabled = false
 side = "left"

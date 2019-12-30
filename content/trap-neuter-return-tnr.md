@@ -7,7 +7,7 @@ enabled = false
 path = ""
 url = "#"
 [menu.main]
-name = "Trap-Neuter-Return (TNR)"
+name = "T-N-R"
 weight = 4
 [sidebar]
 enabled = true

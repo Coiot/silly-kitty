@@ -8,7 +8,7 @@ path = ""
 url = "#"
 [menu.main]
 name = "Resources & Links"
-weight = 2
+weight = 3
 [sidebar]
 enabled = true
 side = "right"

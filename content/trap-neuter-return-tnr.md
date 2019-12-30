@@ -6,10 +6,6 @@ title = "TRAP-NEUTER-RETURN (TNR)"
 enabled = false
 path = ""
 url = "#"
-[menu.main]
-name = "T-N-R"
-parent = "Volunteer "
-weight = 1
 [sidebar]
 enabled = true
 side = "right"

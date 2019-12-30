@@ -6,9 +6,6 @@ title = "Feral FAQs"
 enabled = false
 path = ""
 url = "#"
-[menu.main]
-parent = "Resources & Links"
-weight = 1
 [sidebar]
 enabled = true
 side = "right"

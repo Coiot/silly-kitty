@@ -1,6 +1,6 @@
 +++
 layout = "page"
-subtitle = "WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS !"
+subtitle = "WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS!"
 title = "SPAY/NEUTER RESOURCES & LINKS"
 [content_img]
 enabled = false

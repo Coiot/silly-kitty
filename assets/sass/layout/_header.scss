@@ -144,6 +144,17 @@
 		}
 	}
 
+	.contentimg {
+		margin: 0 0 (_size(element-margin) * 1.5);
+
+		&:after {
+			content: '';
+			display: inline-block;
+			height: (_size(border-width) * 2);
+			width: 4em;
+		}
+	}
+
 	.dropotron {
 		list-style: none;
 		padding: 0;

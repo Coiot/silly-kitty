@@ -38,9 +38,9 @@ fields:
     name: path
     label: Image
   - type: text
-    name: url
-    label: URL
-    description: The URL used in the image hyperlink
+    name: alt
+    label: Image Description
+    description: Describe the image for the necessary alt tag.
     default: "#"
 - type: file
   name: alt_img

@@ -3,9 +3,10 @@ title: T-Shirt Order Form
 subtitle: 'Support our cause, and look fabulous at the same time! Buy one of our t-shirts. '
 excerpt: Support our cause, and look fabulous at the same time! Buy one of our t-shirts.
 content_img:
-  enabled: true
+  enabled: false
   path: "/images/IMG_0304-768x1024.jpg"
   url: "#"
+  alt: ''
 alt_img: "/images/IMG_0304-768x1024.jpg"
 sidebar:
   enabled: false

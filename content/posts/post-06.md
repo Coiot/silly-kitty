@@ -12,7 +12,7 @@ sidebar:
   enabled: false
   side: left
 date: 2017-04-06
-show_in_home_posts: true
+show_in_home_posts: false
 show_in_sidebar: true
 layout: page
 

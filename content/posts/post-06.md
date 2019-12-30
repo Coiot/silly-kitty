@@ -5,9 +5,9 @@ excerpt: Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugi
   etiam sed magna adipiscing.
 content_img:
   enabled: true
-  path: "/images/cover.jpg"
-  url: "#"
-alt_img: "/images/cover.jpg"
+  path: "/images/IMG_0304-768x1024.jpg"
+  url: ''
+alt_img: "/images/IMG_0304-768x1024.jpg"
 sidebar:
   enabled: true
   side: left

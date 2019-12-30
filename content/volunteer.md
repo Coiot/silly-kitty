@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "page"
 subtitle = "### **YOU CAN HELP!**"
 title = "Volunteer"

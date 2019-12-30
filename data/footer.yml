@@ -19,14 +19,9 @@ contact_methods:
     icon: fa-facebook
     title: Facebook
   methods_col2:
-  - type: contact_with_text
-    template: contact_with_text
-    title: Phone
-    icon: fa-phone
-    text: "(000) 000-0000"
   - type: contact_with_link
     template: contact_with_link
-    title: Email
+    title: Questions? Send us an Email
     icon: fa-envelope-o
     text: nwacommunitycatproject@gmail.com
     url: mailto:nwacommunitycatproject@gmail.com

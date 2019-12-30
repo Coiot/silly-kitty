@@ -15,7 +15,7 @@ banner:
     is_huge: true
   - label: Volunteer!
     url: "/volunteer"
-    is_huge: true
+    is_huge: false
     is_primary: false
     is_scrolly: false
 sections:

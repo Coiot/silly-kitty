@@ -1,12 +1,11 @@
 ---
 title: T-Shirt Order Form
 subtitle: 'Support our cause, and look fabulous at the same time! Buy one of our t-shirts. '
-excerpt: Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+excerpt: Support our cause, and look fabulous at the same time! Buy one of our t-shirts.
 content_img:
   enabled: true
   path: "/images/IMG_0304-768x1024.jpg"
-  url: ''
+  url: "#"
 alt_img: "/images/IMG_0304-768x1024.jpg"
 sidebar:
   enabled: true

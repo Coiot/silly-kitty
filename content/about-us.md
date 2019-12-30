@@ -1,7 +1,7 @@
 +++
 layout = "page"
 subtitle = "Helping all our feline friends!"
-title = "About Us"
+title = "Who are NWA Community Cat Project?"
 [content_img]
 enabled = false
 path = ""

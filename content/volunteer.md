@@ -14,7 +14,7 @@ enabled = true
 side = "right"
 
 +++
-#### **Be involved!**
+## **Be involved!**
 
 The NWA Community Cat Project is a registered 501(c)3 tax exempt organization. All donations are tax deductible!
 
@@ -34,7 +34,7 @@ Businesses where we can put donation boxes. We will post your business on our we
 
 Donate your vehicle, working or not.
 
-#### **WISH LIST**
+### **WISH LIST**
 
 * Cat Trapper Volunteers
 * Humane cat traps

@@ -8,7 +8,7 @@ path = ""
 url = "#"
 [menu.main]
 name = "T-N-R"
-parent = "Resources & Links"
+parent = "Volunteer "
 weight = 1
 [sidebar]
 enabled = true

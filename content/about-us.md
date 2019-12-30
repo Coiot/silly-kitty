@@ -7,6 +7,7 @@ enabled = false
 path = ""
 url = "#"
 [menu.main]
+name = "About"
 weight = 1
 [sidebar]
 enabled = true

@@ -13,6 +13,11 @@ banner:
     is_primary: true
     is_scrolly: false
     is_huge: true
+  - label: Volunteer!
+    url: "/volunteer"
+    is_huge: true
+    is_primary: false
+    is_scrolly: false
 sections:
 - type: features
   template: features

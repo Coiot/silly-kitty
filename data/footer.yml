@@ -15,15 +15,15 @@ contact_methods:
   - template: contact_with_link
     type: contact_with_link
     url: https://www.facebook.com/nwacommunitycatproject/
-    text: NWA Community Cat Project
+    text: Facebook Page
     icon: fa-facebook
-    title: Follow us on Facebook
+    title: Like us on Facebook
   - template: contact_with_link
     type: contact_with_link
     url: https://www.instagram.com/nwacommunitycatproject/
     text: Instagram Profile
     icon: fa-instagram
-    title: Instagram
+    title: Follow us on Instagram
   methods_col2:
   - type: contact_with_link
     template: contact_with_link

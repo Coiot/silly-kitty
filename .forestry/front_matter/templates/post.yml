@@ -91,4 +91,5 @@ fields:
   config:
     required: true
 pages:
+- content/posts/community-cats-of-nwa.md
 - content/posts/post-06.md

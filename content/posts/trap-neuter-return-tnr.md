@@ -1,7 +1,6 @@
 +++
 alt_img = ""
 date = 2019-12-31T06:00:00Z
-draft = true
 excerpt = ""
 layout = "page"
 show_in_home_posts = false

@@ -63,7 +63,7 @@
 			}
 		}
 		
-		img &:after {
+		img:after {
 			content: '';
 			display: inline-block;
 			height: (_size(border-width) * 2);

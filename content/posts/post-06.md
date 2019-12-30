@@ -11,7 +11,7 @@ alt_img: "/images/IMG_0304-768x1024.jpg"
 sidebar:
   enabled: false
   side: left
-date: 2017-04-06
+date: 2019-12-30T06:00:00+00:00
 show_in_home_posts: false
 show_in_sidebar: true
 layout: page

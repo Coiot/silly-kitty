@@ -19,7 +19,7 @@
 			@include color-typography(accent4);
 			@include color-button(accent4);
 			@include color-section(accent4);
-			@include padding(6.5em, 0);
+			@include padding(3em, 0);
 			width: 100%;
 
 			> .inner {
@@ -47,7 +47,7 @@
 			min-height: 0;
 
 			.content {
-				@include padding(4em, 3em);
+				@include padding(3em, 2em);
 
 				> .inner {
 					width: _size(inner-width, large);
@@ -91,13 +91,13 @@
 			}
 
 			.content {
-				@include padding(2.5em, 2em);
+				@include padding(1.5em, 1em);
 			}
 		}
 
 		@include breakpoint('<=xsmall') {
 			.content {
-				@include padding(2.5em, 1.5em);
+				@include padding(1.5em, .5em);
 			}
 		}
 	}

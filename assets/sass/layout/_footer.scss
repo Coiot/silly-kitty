@@ -82,7 +82,7 @@
 		.copyright {
 			font-size: 0.8em;
 			margin: 0;
-			padding: 8em 0;
+			padding: 1em 0;
 			text-align: center;
 
 			br {
@@ -94,11 +94,11 @@
 			}
 
 			@include breakpoint('<=large') {
-				padding: 6em 0;
+				padding: .8em 0;
 			}
 
 			@include breakpoint('<=small') {
-				padding: 4em 0;
+				padding: .5em 0;
 			}
 
 			@include breakpoint('<=xsmall') {

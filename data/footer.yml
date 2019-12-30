@@ -15,9 +15,9 @@ contact_methods:
   - template: contact_with_link
     type: contact_with_link
     url: https://www.facebook.com/nwacommunitycatproject/
-    text: Facebook
+    text: NWA Community Cat Project
     icon: fa-facebook
-    title: Facebook
+    title: Follow us on Facebook
   methods_col2:
   - type: contact_with_link
     template: contact_with_link

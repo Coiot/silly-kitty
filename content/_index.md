@@ -53,7 +53,7 @@ sections:
   actions:
   - label: How it works
     url: "/trap-neuter-return-tnr"
-    is_primary: true
+    is_primary: false
     is_scrolly: false
   text: TNR is a comprehensive plan where entire feral colonies are humanely trapped,
     then evaluated, vaccinated, and neutered by veterinarians. Kittens and cats that

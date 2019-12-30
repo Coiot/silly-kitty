@@ -20,7 +20,7 @@
 	}
 
 	#header {
-		background: _palette(accent4, bg-alt);
+		background: _palette(bg-alt);
 		color: _palette(accent4, fg-bold);
 		height: 3.5em;
 		left: 0;
@@ -38,24 +38,21 @@
 		h1 {
 			@include icon;
 			color: _palette(accent4, fg-bold);
-			display: inline-block;
+			display: inline-flex;
+			justify-content: center;
+			align-items: center;
 			height: inherit;
 			line-height: inherit;
 			margin-left: 1.5em;
 
 			a {
-				display: inline-block;
-				font-size: 0.9em;
+				font-size: 1.1em;
 				height: inherit;
 				line-height: inherit;
 			}
 			
 			img { 
-				display: inline-flex;
-				justify-content: center;
-				align-self: center;
-				height: 1em;
-				width: 1em;
+				width: 3em;
 				margin-right: 0.5em;		
 			}
 

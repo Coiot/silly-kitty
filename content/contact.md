@@ -10,6 +10,9 @@ sidebar:
   side: left
 layout: page
 menu:
+  main:
+    name: Contact Us
+    weight: 4
   footer:
     weight: 1
 

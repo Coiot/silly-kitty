@@ -23,14 +23,6 @@
 				img {
 					display: block;
 					width: 100%;
-					margin: 0 0 (_size(element-margin) * 1.5);
-
-					&:after {
-						content: '';
-						display: inline-block;
-						height: (_size(border-width) * 2);
-						width: 4em;
-					}
 				}
 			}
 
@@ -40,6 +32,17 @@
 
 				> :last-child {
 					margin-bottom: 0;
+				}
+			}
+			
+			.contentimg img {
+				margin: 0 0 (_size(element-margin) * 1.5);
+
+				&:after {
+					content: '';
+					display: inline-block;
+					height: (_size(border-width) * 2);
+					width: 4em;
 				}
 			}
 		}

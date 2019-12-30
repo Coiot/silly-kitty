@@ -3,7 +3,7 @@
     <head>    
         <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <meta name="viewport" content="width=device-width, initial-scale=1 />
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)).Permalink }}" />
         <link rel="stylesheet" href="{{ "assets/css/markdown-images.css" | relURL }}" />
         

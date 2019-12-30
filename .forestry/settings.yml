@@ -11,7 +11,7 @@ sections:
   - home
 - type: directory
   path: content
-  label: Page
+  label: Pages
   create: all
   match: "**/*"
   exclude: "{posts/**,_index.md,elements.md}"
@@ -19,16 +19,11 @@ sections:
   - page
 - type: directory
   path: content/posts
-  label: Post
+  label: Blog Posts
   create: all
   match: "**/*"
   templates:
   - post
-- type: document
-  path: content/elements.md
-  label: Elements
-  templates:
-  - elements
 - type: document
   path: config.yaml
   label: Theme Config

@@ -8,6 +8,7 @@ show_in_sidebar = true
 subtitle = "Meet the colony cats!"
 title = "COMMUNITY CATS OF NWA"
 [content_img]
+alt = "White cat in a fuzzy tower."
 enabled = true
 path = "/images/1149422-4.jpg"
 url = "/"

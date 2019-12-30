@@ -1,6 +1,6 @@
 +++
 layout = "page"
-subtitle = "### **YOU CAN HELP!**"
+subtitle = "YOU CAN HELP!"
 title = "Volunteer"
 [content_img]
 enabled = false

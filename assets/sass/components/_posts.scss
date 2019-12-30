@@ -34,11 +34,15 @@
 					margin-bottom: 0;
 				}
 				
-				img:after {
-					content: '';
-					display: inline-block;
-					height: (_size(border-width) * 2);
-					width: 4em;
+				img.major {
+					margin: 0 0 (_size(element-margin) * 1.5) 0;
+
+					&:after {
+						content: '';
+						display: inline-block;
+						height: (_size(border-width) * 2);
+						width: 4em;
+					}
 				}
 			}
 		}

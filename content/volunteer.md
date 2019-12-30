@@ -8,7 +8,8 @@ path = ""
 url = "#"
 [menu.main]
 name = "Volunteer "
-weight = 2
+parent = "About Us"
+weight = 1
 [sidebar]
 enabled = true
 side = "right"

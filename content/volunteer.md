@@ -10,7 +10,7 @@ url = "#"
 name = "Volunteer "
 weight = 3
 [sidebar]
-enabled = false
+enabled = true
 side = "left"
 
 +++
@@ -22,9 +22,17 @@ Monetary donations can be mailed to:
 
 NWA Community Cat Project
 
-200 S. Barton Avenue
+\*\\ 200 S. Barton Avenue
 
-Fayetteville, AR 72701
+\*\\ Fayetteville, AR 72701
+
+Sponsor a clinic or a cat colony in need. We will post your business or name as a sponsor on our web site.
+
+Adopt a homeless cat or kitten! Please check out our [Facebook page](https://www.facebook.com/nwacommunitycatproject/), for a listing of cats and kittens needing homes.
+
+Businesses where we can put donation boxes. We will post your business on our web site as a donor.
+
+Donate your vehicle, working or not.
 
 #### **WISH LIST**
 
@@ -75,11 +83,3 @@ Fayetteville, AR 72701
 ● KMR kitten formula
 
 ● Barn homes
-
-Sponsor a clinic or a cat colony in need. We will post your business or name as a sponsor on our web site.
-
-Adopt a homeless cat or kitten! Please check out our [Facebook page](https://www.facebook.com/nwacommunitycatproject/), for a listing of cats and kittens needing homes.
-
-Businesses where we can put donation boxes. We will post your business on our web site as a donor.
-
-Donate your vehicle, working or not.

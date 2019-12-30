@@ -52,7 +52,7 @@ sections:
   title: Trap-Neuter-Return (TNR)
   actions:
   - label: How it works
-    url: "/trap-neuter-return-tnr"
+    url: posts/trap-neuter-return-tnr
     is_primary: false
     is_scrolly: false
   text: TNR is a comprehensive plan where entire feral colonies are humanely trapped,

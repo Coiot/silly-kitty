@@ -11,7 +11,7 @@ name = "Volunteer "
 weight = 3
 [sidebar]
 enabled = true
-side = "left"
+side = "right"
 
 +++
 #### **Be involved!**
@@ -22,9 +22,9 @@ Monetary donations can be mailed to:
 
 NWA Community Cat Project
 
-\*\\ 200 S. Barton Avenue
+200 S. Barton Avenue
 
-\*\\ Fayetteville, AR 72701
+Fayetteville, AR 72701
 
 Sponsor a clinic or a cat colony in need. We will post your business or name as a sponsor on our web site.
 
@@ -36,50 +36,27 @@ Donate your vehicle, working or not.
 
 #### **WISH LIST**
 
-● Cat Trapper Volunteers
-
-● Humane cat traps
-
-● Large Wire Collapsible Dog Crates for feral spay recovery
-
-● Small cat carriers
-
-● Cat Food
-
-● Clay Litter
-
-● Large Rubbermaid Storage Totes for winter shelters and feeding stations
-
-● Foster homes for kittens
-
-● Towels of all sizes
-
-● Used ink jet printer cartridges
-
-● Bleach
-
-● Laundry detergent
-
-● Long handled scrub brushes
-
-● Snuggle Safe Warming Discs
-
-● Fluids (Lactated Ringers)
-
-● 3cc syringes
-
-● 1 cc syringes
-
-● FeLV/FIV test kits
-
-● Paper towels
-
-● Large plastic trash bags
-
-● Tarps
-
-● Flashlights
-
-● KMR kitten formula
-
-● Barn homes
+* Cat Trapper Volunteers
+* Humane cat traps
+* Large Wire Collapsible Dog Crates for feral spay recovery
+* Small cat carriers
+* Cat Food
+* Clay Litter
+* Large Rubbermaid Storage Totes for winter shelters and feeding stations
+* Foster homes for kittens
+* Towels of all sizes
+* Used ink jet printer cartridges
+* Bleach
+* Laundry detergent
+* Long handled scrub brushes
+* Snuggle Safe Warming Discs
+* Fluids (Lactated Ringers)
+* 3cc syringes
+* 1 cc syringes
+* FeLV/FIV test kits
+* Paper towels
+* Large plastic trash bags
+* Tarps
+* Flashlights
+* KMR kitten formula
+* Barn homes

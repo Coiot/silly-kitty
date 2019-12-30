@@ -11,7 +11,7 @@
             <!-- Content -->
             <div class="content">
                 {{ if .Params.content_img.enabled }}
-                    <a href="{{ relref . .Params.content_img.url | relURL }}" class="image fit"><img src="{{ .Params.content_img.path | relURL }}" alt="" /></a>
+                    <img src="{{ .Params.content_img.path | relURL }}" alt="{{ .Params.content_img.alt }}" /></a>
                 {{ end }}
                 {{ .Content }}
             </div>

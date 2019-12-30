@@ -26,7 +26,7 @@ TNR works. Cat populations are gradually reduced. Nuisance behaviors associated 
 * TNR is more cost effective than repeated attempts at eradication.By decreasing the number of euthanasias at local shelters, there is a substantial savings to the taxpayer. It costs an average of $130 to trap, house, kill, and dispose of an animal, compared with about $60 for sterilization. TNR also frees-up valuable shelter space.
 * TNR has proven to be the most humane and effective way to control feral cat populations and to improve their quality of life. This method is being used with success all over the world.
 
-### Why Spay and Neuter Cats?
+## Why Spay and Neuter Cats?
 
 ##### Do it for yourself
 

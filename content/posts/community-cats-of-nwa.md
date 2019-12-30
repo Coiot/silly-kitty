@@ -10,7 +10,7 @@ title = "COMMUNITY CATS OF NWA"
 [content_img]
 enabled = true
 path = "/images/1149422-4.jpg"
-url = "#"
+url = "/"
 [sidebar]
 enabled = false
 side = "left"

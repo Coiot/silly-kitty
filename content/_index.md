@@ -68,9 +68,5 @@ sections:
   subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
   component: posts.html
 layout: home
-menu:
-  main:
-    name: Home
-    weight: 1
 
 ---

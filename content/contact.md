@@ -12,7 +12,7 @@ layout: page
 menu:
   main:
     name: Contact Us
-    weight: 6
+    weight: 5
   footer:
     weight: 1
 

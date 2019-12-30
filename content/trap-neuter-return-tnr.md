@@ -8,7 +8,7 @@ path = ""
 url = "#"
 [menu.main]
 name = "T-N-R"
-weight = 4
+weight = 3
 [sidebar]
 enabled = true
 side = "right"

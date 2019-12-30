@@ -8,7 +8,7 @@ path = ""
 url = "#"
 [menu.main]
 name = "Volunteer "
-weight = 3
+weight = 2
 [sidebar]
 enabled = true
 side = "right"

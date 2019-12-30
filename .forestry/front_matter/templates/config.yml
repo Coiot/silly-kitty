@@ -12,7 +12,7 @@ fields:
   name: baseURL
   label: Base URL
   description: Hostname (and path) to the root
-  hidden: true
+  hidden: false
 - type: field_group
   name: params
   label: Params

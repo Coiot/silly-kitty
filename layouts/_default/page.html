@@ -6,13 +6,14 @@
             <header class="major">
                 <h2>{{ .Title }}</h2>
                 {{ partial "markdownify-block" .Params.subtitle }}
+                 {{ if .Params.content_img.enabled }}
+                    <img src="{{ .Params.content_img.path | relURL }}" alt="{{ .Params.content_img.alt }}" />
+                {{ end }}
             </header>
             
             <!-- Content -->
             <div class="content">
-                {{ if .Params.content_img.enabled }}
-                    <img src="{{ .Params.content_img.path | relURL }}" alt="{{ .Params.content_img.alt }}" />
-                {{ end }}
+
                 {{ .Content }}
             </div>
             

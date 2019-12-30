@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "page"
 subtitle = ""
 title = "TRAP-NEUTER-RETURN (TNR)"

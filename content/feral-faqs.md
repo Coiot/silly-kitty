@@ -31,7 +31,11 @@ side = "right"
 <li class="li2"><a href="#14">I have a lot of feral cats in my backyard that I feed. I am afraid if I start bringing them in to be fixed, I will get in trouble for having too many cats and they will be taken away from me.</a></li>
 </ol>
 <p> </p>
+
+### 
 <p><span id="1" class="p3">**1\]** What is a feral cat?</span></p>
+
+
 <p>A feral cat is either a cat who has lived his whole life with little or no human contact and is not socialized, or a stray cat who was lost or abandoned and has lived away from human contact long enough to revert to a wild state. Feral cats avoid human contact and cannot be touched by strangers.</p>
 <p><span id="2" class="p3">**2\]** Are stray cats and feral cats the same?</span></p>
 <p>No, stray and feral cats are not the same, and the terms stray cat and feral cat are not interchangeable. A stray cat is a domestic cat who was abandoned or strayed from home and became lost. Because a stray was once a companion animal, he can usually be re-socialized and adopted. Adult feral cats usually cannot be tamed and are not suited to living indoors with people. They are most content living in their established territory. Feral kittens up to about 8 to 10 weeks, however, can often be tamed and adopted. If you are willing to foster and socialize the litter of kittens you have discovered, the better the outcome will be for the kittens and for the colony as a whole. We can assist you with the process. The term ‘community cats’ includes both feral and stray cats.</p>
@@ -53,15 +57,14 @@ side = "right"
 <p>Fortunately, there is a humane and long term solution! Feral cat colonies can be managed with a nonlethal method called Trap-Neuter-Return (TNR), in which cats are humanely (painlessly) trapped, spayed or neutered, vaccinated, and returned to their colony site where volunteer caregivers provide them with food, water, and shelter.</p>
 <p>Trap-Neuter-Return (TNR) is the only chance feral cats have of living safe, healthy lives without reproducing. By fixing the cats that are at your location and keeping them there, this will keep out other cats (that are unaltered) from moving in and quickly repopulating the area. By nature, cats are territorial; they generally wont allow newcomers into their territory. TNR is a hands-on project requiring commitment from one or more volunteer caregivers, often with help from feral cat advocates living in the area. It is easy to help feral cats humanely, and many people, from all walks of life are fixing ferals and getting involved to help the cats in their neighborhoods!</p>
 
-
+### 
 <p><span id="7" class="p3">7\] I have been feeding cats for a while and they are reproducing. What should I do?</span></p>
 
 
 <p>Have them spayed/neutered as soon as possible. Email us at: nwacommunitycatproject@gmail.com for advice on which clinic/program is best for you or click our Low Cost Spay/Neuter link and book spay/neuter appointments with those clinics. If the cats are truly feral, you will need to trap the cats using humane traps to have them spayed or neutered. Do not trap cats until the day/night before their scheduled appointments! Never release a cat the same day it has been spayed/neutered.</p>
 <p>Trapping feral cats sounds complicated; in reality, its a simple and rewarding process, and it doesn't hurt the cats. Once the cats are spayed/neutered and vaccinated, return them (after overnight recovery) to the place where they were trapped (kittens can often be tamed, sterilized, and adopted). You should then provide ongoing food, shelter, and care to keep the feral cats healthy and safe. Talk to some of your other neighbors/family/friends/coworkers who may be willing to help you feed the cats a few days each week, or would be willing to donate cat food once the cats have been fixed. <a href="https://www.alleycat.org/">Visit Alley Cat Allies</a> for more information on trapping.</p>
 
-### 
-<p><span id="8" class="p3">8\] I cant touch the cats, so how can I get them to the vet for spay/neutering?</span></p>
+### <p><span id="8" class="p3">8\] I cant touch the cats, so how can I get them to the vet for spay/neutering?</span></p>
 
 
 <p>Do not try to touch them! And <em>never</em> attempt to catch a cat by throwing a towel or blanket over just the cat. Never use tranquilizers on outdoor cats as the risk of injury (to you and to the cat) is too great. The day/night before their spay/neuter appointment, trap the cats using humane (painless) traps and have them spayed/neutered and vaccinated (we can help guide you thru this process). Immediately after the cat is in the trap, cover the trap with an old sheet or beach towel. This will help keep the cat calm. Failure to cover trapped cats results in the cat injuring herself trying to escape from the trap. Don't wait to fix the cats, thinking the cats will get used to human presence and become tame enough to catch in a regular cat carrier. They may never be tame enough, and while you wait, several litters of kittens will be born. For specific information about traps and trapping, go to <a href="https://www.alleycat.org/community-cat-care/steps-for-a-successful-trapping-day/">Alley Cat Allies - Successful Trapping</a>.</p>

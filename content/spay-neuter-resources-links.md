@@ -43,7 +43,7 @@ The cats must be truly feral, not just scared or unpetable!
   * Cost: Male Cat $35 Female Cat $50
   * Cost: Male Dog $55 Female Dog $70
 
-\*Program utilizes vouchers sent to Participating Vets Participating Vets in Washington County:
+### Program utilizes vouchers sent to Participating Vets Participating Vets in Washington County:
 
 [**All Cats Clinic**](https://allcatsclinicfayar.com/): (479) 571-1228
 
@@ -99,7 +99,7 @@ Must be a city of Fayetteville resident.
 
 Low cost spay/neuter services for OWNED CATS only.
 
-### **Links – National Organizations:**
+## **Links – National Organizations:**
 
 [**Alley Cat Allies**](https://www.alleycat.org/)
 
@@ -109,7 +109,7 @@ Low cost spay/neuter services for OWNED CATS only.
 
 [**Best Friends Animal Society**](https://bestfriends.org/)
 
-### **Local Low Cost Spay/Neuter Services:**
+## **Local Low Cost Spay/Neuter Services:**
 
 [**Humane Society of the Ozarks**](https://hsozarks.org/)
 
@@ -123,7 +123,7 @@ Low cost spay/neuter services for OWNED CATS only.
 
 [**Lester C. Howick Animal Shelter: Washington County, Arkansas**](https://www.co.washington.ar.us/government/departments-a-e/animal-shelter)
 
-### **AREA SHELTERS:**
+## **AREA SHELTERS:**
 
 (These are not no-kill facilities although Fayetteville, Bella Vista, Madison Co, and Prairie Grove have very low cat euthanasia rates. That said, most shelters do euthanize feral cats.)
 
@@ -141,7 +141,7 @@ Low cost spay/neuter services for OWNED CATS only.
 
 [**Springdale Animal Services**](http://www.springdalear.gov/151/Adopt)
 
-### **Local Rescue Groups:**
+## **Local Rescue Groups:**
 
 [**Fabulous Felines NWA**](http://www.fabulousfelinesnwa.com/)
 

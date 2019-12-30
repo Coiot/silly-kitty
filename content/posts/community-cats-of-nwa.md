@@ -4,9 +4,9 @@ date = 2019-12-30T06:00:00Z
 excerpt = "These are but a few of the cats we’ve assisted in our area. Come take a look!"
 layout = "page"
 show_in_home_posts = true
-show_in_sidebar = true
+show_in_sidebar = false
 subtitle = "Meet the colony cats!"
-title = "COMMUNITY CATS OF NWA"
+title = "Community Cats of NWA"
 [content_img]
 alt = "White cat in a fuzzy tower."
 enabled = false

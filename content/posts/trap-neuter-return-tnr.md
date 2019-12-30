@@ -11,6 +11,9 @@ title = "TRAP-NEUTER-RETURN (TNR)"
 alt = "#"
 enabled = false
 path = ""
+[menu.footer]
+name = "Trap-Neuter-Return (TNR)"
+weight = 1
 [sidebar]
 enabled = true
 side = "right"

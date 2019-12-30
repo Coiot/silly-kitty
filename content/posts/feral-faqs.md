@@ -11,6 +11,8 @@ title = "Feral FAQs"
 alt = "#"
 enabled = false
 path = ""
+[menu.footer]
+weight = 2
 [sidebar]
 enabled = true
 side = "right"

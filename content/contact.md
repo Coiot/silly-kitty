@@ -14,7 +14,7 @@ menu:
     name: Contact Us
     weight: 4
   footer:
-    weight: 1
+    weight: 4
 
 ---
 <form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form" class="contact-form">

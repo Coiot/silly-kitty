@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "page"
 subtitle = "You've got questions? We have answers!"
 title = "Feral FAQs"

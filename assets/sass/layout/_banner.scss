@@ -47,7 +47,7 @@
 			min-height: 0;
 
 			.content {
-				@include padding(3em, 2em);
+				@include padding(3em, 3em);
 
 				> .inner {
 					width: _size(inner-width, large);
@@ -91,13 +91,13 @@
 			}
 
 			.content {
-				@include padding(1.5em, 1em);
+				@include padding(1.5em, 2em);
 			}
 		}
 
 		@include breakpoint('<=xsmall') {
 			.content {
-				@include padding(1.5em, .5em);
+				@include padding(1.5em, 1.5em);
 			}
 		}
 	}

@@ -1,7 +1,7 @@
 ---
 title: home
 banner:
-  title: Providing animal welfare services to our Community
+  title: Providing animal welfare services
   subtitle: To improve the lives of the estimated 50,000 community cats (stray, abandoned,
     or feral) living in North West Arkansas by providing low cost spay/neuter, TNR
     (Trap, Neuter, Return) training and equipment, public education, and increased

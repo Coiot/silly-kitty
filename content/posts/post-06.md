@@ -1,6 +1,6 @@
 ---
-title: Urna varius
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+title: T-Shirt Order Form
+subtitle: 'Support our cause, and look fabulous at the same time! Buy one of our t-shirts. '
 excerpt: Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
   etiam sed magna adipiscing.
 content_img:
@@ -17,18 +17,34 @@ show_in_sidebar: true
 layout: page
 
 ---
-### Dolore Amet Consequat
+Just $20 each (*plus shipping, if applicable), these make GREAT gifts! &nbsp;They also seem to hold up REALLY well to regular laundering, and we absolutely love them!
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+(*Shipping is via USPS Priority Mail, at a cost of $7.20 / shirt. &nbsp;If ordering several, we can calculate the most economical shipping charges based on quantity. &nbsp;If you are willing to pick up your shirt(s) in Fayetteville, then shipping is not applicable)
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique.
+**Name__ *
 
-### Sed Magna Ornare
+First
 
-In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus.
+Last
 
-* Faucibus orci lobortis ac adipiscing integer.
-* Col accumsan arcu mi aliquet placerat.
-* Lobortis vestibulum ut magna tempor massa nascetur.
-* Blandit massa non blandit tempor interdum.
-* Lacinia mattis arcu nascetur lobortis.
+**Phone Number__ *
+
+**Email__ *
+
+**Address__ *
+
+**Choose Size__ *
+
+S MLXL
+
+**Choose Color__ *
+
+Burgundy/RedPurpleTurquoise
+
+**Shipping or Pickup?**
+
+Please ship my order!I'd like to pick up my order.
+
+**Comment or Message - If you'd like to order more than one t-shirt, please specify the details (Size, Color, and Quantity) for your FULL order below:__ *
+
+**Submit**

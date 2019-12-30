@@ -11,7 +11,7 @@ name = "T-N-R"
 weight = 4
 [sidebar]
 enabled = true
-side = "left"
+side = "right"
 
 +++
 TNR is a comprehensive plan where entire feral colonies are humanely trapped, then evaluated, vaccinated, and neutered by veterinarians. Kittens and cats that are tame enough to be adopted are placed in good homes. Adult cats are returned to their familiar habitat to live out their lives under the watchful care of sympathetic neighborhood volunteers.

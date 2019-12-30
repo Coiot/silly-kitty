@@ -1,7 +1,7 @@
 +++
 layout = "page"
-subtitle = "Helping all our feline friends!"
-title = "Who are NWA Community Cat Project?"
+subtitle = "Who are NWA Community Cat Project?"
+title = "About Us"
 [content_img]
 enabled = false
 path = ""
@@ -9,7 +9,7 @@ url = "#"
 [menu.main]
 weight = 2
 [sidebar]
-enabled = false
+enabled = true
 side = "left"
 
 +++

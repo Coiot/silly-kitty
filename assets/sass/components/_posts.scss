@@ -33,6 +33,13 @@
 				> :last-child {
 					margin-bottom: 0;
 				}
+				
+				img:after {
+					content: '';
+					display: inline-block;
+					height: (_size(border-width) * 2);
+					width: 4em;
+				}
 			}
 		}
 

@@ -12,7 +12,7 @@ enabled = false
 path = "/images/1149422-4.jpg"
 url = "#"
 [sidebar]
-enabled = false
+enabled = true
 side = "left"
 
 +++

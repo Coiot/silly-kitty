@@ -1,7 +1,7 @@
 +++
 draft = true
 layout = "page"
-subtitle = ""
+subtitle = "### **YOU CAN HELP!**"
 title = "Volunteer"
 [content_img]
 enabled = false
@@ -12,8 +12,6 @@ enabled = false
 side = "left"
 
 +++
-## **YOU CAN HELP!**
-
 #### **Be involved!**
 
 The NWA Community Cat Project is a registered 501(c)3 tax exempt organization. All donations are tax deductible!

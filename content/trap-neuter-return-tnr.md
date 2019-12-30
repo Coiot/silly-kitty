@@ -18,7 +18,7 @@ TNR is a comprehensive plan where entire feral colonies are humanely trapped, th
 
 TNR works. Cat populations are gradually reduced. Nuisance behaviors associated with breeding, such as the yowling of females or the spraying of toms, are virtually eliminated. Disease and malnutrition are greatly reduced. The cats live healthy, safe, and peaceful lives in their territories.
 
-##### Benefits of TNR
+#### Benefits of TNR
 
 * Feral cat populations are stabilized at management levels, preventing overpopulation problems.
 * Feral cats benefit their communities by keeping rodent populations in check.
@@ -26,21 +26,21 @@ TNR works. Cat populations are gradually reduced. Nuisance behaviors associated 
 * TNR is more cost effective than repeated attempts at eradication.By decreasing the number of euthanasias at local shelters, there is a substantial savings to the taxpayer. It costs an average of $130 to trap, house, kill, and dispose of an animal, compared with about $60 for sterilization. TNR also frees-up valuable shelter space.
 * TNR has proven to be the most humane and effective way to control feral cat populations and to improve their quality of life. This method is being used with success all over the world.
 
-#### Why Spay and Neuter Cats?
+### Why Spay and Neuter Cats?
 
-###### Do it for yourself
+##### Do it for yourself
 
 * Stop feeling guilty about the misery of too many cats, and the growing numbers of mouths to feed.
 * Be a neighborhood hero: Set an example and help teach our children a kinder way to treat animals.
 
-###### Do it for the cats
+##### Do it for the cats
 
 * They will be healthier.
 * They will stop fighting, yowling, and spraying.
 * They will stop having sickly unwanted kittens.
 * Their numbers will decrease.
 
-###### Do it for your neighbors
+##### Do it for your neighbors
 
 * They will find less and less cat poop in their yards.
 * They will see fewer cats each year.

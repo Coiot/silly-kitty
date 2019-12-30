@@ -63,12 +63,6 @@
 			}
 		}
 		
-		img:after {
-			content: '';
-			display: inline-block;
-			height: (_size(border-width) * 2);
-			width: 4em;
-		}
 	}
 
 	@mixin color-section($p: null) {

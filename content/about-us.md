@@ -21,7 +21,7 @@ Fayetteville, AR Residents: According to Fayetteville City Ordinance, "A caretak
 
 If you would like to volunteer and help us with these efforts, you can also email us with your contact information, location, and if you have any particular interests or limitations, and we will do our best to match your availability with the needs we are presented with. We always seem to need volunteers to trap, transport to/from clinics/shelters/adoption events, foster (both short-term and long-term, we provide all the supplies!), as well as help with fundraising and campaign efforts.
 
-You can find us on Facebook, Twitter, and Instagram. Our fundraising campaign is thru Go Fund Me - NWACCP
+You can find us on [Facebook](https://www.facebook.com/nwacommunitycatproject/ "Facebook Page") and [Instagram](https://www.instagram.com/nwacommunitycatproject/ "Instagram Profile"). Our fundraising campaign is thru [Go Fund Me - NWACCP](https://www.gofundme.com/f/nwacommunitycat "Go Fund me crowd-funding page.").
 
 You can also choose to donate directly to us through PayPal:
 

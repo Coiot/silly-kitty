@@ -8,7 +8,7 @@ content_img:
   url: "#"
 alt_img: "/images/IMG_0304-768x1024.jpg"
 sidebar:
-  enabled: true
+  enabled: false
   side: left
 date: 2017-04-06
 show_in_home_posts: true

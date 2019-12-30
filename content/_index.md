@@ -49,17 +49,17 @@ sections:
 - type: cta
   template: cta
   section_id: cta
-  title: Ultrices ante sagittis nunc senectus libero netus
+  title: Trap-Neuter-Return (TNR)
   actions:
   - label: How it works
     url: "/contact"
     is_primary: false
     is_scrolly: false
-  text: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-    lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus
-    sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero orci, consectetur
-    in odio maximus felis. Lorem ipsum ullamcorper laoreet, lectus arcu pulvinar lorem
-    ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet consectetur.
+  text: TNR is a comprehensive plan where entire feral colonies are humanely trapped,
+    then evaluated, vaccinated, and neutered by veterinarians. Kittens and cats that
+    are tame enough to be adopted are placed in good homes. Adult cats are returned
+    to their familiar habitat to live out their lives under the watchful care of sympathetic
+    neighborhood volunteers.
   component: cta.html
 - type: posts
   template: posts

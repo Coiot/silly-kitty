@@ -10,7 +10,7 @@ url = "#"
 weight = 2
 [sidebar]
 enabled = true
-side = "left"
+side = "right"
 
 +++
 The Northwest Arkansas Community Cat Project is a 501 (c) 3, Non-Profit organization. We are 100% volunteer based, and every penny donated goes to the care of cats in our region. We network with local rescues, shelters, and other organization in our region to find help for stray, abandoned, and feral cats. This includes support for colony caretakers, as well as working to make affordable spay/neuter, vaccination, and other services available to cats in need.

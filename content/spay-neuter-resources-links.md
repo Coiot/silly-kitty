@@ -1,6 +1,6 @@
 +++
 layout = "page"
-subtitle = "# **WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS !**"
+subtitle = "WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS !"
 title = "SPAY/NEUTER RESOURCES & LINKS"
 [content_img]
 enabled = false
@@ -16,7 +16,7 @@ side = "left"
 +++
 Please contact us at: [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com "NWACCP EMAIL") with your telephone number and a good time to call. Advise us if you are planning multiple appointments for additional assistance. We have live traps available to borrow, with a fully refundable deposit.
 
-### **Low Cost Spay & Neuter Resources**
+## **Low Cost Spay & Neuter Resources**
 
 You can make your own appointments and arrangements at the clinics listed below. For assistance in other locations, contact us at: nwacommunitycatproject@gmail.com Ask about possible discounts available for multiple spay/neuters.
 
@@ -99,7 +99,7 @@ Must be a city of Fayetteville resident.
 
 Low cost spay/neuter services for OWNED CATS only.
 
-#### **Links – National Organizations:**
+### **Links – National Organizations:**
 
 [**Alley Cat Allies**](https://www.alleycat.org/)
 
@@ -109,7 +109,7 @@ Low cost spay/neuter services for OWNED CATS only.
 
 [**Best Friends Animal Society**](https://bestfriends.org/)
 
-#### **Local Low Cost Spay/Neuter Services:**
+### **Local Low Cost Spay/Neuter Services:**
 
 [**Humane Society of the Ozarks**](https://hsozarks.org/)
 
@@ -123,7 +123,7 @@ Low cost spay/neuter services for OWNED CATS only.
 
 [**Lester C. Howick Animal Shelter: Washington County, Arkansas**](https://www.co.washington.ar.us/government/departments-a-e/animal-shelter)
 
-#### **AREA SHELTERS:**
+### **AREA SHELTERS:**
 
 (These are not no-kill facilities although Fayetteville, Bella Vista, Madison Co, and Prairie Grove have very low cat euthanasia rates. That said, most shelters do euthanize feral cats.)
 
@@ -141,7 +141,7 @@ Low cost spay/neuter services for OWNED CATS only.
 
 [**Springdale Animal Services**](http://www.springdalear.gov/151/Adopt)
 
-#### **Local Rescue Groups:**
+### **Local Rescue Groups:**
 
 [**Fabulous Felines NWA**](http://www.fabulousfelinesnwa.com/)
 

@@ -21,7 +21,7 @@ contact_methods:
   methods_col2:
   - type: contact_with_link
     template: contact_with_link
-    title: Questions? Send us an Email
+    title: Send us an Email
     icon: fa-envelope-o
     text: nwacommunitycatproject@gmail.com
     url: mailto:nwacommunitycatproject@gmail.com

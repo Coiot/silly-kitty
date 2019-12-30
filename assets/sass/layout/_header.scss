@@ -49,17 +49,23 @@
 				height: inherit;
 				line-height: inherit;
 			}
-
-			&:before {
+			
+			img { 
 				display: inline-block;
-				font-size: 0.9em;
-				height: 3em;
-				line-height: 2em;
-				margin-left: -0.5em;
-				margin-right: 0.5em;
-				text-align: center;
-				width: 3em;
+				height: 1em;
+				width: 1em;
+				
 			}
+				&:after {
+					display: inline-block;
+					font-size: 0.9em;
+					height: 1em;
+					line-height: 2em;
+					margin-left: -0.5em;
+					margin-right: 0.5em;
+					text-align: center;
+					width: 1em;
+				}
 		}
 
 		nav {

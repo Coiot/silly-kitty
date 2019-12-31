@@ -27,15 +27,14 @@ sections:
       Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
       sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
       orci, consectetur in odio maximus felis.
-  - title: Phasellus libero eu sed augue gravida
+  - title: Education & Support
     icon:
       enabled: true
       icon: fa-pie-chart
       style: style2
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: Supporting cat colony caretakers and helping them gain the respect
+      they so richly deserve for their difficult, thankless, expensive and compassionate
+      work.
   - title: Spay/Neuter clinics
     icon:
       enabled: true

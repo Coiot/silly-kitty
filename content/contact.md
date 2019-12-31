@@ -23,11 +23,15 @@ menu:
 
 <input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Enter your name" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
+<p class="form-row">
+
 <select name="concern" id="concern">
 
 <label class="form-label" for="concern">Please choose one of the following:</label>
 
-<option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> </select>
+<option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> </select></p>
+
+<p class="form-row">
 
 <input type="radio" id="demo-priority-low" name="demo-priority">
 <label for="demo-priority-low">Low</label>
@@ -36,13 +40,15 @@ menu:
 
 <input type="radio" id="demo-priority-low" name="demo-priority"> <label for="demo-priority-low">Low</label>
 
+</p>
+
 <p class="form-row"> <label class="form-label" for="contact-user-phone">Phone Number</label> <input type="phone" name="phone" id="contact-user-phone" class="form-input" placeholder="Enter your phone number" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
 <p class="form-row"> <label class="form-label" for="contact-user-email">Email</label> <input type="email" name="email" id="contact-user-email" class="form-input" placeholder="Enter your email address" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
 <p class="form-row"> <label class="form-label" for="contact-message">Message</label>
 
-Please give as much detail as possible when requesting help, such as the number of cats/kittens in need, if any are pregnant or injured, and any challenges you suspect may have an impact on trapping.
+<p>Please give as much detail as possible when requesting help, such as the number of cats/kittens in need, if any are pregnant or injured, and any challenges you suspect may have an impact on trapping.</p>
 
  <textarea name="message" id="contact-message" class="form-textarea" rows="5" placeholder="Enter your message"></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
 

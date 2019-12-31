@@ -38,14 +38,14 @@ sections:
     icon:
       enabled: true
       icon: fa-unlock-alt
-      style: style3
+      style: style2
     description: Offering free trap rentals (deposit is necessary) and advice on how
       to use them to residents wishing to spay/neuter community cats.
   - title: Support Network
     icon:
       enabled: true
       icon: fa-life-ring
-      style: style1
+      style: style2
     description: Supporting cat colony caretakers and helping them gain the respect
       they so richly deserve for their difficult, thankless, expensive and compassionate
       work. We promote the adoption of long term care taker based solutions regarding

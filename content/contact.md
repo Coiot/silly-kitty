@@ -40,9 +40,11 @@ menu:
 
 <p class="form-row"> <label class="form-label" for="contact-user-email">Email</label> <input type="email" name="email" id="contact-user-email" class="form-input" placeholder="Enter your email address" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
-<p class="form-row"> <label class="form-label" for="contact-message">Message</label> <textarea name="message" id="contact-message" class="form-textarea" rows="5" placeholder="Enter your message"></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
+<p class="form-row"> <label class="form-label" for="contact-message">Message</label>
 
 Please give as much detail as possible when requesting help, such as the number of cats/kittens in need, if any are pregnant or injured, and any challenges you suspect may have an impact on trapping.
+
+ <textarea name="message" id="contact-message" class="form-textarea" rows="5" placeholder="Enter your message"></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
 
 <input type="hidden" name="form-name" value="contactForm" /> <p class="form-row form-submit">
 

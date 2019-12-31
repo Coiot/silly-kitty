@@ -59,7 +59,7 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <p class="form-row" id="shipping-radio">
 
-<p><label for="shipping-radio">Shipping or Pickup?</label></p><input type="radio" id="shipping-yes" name="shipping" value="Please ship my order!"> <label for="shipping-yes">Please ship my order!</label><input type="radio" id="shipping-no" name="shipping" value="I'd like to pick up my order."> <label for="shipping-no">I'd like to pick up my order.</label>
+<label for="shipping-radio">Shipping or Pickup?</label><input type="radio" id="shipping-yes" name="shipping" value="Please ship my order!"> <label for="shipping-yes">Please ship my order!</label><input type="radio" id="shipping-no" name="shipping" value="I'd like to pick up my order."> <label for="shipping-no">I'd like to pick up my order.</label>
 
 </p>
 
@@ -67,7 +67,7 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <p>Comment or Message - If you'd like to order more than one t-shirt, please specify the details (Size, Color, and Quantity) for your FULL order below.</p>
 
- <textarea name="message" id="shirt-message" class="form-textarea" rows="4" placeholder="Enter your message" required></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
+ <textarea name="message" id="shirt-message" class="form-textarea" rows="4" placeholder="Enter your message"></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
 
 <input type="hidden" name="form-name" value="shirtForm" /> <p class="form-row form-submit">
 

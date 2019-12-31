@@ -18,16 +18,14 @@ sections:
   template: features
   section_id: features
   features:
-  - title: Integer vitae consequat sed magna feugiat
+  - title: 'Education & Awareness '
     icon:
       enabled: true
       icon: fa-area-chart
       style: style1
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
-  - title: Education & Support
+    description: Educating the public about the plight of community cats, and the
+      need to spay/neuter and microchip pets.
+  - title: Support Network
     icon:
       enabled: true
       icon: fa-pie-chart

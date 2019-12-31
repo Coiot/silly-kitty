@@ -12,7 +12,7 @@ layout: page
 menu:
   main:
     name: Contact Us
-    weight: 4
+    weight: 3
 
 ---
 <form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form" class="contact-form">

@@ -23,13 +23,11 @@ menu:
 
 <input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Enter your name"> <span class="input-focus" aria-hidden="true"></span> </p>
 
-<select name="demo-category" id="demo-category">
-<option value="">- Category -</option>
-<option value="1">Manufacturing</option>
-<option value="1">Shipping</option>
-<option value="1">Administration</option>
-<option value="1">Human Resources</option>
-</select>
+Please choose one of the following:
+
+<select name="concern" id="concern">
+
+<option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> <option value="1">Human Resources</option> </select>
 
 <input type="radio" id="demo-priority-low" name="demo-priority">
 <label for="demo-priority-low">Low</label>

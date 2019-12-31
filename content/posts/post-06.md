@@ -69,6 +69,6 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
  <textarea name="message" id="shirt-message" class="form-textarea" rows="4" placeholder="Enter your message" required></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
 
-<input type="hidden" name="form-name" value="contactForm" /> <p class="form-row form-submit">
+<input type="hidden" name="form-name" value="shirtForm" /> <p class="form-row form-submit">
 
 <button type="submit" class="primary button">Send Message</button> </p> </form>

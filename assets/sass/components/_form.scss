@@ -20,6 +20,7 @@
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
+	input[type="phone"],
 	select,
 	textarea {
 		@include vendor('appearance', 'none');
@@ -60,6 +61,7 @@
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
+	input[type="phone"],
 	select {
 		height: _size(element-height);
 	}
@@ -152,6 +154,7 @@
 		input[type="text"],
 		input[type="password"],
 		input[type="email"],
+		input[type="phone"],
 		select,
 		textarea {
 			background-color: _palette($p, border-bg);

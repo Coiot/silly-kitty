@@ -71,8 +71,12 @@ sections:
 - type: posts
   template: posts
   section_id: posts
-  title: Convallis amet interdum
-  subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+  title: Our Vision
+  subtitle: "To have a community where no kittens are born wild, where no cat capable
+    of living in a home is lacking one, and where no community cats go wanting for
+    food, water, and appropriate care and concern. \n\nKeep coming back to our page
+    to see updates on our blog about where we are hosting clinics, offering services,
+    and showing some of the cats we've helped find a new home. "
   component: posts.html
 layout: home
 

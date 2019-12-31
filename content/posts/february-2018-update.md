@@ -1,5 +1,5 @@
 +++
-alt_img = "/images/11.jpg"
+alt_img = "/images/20170115_172713.jpg"
 date = 2019-12-30T06:01:00Z
 excerpt = "Thanks to the generous support of the Prairie Grove city management, we have been holding these clinics in a city building, as makeshift space. However… By the end of this year, we will no longer have access to this space!!!! Lend us a hand as we build our own center."
 layout = "page"

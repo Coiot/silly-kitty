@@ -39,8 +39,9 @@ sections:
       enabled: true
       icon: fa-unlock-alt
       style: style2
-    description: Offering free trap rentals (deposit is necessary) and advice on how
-      to use them to residents wishing to spay/neuter community cats.
+    description: We have free trap rentals ( with a necessary deposit that is fully
+      refunded) and advice on how to use them for any residents wishing to spay/neuter
+      community cats.
   - title: Support Network
     icon:
       enabled: true

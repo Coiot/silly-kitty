@@ -23,8 +23,9 @@ sections:
       enabled: true
       icon: fa-area-chart
       style: style1
-    description: Educating the public about the plight of community cats, and the
-      need to spay/neuter and microchip pets.
+    description: Offering advice, assistance, equipment, and spay/neuter resources
+      for feral, stray and unowned cats. We educate the public about the plight of
+      community cats, and the need to spay/neuter and microchip pets.
   - title: Support Network
     icon:
       enabled: true

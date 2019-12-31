@@ -43,11 +43,17 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <p class="form-row">
 
-<label class="form-label" for="concern">Please choose one of the following:</label>
+<label class="form-label" for="size">Choose Size</label>
 
-<select name="concern" id="concern">
+<select name="concern" id="size">
 
-<option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> </select></p>
+<option value="Small">S</option> <option value="Medium">M</option> <option value="Large">L</option>  <option value="Extra Large">XL</option> </select></p>
+
+<label class="form-label" for="color">Choose Color</label>
+
+<select name="concern" id="color">
+
+<option value="Burgundy/Red">Burgundy/Red</option> <option value="Purple">Purple</option> <option value="Turquoise">Turquoise</option> </select></p>
 
 <p class="form-row" id="contact-radio">
 

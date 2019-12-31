@@ -33,13 +33,13 @@ menu:
 
 If you selected "I want to volunteer!", Please choose one of the following:
 
-<input type="radio" id="1" name="demo-priority"> <label for="1">I want to foster.</label>
+<input type="radio" id="1" name="foster"> <label for="1">I want to foster.</label>
 
-<input type="radio" id="2" name="demo-priority" checked> <label for="2">I want to trap.</label>
+<input type="radio" id="2" name="trap" checked> <label for="2">I want to trap.</label>
 
-<input type="radio" id="3" name="demo-priority"> <label for="3">I can transport cats to/from clinics.</label>
+<input type="radio" id="3" name="transport"> <label for="3">I can transport cats to/from clinics.</label>
 
-<input type="radio" id="4" name="demo-priority"> <label for="4">I'd like to help in other ways.</label>
+<input type="radio" id="4" name="other"> <label for="4">I'd like to help in other ways.</label>
 
 </p>
 

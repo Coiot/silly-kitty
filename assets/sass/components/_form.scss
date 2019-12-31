@@ -86,8 +86,8 @@
 			display: inline-block;
 			font-size: 1em;
 			font-weight: _font(weight);
-			padding-left: (_size(element-height) * 0.6) + 0.75em;
-			padding-right: 0.75em;
+			padding-left: (_size(element-height) * 0.6) + 0.8em;
+			padding-right: 2em;
 			position: relative;
 
 			&:before {
@@ -102,6 +102,7 @@
 				text-align: center;
 				top: 0;
 				width: (_size(element-height) * 0.6);
+				font-size: 1em !important;
 			}
 		}
 

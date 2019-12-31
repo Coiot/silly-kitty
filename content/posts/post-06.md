@@ -61,8 +61,6 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <label for="shipping-radio">Shipping or Pickup?</label>
 
-<select name="shipping-radio" id="shipping-radio">
-
 <input type="radio" id="shipping-yes" name="shipping" value="Please ship my order!"> <label for="shipping-yes">Please ship my order!</label><input type="radio" id="shipping-no" name="shipping" value="I'd like to pick up my order."> <label for="shipping-no">I'd like to pick up my order.</label>
 
 </select></p>

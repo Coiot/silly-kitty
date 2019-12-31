@@ -27,8 +27,6 @@ menu:
 
 <label class="form-label" for="concern">Please choose one of the following:</label>
 
-<select name="concern" id="concern">
-
 <option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> </select></p>
 
 <p class="form-row">

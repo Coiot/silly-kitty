@@ -21,34 +21,46 @@ menu:
     weight: 3
 
 ---
-Just $20 each (*plus shipping, if applicable), these make GREAT gifts! &nbsp;They also seem to hold up REALLY well to regular laundering, and we absolutely love them!
+Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They also seem to hold up REALLY well to regular laundering, and we absolutely love them!
 
-(*Shipping is via USPS Priority Mail, at a cost of $7.20 / shirt. &nbsp;If ordering several, we can calculate the most economical shipping charges based on quantity. &nbsp;If you are willing to pick up your shirt(s) in Fayetteville, then shipping is not applicable)
+(*Shipping is via USPS Priority Mail, at a cost of $7.20 / shirt.  If ordering several, we can calculate the most economical shipping charges based on quantity.  If you are willing to pick up your shirt(s) in Fayetteville, then shipping is not applicable)
 
-**Name__ *
+<form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form" class="contact-form">
 
-First
+<p class="form-row">
 
-Last
+<label class="form-label" for="contact-user-name">Name</label>
 
-**Phone Number__ *
+<input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Enter your name" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
-**Email__ *
+<p class="form-row"> <label class="form-label" for="contact-user-phone">Phone Number</label> <input type="phone" name="phone" id="contact-user-phone" class="form-input" placeholder="Enter your phone number" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
-**Address__ *
+<p class="form-row"> <label class="form-label" for="contact-user-email">Email</label> <input type="email" name="email" id="contact-user-email" class="form-input" placeholder="Enter your email address" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
-**Choose Size__ *
+<p class="form-row"> <label class="form-label" for="contact-address">Address</label>
 
-S MLXL
+<input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Enter your name" required>  <span class="input-focus" aria-hidden="true" required></span> </p>
 
-**Choose Color__ *
+<p class="form-row">
 
-Burgundy/RedPurpleTurquoise
+<label class="form-label" for="concern">Please choose one of the following:</label>
 
-**Shipping or Pickup?**
+<select name="concern" id="concern">
 
-Please ship my order!I'd like to pick up my order.
+<option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> </select></p>
 
-**Comment or Message - If you'd like to order more than one t-shirt, please specify the details (Size, Color, and Quantity) for your FULL order below:__ *
+<p class="form-row" id="contact-radio">
 
-**Submit**
+<p><label for="contact-radio">If you selected "I want to volunteer!", Please choose one of the following:</label></p><input type="radio" id="1" name="contact-radio" value="N/A"> <label for="1">N/A.</label><input type="radio" id="2" name="contact-radio" value="I want to foster."> <label for="2">I want to foster.</label><input type="radio" id="3" name="contact-radio" value="I want to trap."> <label for="3">I want to trap.</label><input type="radio" id="4" name="contact-radio" value="I want to transport cats to/from clinics."> <label for="4">I can transport cats to/from clinics.</label><input type="radio" id="5" name="contact-radio" value="I'd like to help in other ways."> <label for="5">I'd like to help in other ways.</label>
+
+</p>
+
+<p class="form-row"> <label class="form-label" for="contact-message">Message</label>
+
+<p>Please give as much detail as possible when requesting help, such as the number of cats/kittens in need, if any are pregnant or injured, and any challenges you suspect may have an impact on trapping.</p>
+
+ <textarea name="message" id="contact-message" class="form-textarea" rows="4" placeholder="Enter your message" required></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
+
+<input type="hidden" name="form-name" value="contactForm" /> <p class="form-row form-submit">
+
+<button type="submit" class="primary button">Send Message</button> </p> </form>

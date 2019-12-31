@@ -1,5 +1,5 @@
 +++
-alt_img = ""
+alt_img = "/images/banner1.jpg"
 date = 2019-12-29T06:00:00Z
 excerpt = ""
 layout = "page"

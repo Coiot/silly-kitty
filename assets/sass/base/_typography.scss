@@ -174,7 +174,12 @@
 		}
 
 		a {
-			color: #0300c5 !important;
+			@if $p == $highlight {
+				color: _palette($p, fg-bold);
+			}
+			@else {
+				color: _palette(accent1, bg);
+			}
 		
 		}
 

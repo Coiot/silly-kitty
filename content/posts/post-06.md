@@ -31,23 +31,25 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <label class="form-label" for="shirt-name">Name</label>
 
-<input type="text" name="name" id="shirt-name" class="form-input" placeholder="Enter your name" required> <span class="input-focus" aria-hidden="true"></span> </p>
+<input type="text" name="shirt-name" id="shirt-name" class="form-input" placeholder="Enter your name" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
-<p class="form-row"> <label class="form-label" for="shirt-phone">Phone Number</label> <input type="phone" name="phone" id="shirt-phone" class="form-input" placeholder="Enter your phone number" required> <span class="input-focus" aria-hidden="true"></span> </p>
+<p class="form-row"> <label class="form-label" for="shirt-phone">Phone Number</label> <input type="phone" name="shirt-phone" id="shirt-phone" class="form-input" placeholder="Enter your phone number" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
-<p class="form-row"> <label class="form-label" for="shirt-email">Email</label> <input type="email" name="email" id="shirt-email" class="form-input" placeholder="Enter your email address" required> <span class="input-focus" aria-hidden="true"></span> </p>
+<p class="form-row"> <label class="form-label" for="shirt-email">Email</label> <input type="email" name="shirt-email" id="shirt-email" class="form-input" placeholder="Enter your email address" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
 <p class="form-row"> <label class="form-label" for="shirt-address">Address</label>
 
-<input type="text" name="name" id="shirt-address" class="form-input" placeholder="Enter your name" required>  <span class="input-focus" aria-hidden="true" required></span> </p>
+<input type="text" name="shirt-address" id="shirt-address" class="form-input" placeholder="Enter your name" required>  <span class="input-focus" aria-hidden="true" required></span> </p>
 
 <p class="form-row">
 
-<label class="form-label" for="size">Choose Size</label>
-
 <select name="size" id="size">
 
+<label class="form-label" for="size">Choose Size</label>
+
 <option value="Small">S</option> <option value="Medium">M</option> <option value="Large">L</option>  <option value="Extra Large">XL</option> </select></p>
+
+<p class="form-row">
 
 <label class="form-label" for="color">Choose Color</label>
 
@@ -55,9 +57,9 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <option value="Burgundy/Red">Burgundy/Red</option> <option value="Purple">Purple</option> <option value="Turquoise">Turquoise</option> </select></p>
 
-<p class="form-row" id="contact-radio">
+<p class="form-row" id="shipping-radio">
 
-<p><label for="shipping">Shipping or Pickup?</label></p><input type="radio" id="1" name="shipping" value="Please ship my order!"> <label for="1">Please ship my order!</label><input type="radio" id="2" name="shipping" value="I'd like to pick up my order."> <label for="2">I'd like to pick up my order.</label>
+<p><label for="shipping-radio">Shipping or Pickup?</label></p><input type="radio" id="1" name="shipping" value="Please ship my order!"> <label for="1">Please ship my order!</label><input type="radio" id="2" name="shipping" value="I'd like to pick up my order."> <label for="2">I'd like to pick up my order.</label>
 
 </p>
 

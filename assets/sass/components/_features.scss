@@ -85,39 +85,7 @@
 				h3 {
 					&:before {
 						border-color: _palette($p, border);
-					}
-				}
-
-				@if $p == null {
-					&:nth-child(3n - 2) {
-						h3 {
-							&:before {
-								color: _palette(accent1, bg);
-							}
-						}
-					}
-
-					&:nth-child(3n - 1) {
-						h3 {
-							&:before {
-								color: _palette(accent2, bg);
-							}
-						}
-					}
-
-					&:nth-child(3n) {
-						h3 {
-							&:before {
-								color: _palette(accent3, bg);
-							}
-						}
-					}
-				}
-				@else {
-					h3 {
-						&:before {
-							color: _palette($p, fg-bold);
-						}
+						color: #4f92d1;
 					}
 				}
 			}

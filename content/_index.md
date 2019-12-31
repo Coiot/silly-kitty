@@ -21,7 +21,7 @@ sections:
   - title: 'Education & Awareness '
     icon:
       enabled: true
-      icon: fa-seedling
+      icon: fa-compass
       style: style2
     description: Offering advice, assistance, equipment, and spay/neuter resources
       for feral, stray and unowned cats. We educate the public about the plight of
@@ -37,14 +37,14 @@ sections:
   - title: Trap Rentals
     icon:
       enabled: true
-      icon: fa-cat
+      icon: fa-unlock-alt
       style: style3
     description: Offering free trap rentals (deposit is necessary) and advice on how
       to use them to residents wishing to spay/neuter community cats.
   - title: Support Network
     icon:
       enabled: true
-      icon: fa-parachute-box
+      icon: fa-life-ring
       style: style1
     description: Supporting cat colony caretakers and helping them gain the respect
       they so richly deserve for their difficult, thankless, expensive and compassionate

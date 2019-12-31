@@ -31,7 +31,7 @@ menu:
 
 <p class="form-row">
 
-If you selected "I want to volunteer!", Please choose one of the following:
+<label class="form-label" for="radio">If you selected "I want to volunteer!", Please choose one of the following:</label>
 
 <input type="radio" id="1" name="foster"> <label for="1">I want to foster.</label>
 

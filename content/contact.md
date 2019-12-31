@@ -23,11 +23,11 @@ menu:
 
 <input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Enter your name" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
-Please choose one of the following:
-
 <select name="concern" id="concern">
 
-<option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> <option value="1">Human Resources</option> </select>
+<label class="form-label" for="concern">Please choose one of the following:</label>
+
+<option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> </select>
 
 <input type="radio" id="demo-priority-low" name="demo-priority">
 <label for="demo-priority-low">Low</label>
@@ -36,7 +36,7 @@ Please choose one of the following:
 
 <input type="radio" id="demo-priority-low" name="demo-priority"> <label for="demo-priority-low">Low</label>
 
-<p class="form-row"> <label class="form-label" for="contact-user-email">Phone Number</label> <input type="phone" name="phone" id="contact-user-phone" class="form-input" placeholder="Enter your phone number" required> <span class="input-focus" aria-hidden="true"></span> </p>
+<p class="form-row"> <label class="form-label" for="contact-user-phone">Phone Number</label> <input type="phone" name="phone" id="contact-user-phone" class="form-input" placeholder="Enter your phone number" required> <span class="input-focus" aria-hidden="true"></span> </p>
 
 <p class="form-row"> <label class="form-label" for="contact-user-email">Email</label> <input type="email" name="email" id="contact-user-email" class="form-input" placeholder="Enter your email address" required> <span class="input-focus" aria-hidden="true"></span> </p>
 

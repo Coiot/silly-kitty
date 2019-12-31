@@ -26,6 +26,22 @@ sections:
     description: Offering advice, assistance, equipment, and spay/neuter resources
       for feral, stray and unowned cats. We educate the public about the plight of
       community cats, and the need to spay/neuter and microchip pets.
+  - title: Spay/Neuter clinics
+    icon:
+      enabled: true
+      icon: fa-cube
+      style: style3
+    description: |-
+      We are open to anyone regardless of where you live or your income level!
+
+      This is the perfect opportunity to alter those neighborhood kitties that just “hang around”, feral kitties, or your own much loved pet.
+  - title: Trap Rentals
+    icon:
+      enabled: false
+      icon: ''
+      style: ''
+    description: Offering free trap rentals (deposit is necessary) and advice on how
+      to use them to residents wishing to spay/neuter community cats.
   - title: Support Network
     icon:
       enabled: true
@@ -36,15 +52,6 @@ sections:
       work. We promote the adoption of long term care taker based solutions regarding
       community cats. You can contact us by email at [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com).
       If you wish to talk to someone, leave your phone number and a good time to call.
-  - title: Spay/Neuter clinics
-    icon:
-      enabled: true
-      icon: fa-cube
-      style: style3
-    description: |-
-      We are open to anyone regardless of where you live or your income level!
-
-      This is the perfect opportunity to alter those neighborhood kitties that just “hang around”, feral kitties, or your own much loved pet.
   component: features.html
 - type: cta
   template: cta

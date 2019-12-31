@@ -35,6 +35,8 @@ menu:
 
 <label class="form-label" for="contact-radio">If you selected "I want to volunteer!", Please choose one of the following:</label>
 
+<input type="radio" id="0" name="contact-radio" checked> <label for="0">N/A.</label>
+
 <input type="radio" id="1" name="contact-radio"> <label for="1">I want to foster.</label>
 
 <input type="radio" id="2" name="contact-radio"> <label for="2">I want to trap.</label>

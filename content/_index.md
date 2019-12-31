@@ -36,15 +36,15 @@ sections:
       Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
       sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
       orci, consectetur in odio maximus felis.
-  - title: Lacus ultricies sagittis mi dui dapibus
+  - title: Spay/Neuter clinics
     icon:
       enabled: true
       icon: fa-cube
       style: style3
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: |-
+      We are open to anyone regardless of where you live or your income level!
+
+      This is the perfect opportunity to alter those neighborhood kitties that just “hang around”, feral kitties, or your own much loved pet.
   component: features.html
 - type: cta
   template: cta

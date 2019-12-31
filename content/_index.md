@@ -22,7 +22,7 @@ sections:
     icon:
       enabled: true
       icon: fa-seedling
-      style: style1
+      style: style2
     description: Offering advice, assistance, equipment, and spay/neuter resources
       for feral, stray and unowned cats. We educate the public about the plight of
       community cats, and the need to spay/neuter and microchip pets.

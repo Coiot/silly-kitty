@@ -29,7 +29,7 @@ menu:
 
 <p>If requesting advice or assistance, it is VERY helpful if you include your address (or at least the city/general area). This helps us more quickly determine how best we can help. We do NOT share your private information with anyone without your consent.</p>
 
-<textarea name="message" id="contact-address" class="form-textarea" rows="2" placeholder="Enter your Address or General Location" required></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
+<textarea name="address" id="contact-address" class="form-textarea" rows="2" placeholder="Enter your Address or General Location"></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
 
 <p class="form-row">
 
@@ -43,15 +43,7 @@ menu:
 
 <label class="form-label" for="contact-radio">If you selected "I want to volunteer!", Please choose one of the following:</label>
 
-<input type="radio" id="5" name="contact-radio" value="N/A"> <label for="5">N/A.</label>
-
-<input type="radio" id="1" name="contact-radio" value="I want to foster."> <label for="1">I want to foster.</label>
-
-<input type="radio" id="2" name="contact-radio" value="I want to trap."> <label for="2">I want to trap.</label>
-
-<input type="radio" id="3" name="contact-radio" value="I want to transport cats to/from clinics."> <label for="3">I can transport cats to/from clinics.</label>
-
-<input type="radio" id="4" name="contact-radio" value="I'd like to help in other ways."> <label for="4">I'd like to help in other ways.</label>
+<input type="radio" id="1" name="contact-radio" value="N/A"> <label for="1">N/A.</label><input type="radio" id="2" name="contact-radio" value="I want to foster."> <label for="2">I want to foster.</label><input type="radio" id="3" name="contact-radio" value="I want to trap."> <label for="3">I want to trap.</label><input type="radio" id="4" name="contact-radio" value="I want to transport cats to/from clinics."> <label for="4">I can transport cats to/from clinics.</label><input type="radio" id="5" name="contact-radio" value="I'd like to help in other ways."> <label for="5">I'd like to help in other ways.</label>
 
 </p>
 

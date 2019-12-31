@@ -41,7 +41,9 @@ menu:
 
 <p class="form-row" id="contact-radio">
 
-<p><label for="contact-radio">If you selected "I want to volunteer!", Please choose one of the following:</label></p><input type="radio" id="1" name="contact-radio" value="N/A"> <label for="1">N/A.</label><input type="radio" id="2" name="contact-radio" value="I want to foster."> <label for="2">I want to foster.</label><input type="radio" id="3" name="contact-radio" value="I want to trap."> <label for="3">I want to trap.</label><input type="radio" id="4" name="contact-radio" value="I want to transport cats to/from clinics."> <label for="4">I can transport cats to/from clinics.</label><input type="radio" id="5" name="contact-radio" value="I'd like to help in other ways."> <label for="5">I'd like to help in other ways.</label>
+<p>If you selected "I want to volunteer!", Please choose one of the following:</p>
+
+<input type="radio" id="1" name="contact-radio" value="N/A"> <label for="1">N/A.</label><input type="radio" id="2" name="contact-radio" value="I want to foster."> <label for="2">I want to foster.</label><input type="radio" id="3" name="contact-radio" value="I want to trap."> <label for="3">I want to trap.</label><input type="radio" id="4" name="contact-radio" value="I want to transport cats to/from clinics."> <label for="4">I can transport cats to/from clinics.</label><input type="radio" id="5" name="contact-radio" value="I'd like to help in other ways."> <label for="5">I'd like to help in other ways.</label>
 
 </p>
 

@@ -39,7 +39,7 @@ menu:
 
 <option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> </select></p>
 
-<p class="form-row" id="contact-radio">
+<p class="form-row" id="contact-radio" name="contact-radio">
 
 <p>If you selected "I want to volunteer!", Please choose one of the following:</p>
 
@@ -55,7 +55,7 @@ menu:
 
 <p>Please give as much detail as possible when requesting help, such as the number of cats/kittens in need, if any are pregnant or injured, and any challenges you suspect may have an impact on trapping.</p>
 
- <textarea name="message" id="contact-message" class="form-textarea" rows="4" placeholder="Enter your message" required></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
+<textarea name="message" id="contact-message" class="form-textarea" rows="4" placeholder="Enter your message" required></textarea> <span class="input-focus" aria-hidden="true" required></span> </p>
 
 <input type="hidden" name="form-name" value="contactForm" /> <p class="form-row form-submit">
 

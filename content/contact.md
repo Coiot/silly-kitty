@@ -25,20 +25,23 @@ menu:
 
 <p class="form-row">
 
-<select name="concern" id="concern">
-
 <label class="form-label" for="concern">Please choose one of the following:</label>
+
+<select name="concern" id="concern">
 
 <option value="I need help with a cat or cats in my neighborhood.">I need help with a cat or cats in my neighborhood.</option> <option value="I need advice, or more information.">I need advice, or more information.</option> <option value="I want to volunteer!">I want to volunteer!</option> </select></p>
 
 <p class="form-row">
 
-<input type="radio" id="demo-priority-low" name="demo-priority">
-<label for="demo-priority-low">Low</label>
+If you selected "I want to volunteer!", Please choose one of the following:
 
-<input type="radio" id="demo-priority-low" name="demo-priority" checked> <label for="demo-priority-low">Low</label>
+<input type="radio" id="1" name="demo-priority"> <label for="1">I want to foster.</label>
 
-<input type="radio" id="demo-priority-low" name="demo-priority"> <label for="demo-priority-low">Low</label>
+<input type="radio" id="2" name="demo-priority" checked> <label for="2">I want to trap.</label>
+
+<input type="radio" id="3" name="demo-priority"> <label for="3">I can transport cats to/from clinics.</label>
+
+<input type="radio" id="4" name="demo-priority"> <label for="4">I'd like to help in other ways.</label>
 
 </p>
 

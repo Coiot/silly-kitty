@@ -33,7 +33,9 @@ sections:
       style: style2
     description: Supporting cat colony caretakers and helping them gain the respect
       they so richly deserve for their difficult, thankless, expensive and compassionate
-      work.
+      work. We promote the adoption of long term care taker based solutions regarding
+      community cats. You can contact us by email at [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com).
+      If you wish to talk to someone, leave your phone number and a good time to call.
   - title: Spay/Neuter clinics
     icon:
       enabled: true

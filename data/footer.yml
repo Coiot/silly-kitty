@@ -6,7 +6,7 @@ about:
     by providing TNR training equipment & public education.
   actions:
   - label: Come Volunteer & Save Lives
-    url: "/volunteer"
+    url: "/about-us"
     is_primary: true
     is_scrolly: false
 contact_methods:

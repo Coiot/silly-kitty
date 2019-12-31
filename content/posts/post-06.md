@@ -43,9 +43,9 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <p class="form-row">
 
-<select name="size" id="size">
-
 <label class="form-label" for="size">Choose Size</label>
+
+<select name="size" id="size">
 
 <option value="Small">S</option> <option value="Medium">M</option> <option value="Large">L</option>  <option value="Extra Large">XL</option> </select></p>
 
@@ -59,9 +59,9 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <p class="form-row">
 
-<select name="shipping" id="shipping" required>
-
 <label class="form-label" for="shipping">Shipping or Pickup?</label>
+
+<select name="shipping" id="shipping" required>
 
 <option value="Please ship my order!">Please ship my order!</option> <option value="I'd like to pick up my order.">I'd like to pick up my order.</option></select></p>
 

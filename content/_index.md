@@ -31,9 +31,9 @@ sections:
       enabled: true
       icon: fa-medkit
       style: style2
-    description: We are open to anyone regardless of where you live or your income
-      level! This is the perfect opportunity to alter those neighborhood kitties that
-      just “hang around”, feral kitties, or your own much loved pet.
+    description: Open to anyone regardless of where you live or your income level!
+      This is the perfect opportunity to alter those neighborhood kitties that just
+      “hang around”, feral kitties, or your own much loved pet.
   - title: Trap Rentals
     icon:
       enabled: true

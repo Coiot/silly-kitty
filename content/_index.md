@@ -29,7 +29,7 @@ sections:
   - title: Spay/Neuter clinics
     icon:
       enabled: true
-      icon: fa-clinic-medical
+      icon: fa-medkit
       style: style2
     description: We are open to anyone regardless of where you live or your income
       level! This is the perfect opportunity to alter those neighborhood kitties that

@@ -29,7 +29,7 @@ contact_methods:
     template: contact_with_link
     title: Send us an Email
     icon: fa-envelope-o
-    text: nwacommunitycatproject@gmail.com
+    text: nwacommunitycatproject [at] gmail [dot] com
     url: mailto:nwacommunitycatproject@gmail.com
 copyright:
   enabled: true

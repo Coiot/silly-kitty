@@ -1,6 +1,8 @@
 ---
 title: Contact
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: We're always shifting through phone numbers as our team of volunteers changes,
+  so contacting us through email is the best way. You can [email us at our at address](mailto:nwacommunitycatproject@gmail.com)
+  or use the form below.
 content_img:
   enabled: false
   path: ''
@@ -35,15 +37,15 @@ menu:
 
 <label class="form-label" for="contact-radio">If you selected "I want to volunteer!", Please choose one of the following:</label>
 
-<input type="radio" id="0" name="contact-radio" checked> <label for="0">N/A.</label>
+<input type="radio" id="0" name="contact-radio" value="N/A" checked> <label for="0">N/A.</label>
 
-<input type="radio" id="1" name="contact-radio"> <label for="1">I want to foster.</label>
+<input type="radio" id="1" name="contact-radio" value="I want to foster."> <label for="1">I want to foster.</label>
 
-<input type="radio" id="2" name="contact-radio"> <label for="2">I want to trap.</label>
+<input type="radio" id="2" name="contact-radio" value="I want to trap."> <label for="2">I want to trap.</label>
 
-<input type="radio" id="3" name="contact-radio"> <label for="3">I can transport cats to/from clinics.</label>
+<input type="radio" id="3" name="contact-radio" value="I want to transport cats to/from clinics."> <label for="3">I can transport cats to/from clinics.</label>
 
-<input type="radio" id="4" name="contact-radio"> <label for="4">I'd like to help in other ways.</label>
+<input type="radio" id="4" name="contact-radio" value="I'd like to help in other ways."> <label for="4">I'd like to help in other ways.</label>
 
 </p>
 

@@ -9,7 +9,7 @@ banner:
     of community cats, ultimately decreasing their numbers in shelters and at large.
   actions:
   - label: Learn More!
-    url: "/about-us"
+    url: "/volunteer"
     is_primary: true
     is_scrolly: false
     is_huge: true

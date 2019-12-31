@@ -57,17 +57,13 @@ Just $20 each (*plus shipping, if applicable), these make GREAT gifts!  They al
 
 <option value="Burgundy/Red">Burgundy/Red</option> <option value="Purple">Purple</option> <option value="Turquoise">Turquoise</option> </select></p>
 
-<p class="form-row" id="shipping-radio">
+<p class="form-row">
 
-<label class="form-label" for="shipping-radio">Shipping or Pickup?</label>
+<select name="shipping" id="shipping" required>
 
-<p>Shipping or Pickup?</p>
+<label class="form-label" for="shipping">Shipping or Pickup?</label>
 
-<input type="radio" id="shipping-yes" name="shipping" value="Please ship my order!"> <label for="shipping-yes">Please ship my order!</label>
-
-<input type="radio" id="shipping-no" name="shipping" value="I'd like to pick up my order."> <label for="shipping-no">I'd like to pick up my order.</label>
-
-</select></p>
+<option value="Please ship my order!">Please ship my order!</option> <option value="I'd like to pick up my order.">I'd like to pick up my order.</option></select></p>
 
 <p class="form-row"> <label class="form-label" for="shirt-message">Message</label>
 

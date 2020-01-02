@@ -8,7 +8,7 @@ banner:
     support and legal protection to colony caretakers, facilitating the humane management
     of community cats, ultimately decreasing their numbers in shelters and at large.
   actions:
-  - label: Learn More!
+  - label: Lend a Paw!
     url: "/about-us"
     is_primary: true
     is_scrolly: false

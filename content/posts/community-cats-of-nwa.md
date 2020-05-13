@@ -1,7 +1,7 @@
 +++
 alt_img = "/images/13.jpg"
 date = 2019-12-30T06:11:00Z
-excerpt = "These are but a few of the cats we’ve assisted in our area. Come take a look!"
+excerpt = "![](/images/21.jpg)These are but a few of the cats we’ve assisted in our area. Come take a look!\n\n![](/images/output.jpg)![](/images/20200504_122008.jpg)![](/images/20200428_135857.jpg)![](/images/15.jpg)![](/images/25.jpeg)"
 layout = "page"
 show_in_home_posts = true
 show_in_sidebar = false

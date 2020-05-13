@@ -91,6 +91,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/cat-food-drive.md
 - content/posts/community-cats-of-nwa.md
 - content/posts/february-2018-update.md
 - content/posts/feral-faqs.md

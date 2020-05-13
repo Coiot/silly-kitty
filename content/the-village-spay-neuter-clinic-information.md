@@ -7,7 +7,7 @@ enabled = true
 path = "/images/FB_IMG_1572149396135.jpg"
 url = "#"
 [menu.main]
-name = ""
+name = "CLINIC INSTRUCTIONS"
 weight = 4
 [sidebar]
 enabled = false

@@ -6,6 +6,9 @@ title = "The Village Spay/Neuter Clinic Information"
 enabled = true
 path = "/images/FB_IMG_1572149396135.jpg"
 url = "#"
+[menu.main]
+name = ""
+weight = 4
 [sidebar]
 enabled = false
 side = "left"

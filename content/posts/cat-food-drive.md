@@ -9,8 +9,8 @@ subtitle = "![](/images/CAT FOOD DRIVE! (1).jpg)\n\nNWA Community Cat Project ne
 title = "Cat Food Drive"
 [content_img]
 alt = "#"
-enabled = false
-path = ""
+enabled = true
+path = "/images/CAT FOOD DRIVE! (1).jpg"
 [sidebar]
 enabled = false
 side = "left"

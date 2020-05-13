@@ -1,5 +1,5 @@
 +++
-alt_img = ""
+alt_img = "/images/CAT FOOD DRIVE! (1).jpg"
 date = 2020-04-13T05:00:00Z
 excerpt = ""
 layout = "page"

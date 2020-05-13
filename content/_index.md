@@ -50,7 +50,7 @@ sections:
     description: Supporting cat colony caretakers and helping them gain the respect
       they so richly deserve for their difficult, thankless, expensive and compassionate
       work. We promote the adoption of long term care taker based solutions regarding
-      community cats. You can [contact us by email](mailto:nwacommunitycatproject@gmail.com
+      community cats. You can [**contact us by email**](mailto:nwacommunitycatproject@gmail.com
       "Contact us through this email address."). If you wish to talk to someone, leave
       your phone number and a good time to call.
   component: features.html

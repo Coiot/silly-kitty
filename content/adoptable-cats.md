@@ -7,6 +7,8 @@ title = "Adoptable Cats"
 enabled = false
 path = ""
 url = ""
+[menu.footer]
+weight = 4
 [sidebar]
 enabled = true
 side = "right"

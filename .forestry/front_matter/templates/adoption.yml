@@ -38,3 +38,5 @@ fields:
   label: layout
   default: adoption
   hidden: true
+pages:
+- content/adoptable-cats.md

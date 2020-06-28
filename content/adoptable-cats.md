@@ -1,8 +1,15 @@
 +++
+add_cats = []
+form = ""
 layout = "adoption"
 subtitle = ""
 title = "Adoptable Cats"
-[sidebar]
+[content_img]
 enabled = false
-side = "left"
+path = ""
+url = ""
+[sidebar]
+enabled = true
+side = "right"
+
 +++

@@ -95,5 +95,6 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: name_of_cat
   label: Add Cats
+  description: 'Module to add new cats for adoption. '

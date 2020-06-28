@@ -2,7 +2,7 @@
 add_cats = []
 form = ""
 layout = "adoption"
-subtitle = ""
+subtitle = "Give a loving cat a new home! "
 title = "Adoptable Cats"
 [content_img]
 enabled = false

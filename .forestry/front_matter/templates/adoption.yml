@@ -2,19 +2,27 @@
 label: Adoption
 hide_body: true
 fields:
-- type: field_group
-  name: content_img
-  label: content_img
-  fields:
-  - type: text
-    name: url
-    label: url
-  - type: boolean
-    name: enabled
-    label: enabled
-  - type: text
-    name: path
-    label: path
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- name: cats
+  type: include
+  config: {}
+  template: cats
+  label: Cats
+- name: form
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Form
+  description: Adoption Form
 - type: field_group
   name: sidebar
   label: sidebar
@@ -28,9 +36,3 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: title
-  label: title
-- type: text
-  name: subtitle
-  label: subtitle

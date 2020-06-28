@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "adoption"
 subtitle = ""
 title = "Adoptable Cats"

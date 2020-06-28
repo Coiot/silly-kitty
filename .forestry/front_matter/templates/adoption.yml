@@ -2,6 +2,20 @@
 label: Adoption
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- name: cats
+  type: blocks
+  label: Cats
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Section to upload available cats for adoption.
 - type: field_group
   name: content_img
   label: content_img
@@ -28,9 +42,3 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: title
-  label: title
-- type: text
-  name: subtitle
-  label: subtitle

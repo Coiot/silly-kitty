@@ -36,3 +36,4 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: adoption

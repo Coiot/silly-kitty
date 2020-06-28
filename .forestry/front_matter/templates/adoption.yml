@@ -37,3 +37,4 @@ fields:
   name: layout
   label: layout
   default: adoption
+  hidden: true

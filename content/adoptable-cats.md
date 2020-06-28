@@ -1,6 +1,6 @@
 +++
 draft = true
-layout = "page"
+layout = "adoption"
 subtitle = ""
 title = "Adoptable Cats"
 [content_img]

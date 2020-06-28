@@ -17,6 +17,7 @@ sections:
   exclude: "{posts/**,_index.md,elements.md}"
   templates:
   - page
+  - adoption
 - type: directory
   path: content/posts
   label: Blog Posts

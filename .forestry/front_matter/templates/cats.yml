@@ -10,6 +10,7 @@ fields:
     config:
       required: false
     label: Name of Cat
+    default: 'Click to start adding a new cat. '
   - name: sex_of_cat
     type: select
     default: Female

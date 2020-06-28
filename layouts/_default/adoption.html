@@ -8,8 +8,24 @@
                 {{ partial "markdownify-block" .Params.subtitle }}
             </header>
             
-            <!-- Content -->
-                {{ .Params.cats }}
+             <div>
+                <ul class="features">
+                 {{ range $add := .Params.cats.add_cats }}
+                 <li>
+                    <p>{{ $add.name_of_cat }}</p>
+                    <p>{{ $add.sex_of_cat }}</p>
+                    <p>{{ $add.age_of_cat }}</p>
+                    <p>{{ $add.breed_of_cat }}</p>
+                    <p>{{ $add.sizw_of_cat }}</p>
+                    <p>{{ $add.weight_of_cat }}</p>
+                    <p>{{ $add.date_posted }}</p>
+                    <p>{{ $add.image_of_cat }}</p>
+                 </li>
+                {{ end }}
+                 </ul>
+            </div>
+            
+            <div>
                 {{ .Params.form }}
             </div>
             

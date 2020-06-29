@@ -92,9 +92,10 @@ fields:
     description: ''
     config:
       required: false
-      date_format: 
+      date_format: DD/MM/YYY
       time_format: 
       display_utc: false
+      export_format: MM/DD/YYY
     default: ''
   - name: image_of_cat
     type: file

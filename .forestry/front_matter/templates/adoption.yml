@@ -94,7 +94,7 @@ fields:
       required: false
       date_format: DD/MM/YYY
       time_format: 
-      display_utc: false
+      display_utc: true
       export_format: MM/DD/YYY
     default: ''
   - name: image_of_cat

@@ -10,35 +10,35 @@
             
              <div class="inner">
                  {{ if .Params.cats }}
-                <ul class="features">
+                <ul class="features" style="display:flex">
                  {{ range $cat := .Params.cats }}
-                 <li>
+                 <li style="flex-direction:row">
                      <div>
-                    <h3>Name:</h3>
+                    Name:
                     {{ $cat.name_of_cat }}
                      </div>
                      <div>
-                     <h3>Sex:</h3>
+                     Sex:
                     {{ $cat.sex_of_cat }}
                      </div>
                      <div>
-                     <h3>Age:</h3>
+                     Age:
                    {{ $cat.age_of_cat }}
                      </div>
                      <div>
-                     <h3>Breed:</h3>
+                     Breed:
                    {{ $cat.breed_of_cat }}
                      </div>
                      <div>
-                     <h3>Size:</h3>
+                     Size:
                     {{ $cat.size_of_cat }}
                      </div>
                      <div>
-                     <h3>Weight:</h3>
+                     Weight:
                     {{ $cat.weight_of_cat }}
                      </div>
                      <div>
-                     <h3>For adoption since:</h3>
+                     For adoption since:
                     {{ $cat.date_posted }}
                      </div>
                  </li>

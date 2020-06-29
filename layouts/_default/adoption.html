@@ -10,16 +10,16 @@
             
              <div>
                 <ul class="features">
-                 {{ range $add := .cats.add_cats }}
+                 {{ range $cat := .cats }}
                  <li>
-                    <p>{{ $add.name_of_cat }}</p>
-                    <p>{{ $add.sex_of_cat }}</p>
-                    <p>{{ $add.age_of_cat }}</p>
-                    <p>{{ $add.breed_of_cat }}</p>
-                    <p>{{ $add.sizw_of_cat }}</p>
-                    <p>{{ $add.weight_of_cat }}</p>
-                    <p>{{ $add.date_posted }}</p>
-                    <p>{{ $add.image_of_cat }}</p>
+                    <p>{{ $cat.name_of_cat }}</p>
+                    <p>{{ $cat.sex_of_cat }}</p>
+                    <p>{{ $cat.age_of_cat }}</p>
+                    <p>{{ $cat.breed_of_cat }}</p>
+                    <p>{{ $cat.sizw_of_cat }}</p>
+                    <p>{{ $cat.weight_of_cat }}</p>
+                    <p>{{ $cat.date_posted }}</p>
+                    <p>{{ $cat.image_of_cat }}</p>
                  </li>
                 {{ end }}
                  </ul>

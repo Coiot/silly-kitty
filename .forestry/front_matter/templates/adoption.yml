@@ -9,7 +9,7 @@ fields:
   name: subtitle
   label: subtitle
 - name: cats
-  label: Add Cats
+  label: Cats
   hide_body: true
   type: field_group_list
   fields:
@@ -95,6 +95,7 @@ fields:
     min: 
     max: 
     labelField: 
+  description: Module to add cats up for adoption.
 - name: form
   type: textarea
   default: ''

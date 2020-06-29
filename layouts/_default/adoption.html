@@ -9,26 +9,42 @@
             </header>
             
              <div class="inner">
+                 {{ if .Params.cats }}
                 <ul class="features">
                  {{ range $cat := .Params.cats }}
                  <li>
+                     <div>
                     <h3>Name:</h3>
                     {{ $cat.name_of_cat }}
+                     </div>
+                     <div>
                      <h3>Sex:</h3>
                     {{ $cat.sex_of_cat }}
+                     </div>
+                     <div>
                      <h3>Age:</h3>
                    {{ $cat.age_of_cat }}
+                     </div>
+                     <div>
                      <h3>Breed:</h3>
                    {{ $cat.breed_of_cat }}
+                     </div>
+                     <div>
                      <h3>Size:</h3>
                     {{ $cat.size_of_cat }}
+                     </div>
+                     <div>
                      <h3>Weight:</h3>
                     {{ $cat.weight_of_cat }}
+                     </div>
+                     <div>
                      <h3>For adoption since:</h3>
                     {{ $cat.date_posted }}
+                     </div>
                  </li>
                     {{ end }}
                  </ul>
+                  {{ end }}
             </div>
             
             <div>

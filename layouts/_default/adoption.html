@@ -10,36 +10,36 @@
             
              <div class="inner">
                  {{ if .Params.cats }}
-                <ul class="features" style="display:flex">
+                <ul class="features" style="display:flex; flex-flow: column">
                  {{ range $cat := .Params.cats }}
-                 <li style="flex-direction:row">
+                 <li style="flex-direction:column;">
                      <div>
-                    Name:
+                   <strong>Name:</strong>
                     {{ $cat.name_of_cat }}
                      </div>
                      <div>
-                     Sex:
+                     <strong>Sex:</strong>
                     {{ $cat.sex_of_cat }}
                      </div>
                      <div>
-                     Age:
+                     <strong>Age:</strong>
                    {{ $cat.age_of_cat }}
                      </div>
                      <div>
-                     Breed:
+                     <strong>Breed:</strong>
                    {{ $cat.breed_of_cat }}
                      </div>
                      <div>
-                     Size:
+                     <strong>Size:</strong>
                     {{ $cat.size_of_cat }}
                      </div>
                      <div>
-                     Weight:
+                     <strong>Weight:</strong>
                     {{ $cat.weight_of_cat }}
                      </div>
                      <div>
-                     For adoption since:
-                    {{ $cat.date_posted }}
+                         <strong>For adoption since:</strong>
+                    {{ $cat.date_posted | date_to_long_string }}
                      </div>
                  </li>
                     {{ end }}

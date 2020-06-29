@@ -1,5 +1,5 @@
 +++
-form = "<p>To complete the adoption process, download our application form.</p><p class=\"p1\">Please send the finished application form to &lt;a href=\"<a href=\"mailto:nwacommunitycatproject@gmail.com?subject=Adoption\">mailto:nwacommunitycatproject@gmail.com?subject=Adoption</a><a href=\"mailto:nwacommunitycatproject@gmail.com?subject=Adoption%20Process\"> Process</a>”&gt;our email address&lt;/a&gt;. Application completion does not constitute adoption approval. Stay in contact with us to know if you have been approved and if the cat is ready.</p>"
+form = "<p>To complete the adoption process, download our application form.</p><p class=\"p1\">Please send the finished application form to <a href=\"mailto:nwacommunitycatproject@gmail.com?subject=Adoption Process\" title=\"\">our email address</a>. Application completion does not constitute adoption approval. Stay in contact with us to know if you have been approved and if the cat is ready.</p><p>If you have a cat you are in need to put up for emergency adoption, please contact us at <a href=\"mailto:nwacommunitycatproject@gmail.com?subject=Emergency Adoption\" title=\"\">our email address</a> to receive proper care first.</p>"
 layout = "adoption"
 subtitle = "Give a loving cat a new home! "
 title = "Adoptable Cats"

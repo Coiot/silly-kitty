@@ -18,6 +18,7 @@ fields:
     config:
       required: false
     label: Name of Cat
+    default: Click to add details.
   - name: sex_of_cat
     type: select
     default: Female

@@ -1,5 +1,5 @@
 +++
-form = "<p>Form Test</p>"
+form = "<p>To complete the adoption process, download our application form.</p><p class=\"p1\">Please send the finished application form to &lt;a href=\"<a href=\"mailto:nwacommunitycatproject@gmail.com?subject=Adoption\">mailto:nwacommunitycatproject@gmail.com?subject=Adoption</a><a href=\"mailto:nwacommunitycatproject@gmail.com?subject=Adoption%20Process\"> Process</a>”&gt;our email address&lt;/a&gt;. Application completion does not constitute adoption approval. Stay in contact with us to know if you have been approved and if the cat is ready.</p>"
 layout = "adoption"
 subtitle = "Give a loving cat a new home! "
 title = "Adoptable Cats"

@@ -12,6 +12,7 @@
                  {{ if .Params.cats }}
                   <h3>Cats ready for adoption.</h3>
                  <p>Below are cats in our network currently ready for adoption.</p> 
+                 <hr />
                 <ul class="features" style="display:flex; flex-flow: column">
                  {{ range $cat := .Params.cats }}
                  <li style="flex-direction:column;">
@@ -45,11 +46,13 @@
                  </li>
                     {{ end }}
                  </ul>
+                                 <hr />
+                 <p>If there is a cat you are interested above, please contact us at <a href="mailto:nwacommunitycatproject@gmail.com?subject:Adoption"our email address</a> to check to see if the cat is still available. This website is typically updated a day after each adoption, so it is good to recieve a confirmaton before filling out the adoption form.</p>
                  {{ else }}
                  <h3>No cats currently for adoption.</h3>
-                 <p>Check back on this page periodically for which cats we have ready for adoption.</p> 
+                 <p>It seems we have connected all our cats with a new family. Check back on this page periodically to see if we have any cats that are ready for adoption.</p> 
+                 <p>If you have a cat you are in need to put up for adoption, please contact us at <a href="mailto:nwacommunitycatproject@gmail.com?subject:Adoption"our email address</a> to see if we can add them to our website.</p>
                   {{ end }}
-                 <hr />
                  {{ .Params.form }}
             </div>
             

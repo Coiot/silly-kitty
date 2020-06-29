@@ -52,7 +52,7 @@
                  <h3>No cats currently for adoption.</h3>
                  <p>It seems we have connected all our cats with a new family. Check back on this page periodically to know if we have any cats that are ready for adoption.</p> 
                   {{ end }}
-                 {{ .Params.form }}
+                 {{ partial "markdownify-block" .Params.form }}
             </div>
             
             {{ if .Params.sidebar.enabled }}

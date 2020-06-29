@@ -1,18 +1,21 @@
 {{ define "content" }}
 
     <!-- Main -->
-    <section id="main" class="wrapper">
+    <section id="main" class="wrapper{{ if .Params.sidebar.enabled }} sidebar {{ .Params.sidebar.side }}{{ end }}">
         <div class="inner">
             <header class="major">
                 <h2>{{ .Title }}</h2>
                 {{ partial "markdownify-block" .Params.subtitle }}
             </header>
             
-             <div class="inner">
+             <div class="content">
                  {{ if .Params.cats }}
                 <ul class="features" style="display:flex; flex-flow: column">
                  {{ range $cat := .Params.cats }}
                  <li style="flex-direction:column;">
+                     <div>
+                         <img class="contentimg" src="{{ .Params.$cat.image_of_cat.path | relURL }}" alt="{{ .Params.$cat.name_of_cat }}" />
+                     </div>
                      <div>
                    <strong>Name:</strong>
                     {{ $cat.name_of_cat }}
@@ -43,7 +46,7 @@
                   {{ end }}
             </div>
             
-            <div class="inner">
+            <div class="content">
                 {{ .Params.form }}
             </div>
             

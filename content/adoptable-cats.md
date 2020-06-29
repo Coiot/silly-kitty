@@ -30,5 +30,14 @@ name_of_cat = "Bubs"
 sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Thin"
+[[cats]]
+age_of_cat = "Kitten"
+breed_of_cat = "American Shorthair"
+date_posted = "2020-06-28T05:00:00+00:00"
+image_of_cat = ""
+name_of_cat = "Hamiltion"
+sex_of_cat = "Male"
+size_of_cat = "Small"
+weight_of_cat = "Thin"
 
 +++

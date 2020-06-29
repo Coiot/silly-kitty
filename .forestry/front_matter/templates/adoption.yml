@@ -9,7 +9,7 @@ fields:
   name: subtitle
   label: subtitle
 - name: cats
-  label: Cats
+  label: Add Cats
   hide_body: true
   type: field_group_list
   fields:
@@ -104,7 +104,6 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Add Cats
 - name: form
   type: textarea
   default: ''

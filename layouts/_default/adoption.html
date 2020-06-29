@@ -10,6 +10,8 @@
             
              <div class="content">
                  {{ if .Params.cats }}
+                  <h3>Cats ready for adoption.</h3>
+                 <p>Below are cats in our network currently ready for adoption.</p> 
                 <ul class="features" style="display:flex; flex-flow: column">
                  {{ range $cat := .Params.cats }}
                  <li style="flex-direction:column;">
@@ -43,11 +45,12 @@
                  </li>
                     {{ end }}
                  </ul>
+                 {{ else }}
+                 <h3>No cats currently for adoption.</h3>
+                 <p>Check back on this page periodically for which cats we have ready for adoption.</p> 
                   {{ end }}
-            </div>
-            
-            <div class="content">
-                {{ .Params.form }}
+                 <hr />
+                 {{ .Params.form }}
             </div>
             
             {{ if .Params.sidebar.enabled }}

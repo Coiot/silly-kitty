@@ -14,7 +14,7 @@
                  {{ range $cat := .Params.cats }}
                  <li style="flex-direction:column;">
                      <div>
-                         <img class="contentimg" src="{{ .Params.$cat.image_of_cat.path | relURL }}" alt="{{ .Params.$cat.name_of_cat }}" />
+                         <img class="contentimg" src="{{ .Params.$cat.image_of_cat | relURL }}" alt="{{ .Params.$cat.name_of_cat }}" />
                      </div>
                      <div>
                    <strong>Name:</strong>

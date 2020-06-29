@@ -86,17 +86,6 @@ fields:
         file: 
         path: 
     label: Weight of Cat
-  - name: date_posted
-    type: datetime
-    label: Date Posted
-    description: ''
-    config:
-      required: false
-      date_format: DD/MM/YYY
-      time_format: 
-      display_utc: true
-      export_format: MM/DD/YYY
-    default: ''
   - name: image_of_cat
     type: file
     config:

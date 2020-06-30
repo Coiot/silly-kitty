@@ -10,6 +10,8 @@ path = ""
 url = ""
 [menu.footer]
 weight = 4
+[menu.main]
+weight = 5
 [sidebar]
 enabled = true
 side = "right"

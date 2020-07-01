@@ -43,7 +43,7 @@ weight_of_cat = ""
 [[cats]]
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
-image_of_cat = "/images/20200622_125540.jpg"
+image_of_cat = "/images/20200630_082743.jpg"
 name_of_cat = "Sweet Pea"
 sex_of_cat = "Female"
 size_of_cat = ""

@@ -37,7 +37,7 @@ age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/20200701_101522.jpg"
 name_of_cat = "Obi & Quincy - Bonded, shy but sweet! "
-sex_of_cat = "Female"
+sex_of_cat = "Male"
 size_of_cat = ""
 weight_of_cat = ""
 [[cats]]

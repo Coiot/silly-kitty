@@ -227,7 +227,7 @@
 		}
 	}
 
-	@include breakpoint('<=small') {
+	@include breakpoint('<=medium') {
 		#header {
 			height: 3em !important;
 			line-height: 2.95em !important;

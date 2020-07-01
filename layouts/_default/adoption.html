@@ -22,10 +22,12 @@
                      <div>
                          <img class="contentimg" src="{{ $cat.image_of_cat }}" style="width:400px;max-height:300px;object-fit:cover;" alt="Picture of {{ $cat.name_of_cat }}" />
                      </div>
+                     {{ if $cat.name_of_cat }}
                      <div>
                    <strong>Name:</strong>
                     {{ $cat.name_of_cat }}
                      </div>
+                     {{ end }}
                      <div>
                      <strong>Sex:</strong>
                     {{ $cat.sex_of_cat }}
@@ -38,13 +40,20 @@
                      <strong>Breed:</strong>
                    {{ $cat.breed_of_cat }}
                      </div>
+                     {{ if $cat.size_of_cat }}
                      <div>
                      <strong>Size:</strong>
                     {{ $cat.size_of_cat }}
                      </div>
+                     {{ end }}
                      <div>
+                    {{ if $cat.weight_of_cat }}
                      <strong>Weight:</strong>
                     {{ $cat.weight_of_cat }}
+                     </div>
+                     {{ end }}
+                      <strongAdoption Fee:</strong>
+                    {{ $cat.adoption_fee }}
                      </div>
                  </li>
                     {{ end }}

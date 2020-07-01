@@ -35,10 +35,18 @@ weight_of_cat = "Thin"
 [[cats]]
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
+image_of_cat = "/images/fb_img_1593569228049.jpg"
+name_of_cat = "Hermione"
+sex_of_cat = "Female"
+size_of_cat = "Medium"
+weight_of_cat = "Ideal / Average"
+[[cats]]
+age_of_cat = "Kitten"
+breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/fb_img_1593567562440.jpg"
 name_of_cat = "Harry"
 sex_of_cat = "Male"
-size_of_cat = ""
-weight_of_cat = ""
+size_of_cat = "Medium"
+weight_of_cat = "Ideal / Average"
 
 +++

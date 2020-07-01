@@ -93,6 +93,17 @@ fields:
     config:
       maxSize: 64
     label: Image of Cat
+  - name: adoption_fee
+    type: number
+    label: Adoption Fee
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+      required: true
   config:
     min: 
     max: 

@@ -54,10 +54,10 @@
                      {{ end }}
                      <div>
                       <strong>Adoption Fee:</strong>
-                      {{ if (eq $cat.adoption_fee "0") }}
+                      {{ if eq $cat.adoption_fee 0 }}
                         TBD. Contact us for an update. 
                       {{ else }}
-                        $ {{ $cat.adoption_fee }}
+                        ${{ $cat.adoption_fee }}
                       {{ end }}
                      </div>
                     

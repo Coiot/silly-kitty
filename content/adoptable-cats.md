@@ -33,7 +33,7 @@ sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Thin"
 [[cats]]
-adoption_fee = 0
+adoption_fee = nil
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/27142115374776.jpeg"
@@ -105,7 +105,7 @@ sex_of_cat = "Female"
 size_of_cat = ""
 weight_of_cat = ""
 [[cats]]
-adoption_fee = 0
+adoption_fee = nil
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/fb_img_1593570175639.jpg"
@@ -114,7 +114,7 @@ sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Ideal / Average"
 [[cats]]
-adoption_fee = 0
+adoption_fee = nil
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/fb_img_1593569228049.jpg"
@@ -123,7 +123,7 @@ sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Ideal / Average"
 [[cats]]
-adoption_fee = 0
+adoption_fee = nil
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/fb_img_1593567562440.jpg"

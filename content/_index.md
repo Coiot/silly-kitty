@@ -39,9 +39,9 @@ sections:
       enabled: true
       icon: fa-unlock-alt
       style: style2
-    description: We have free trap rentals ( with a necessary deposit that is fully
-      refunded) and advice on how to use them for any residents wishing to spay/neuter
-      community cats.
+    description: We have free trap rentals ( with a $75 deposit that is fully refunded)
+      and advice on how to use them for any residents wishing to spay/neuter community
+      cats.  To request assistance, email us at nwacommunitycatproject.org
   - title: Support Network
     icon:
       enabled: true

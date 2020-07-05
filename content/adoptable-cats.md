@@ -33,6 +33,15 @@ sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Thin"
 [[cats]]
+adoption_fee = 45
+age_of_cat = "Adult"
+breed_of_cat = "Domestic Shorthair, 11 months old.  Would prefer to be the only cat. "
+image_of_cat = "/images/carrot.jpg"
+name_of_cat = "Carrot"
+sex_of_cat = "Male"
+size_of_cat = "Medium"
+weight_of_cat = "Ideal / Average"
+[[cats]]
 adoption_fee = 15
 age_of_cat = "Adult"
 breed_of_cat = "Domestic Shorthair, 4 years old.  FIV+, would prefer to be an only cat."

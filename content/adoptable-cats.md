@@ -42,7 +42,7 @@ sex_of_cat = "Female"
 size_of_cat = ""
 weight_of_cat = ""
 [[cats]]
-adoption_fee = 45
+adoption_fee = 60
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/27142074756300.jpeg"

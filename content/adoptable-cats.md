@@ -64,8 +64,8 @@ adoption_fee = 60
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/27142075216457.jpeg"
-name_of_cat = "Juna"
-sex_of_cat = "Female"
+name_of_cat = "Juno"
+sex_of_cat = "Male"
 size_of_cat = ""
 weight_of_cat = ""
 [[cats]]

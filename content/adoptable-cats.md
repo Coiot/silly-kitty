@@ -33,6 +33,15 @@ sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Thin"
 [[cats]]
+adoption_fee = 60
+age_of_cat = "Kitten"
+breed_of_cat = "Domestic Shorthair"
+image_of_cat = "/images/27142074673520.jpeg"
+name_of_cat = "Meredith"
+sex_of_cat = "Female"
+size_of_cat = ""
+weight_of_cat = ""
+[[cats]]
 adoption_fee = 45
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"

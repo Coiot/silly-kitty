@@ -35,6 +35,15 @@ weight_of_cat = "Thin"
 [[cats]]
 adoption_fee = 45
 age_of_cat = "Adult"
+breed_of_cat = "Domestic Mediumhair, Very social with other kitties!"
+image_of_cat = "/images/nannette.jpg"
+name_of_cat = "Nannette"
+sex_of_cat = "Female"
+size_of_cat = "Medium"
+weight_of_cat = "Ideal / Average"
+[[cats]]
+adoption_fee = 45
+age_of_cat = "Adult"
 breed_of_cat = "Domestic Shorthair, 11 months old.  Would prefer to be the only cat. "
 image_of_cat = "/images/carrot.jpg"
 name_of_cat = "Carrot"

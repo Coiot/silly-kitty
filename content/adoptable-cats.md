@@ -204,7 +204,7 @@ sex_of_cat = "Male"
 size_of_cat = "Medium"
 weight_of_cat = "Ideal / Average"
 [[cats]]
-adoption_fee = 60
+adoption_fee = 75
 age_of_cat = "Adult"
 breed_of_cat = "Lynx Point Siamese, Medium Hair"
 image_of_cat = "/images/20200701_102403.jpg"

@@ -102,6 +102,11 @@ fields:
       max: 
       step: 
       required: false
+  - name: notes
+    type: text
+    config:
+      required: false
+    label: Additional Notes
   config:
     min: 
     max: 

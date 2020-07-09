@@ -52,6 +52,12 @@
                     {{ $cat.weight_of_cat }}
                      </div>
                      {{ end }}
+                     {{ if $cat.notes }}
+                     <div>
+                     <strong>Additonal Notes:</strong>
+                    {{ $cat.notes }}
+                     </div>
+                     {{ end }}
                      <div>
                       <strong>Adoption Fee:</strong>
                       {{ if eq $cat.adoption_fee 0 }}

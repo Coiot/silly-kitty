@@ -4,7 +4,7 @@ subtitle = ""
 title = "The Village Spay/Neuter Clinic Information"
 [content_img]
 enabled = true
-path = "/images/FB_IMG_1572149396135.jpg"
+path = "/images/img_0215.jpg"
 url = "#"
 [menu.main]
 name = "Clinic Instructions"
@@ -53,6 +53,8 @@ Optional Services:
 * $20 FIV/FeLV test
 
 We are open to anyone regardless of where you live or your income level!
+
+![](/images/img_0215.jpg)
 
 **Location:**
 

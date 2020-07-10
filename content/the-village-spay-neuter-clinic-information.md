@@ -4,7 +4,7 @@ subtitle = ""
 title = "The Village Spay/Neuter Clinic Information"
 [content_img]
 enabled = true
-path = "/images/img_0215.jpg"
+path = "/images/img_0216.jpg"
 url = "#"
 [menu.main]
 name = "Clinic Instructions"

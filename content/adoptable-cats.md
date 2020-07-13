@@ -75,10 +75,10 @@ weight_of_cat = ""
 [[cats]]
 adoption_fee = 15
 age_of_cat = "Adult"
-breed_of_cat = "Domestic Shorthair, 4 years old.  FIV+, would prefer to be an only cat."
+breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/oliver1.jpg"
 name_of_cat = "Oliver"
-notes = ""
+notes = "4 years old. FIV+, would prefer to be an only cat."
 sex_of_cat = "Male"
 size_of_cat = "Large"
 weight_of_cat = "Ideal / Average"

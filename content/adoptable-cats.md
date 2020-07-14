@@ -33,6 +33,16 @@ sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Thin"
 [[cats]]
+adoption_fee = 100
+age_of_cat = "Adult"
+breed_of_cat = "Domestic Shorthair, 2 years old"
+image_of_cat = "/images/ek_marigold-img_9359.jpg"
+name_of_cat = "Marigold"
+notes = "Marigold is approximately 2yrs old, and fully vetted.  (Spayed, microchipped, vaccinated, tested negative for FIV/FeLV, dewormed), and she is litter box trained. She is a super sweet girl and a very good Momma. She is a little shy at first but when you sit down she will hang out with you and just want all the luvins she can get!"
+sex_of_cat = "Female"
+size_of_cat = "Medium"
+weight_of_cat = "Ideal / Average"
+[[cats]]
 adoption_fee = 60
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"

@@ -34,6 +34,16 @@ size_of_cat = "Medium"
 weight_of_cat = "Thin"
 [[cats]]
 adoption_fee = 100
+age_of_cat = "Kitten"
+breed_of_cat = "Domestic Shorthair"
+image_of_cat = "/images/ek_benji_img_9574.HEIC"
+name_of_cat = "Benji"
+notes = "2 months old, dewormed and litter box trained.  They will be fully vetted before adoption, but we will gladly pre-adopt them to the right home!  Very bonded with his littermate Blossom, would like for them to be adopted together if possible."
+sex_of_cat = "Male"
+size_of_cat = ""
+weight_of_cat = "Ideal / Average"
+[[cats]]
+adoption_fee = 100
 age_of_cat = "Adult"
 breed_of_cat = "Domestic Shorthair, 2 years old"
 image_of_cat = "/images/ek_marigold-img_9359.jpg"

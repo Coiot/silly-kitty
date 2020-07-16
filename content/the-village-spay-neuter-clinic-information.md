@@ -16,7 +16,7 @@ side = "left"
 +++
 In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-monthly low cost spay/neuter clinics for cats.
 
-At this time, this page is strictly informative for scheduled participants for the **SATURDAY, JULY 11, 2020** clinic date.
+At this time, this page is strictly informative for scheduled participants for the **SUNDAY, JULY 19, 2020** clinic date.
 
 **BASIC INSTRUCTIONS**:
 
@@ -26,7 +26,8 @@ At this time, this page is strictly informative for scheduled participants for t
 * NO fabric or blankets in the carriers, only newspaper (or wee pads) please.
 * No food or water after midnight the night before surgery.
 * PLEASE place a label on each carrier with your name, your cat's name, and your phone number.  Taping a card or paper note with this info on the carrier works well.
-* Payment isn't due until pickup, cash or check only (NO cards, sorry).
+* Payment isn't due until pick-up, cash or check only (NO cards, sorry).
+* Pick-up times can vary.  A volunteer will text you once your cat(s) are awake enough for discharge. 
 
 **COVID-19 PRECAUTIONS:**
 

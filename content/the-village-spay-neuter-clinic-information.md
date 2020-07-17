@@ -27,7 +27,7 @@ At this time, this page is strictly informative for scheduled participants for t
 * No food or water after midnight the night before surgery.
 * PLEASE place a label on each carrier with your name, your cat's name, and your phone number.  Taping a card or paper note with this info on the carrier works well.
 * Payment isn't due until pick-up, cash or check only (NO cards, sorry).
-* Pick-up times can vary.  A volunteer will text you once your cat(s) are awake enough for discharge. 
+* Pick-up times can vary.  **A volunteer will text you once your cat(s) are awake enough for discharge.** 
 
 **COVID-19 PRECAUTIONS:**
 
@@ -39,7 +39,7 @@ At this time, this page is strictly informative for scheduled participants for t
 
 Upon reading the above instructions, please reply "**Yes**" to the text message you received, which indicates you have read the above information and agree.
 
-Once you reply, you will receive your scheduled dropoff time in a response text WITHIN 48 HOURS.  (We will "stagger" dropoff times from 7:30 am to 10:30 am in the order we schedule each family).
+**Once you reply, you will receive your scheduled dropoff time in a response text WITHIN 24 HOURS.**  (We will "stagger" dropoff times from 7:30 am to 10:30 am in the order we schedule each family).
 
 **COSTS:**
 

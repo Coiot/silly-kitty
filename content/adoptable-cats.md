@@ -34,41 +34,11 @@ size_of_cat = "Medium"
 weight_of_cat = "Thin"
 [[cats]]
 adoption_fee = 100
-age_of_cat = "Kitten"
-breed_of_cat = "Domestic Shorthair"
-image_of_cat = "/images/20200714_085140.png"
-name_of_cat = "Benji"
-notes = "(Benji is on the left) ~ 2 months old, dewormed and litter box trained.  He will be fully vetted before adoption, but we will gladly pre-adopt to the right home!  Very bonded with his littermate Blossom, would like for them to be adopted together if possible."
-sex_of_cat = "Male"
-size_of_cat = ""
-weight_of_cat = "Ideal / Average"
-[[cats]]
-adoption_fee = 100
-age_of_cat = "Kitten"
-breed_of_cat = "Domestic Shorthair"
-image_of_cat = "/images/ek_blossom_img_9511.jpg"
-name_of_cat = "Blossom"
-notes = "2 months old, dewormed and litter box trained.  They will be fully vetted before adoption, but we will gladly pre-adopt them to the right home!  Blossom is very active and loves to play. She was the first one to be curious about exploring the rest of the house. She's very inquisitive, and definitely the leader of her group! :) She & Benji tend to sleep and play more together so it would be great if they got a home together, but of course could be adopted individually as well.  We will offer an adoption discount for them if a family would like to adopt them together."
-sex_of_cat = "Female"
-size_of_cat = ""
-weight_of_cat = "Ideal / Average"
-[[cats]]
-adoption_fee = 100
-age_of_cat = "Kitten"
-breed_of_cat = "Domestic Shorthair"
-image_of_cat = "/images/ek_bo_littlesimg_9783.jpg"
-name_of_cat = "Bo"
-notes = "Bo is the larger kitten on the right.  2 months old, dewormed and litter box trained.  He will be fully vetted before adoption, but we will gladly pre-adop to the right home!"
-sex_of_cat = "Male"
-size_of_cat = ""
-weight_of_cat = "Ideal / Average"
-[[cats]]
-adoption_fee = 100
 age_of_cat = "Adult"
 breed_of_cat = "Domestic Shorthair, 2 years old"
 image_of_cat = "/images/ek_marigold-img_9359.jpg"
-name_of_cat = "Marigold"
-notes = "Marigold is approximately 2yrs old, and fully vetted.  (Spayed, microchipped, vaccinated, tested negative for FIV/FeLV, dewormed), and she is litter box trained. She is a super sweet girl and a very good Momma. She is a little shy at first but when you sit down she will hang out with you and just want all the luvins she can get!"
+name_of_cat = "Marigold (Courtesy Post, Email us for more information)."
+notes = "Marigold is approximately 2yrs old, and fully vetted.  (Spayed, microchipped, vaccinated, tested negative for FIV/FeLV, dewormed), and she is litter box trained. She is a super sweet girl and a very good Momma. She is a little shy at first but when you sit down she will hang out with you and just want all the luvins she can get!  Marigold is NOT an NWACCP kitty.  If you would like to know more about her, send us an email and we will have her foster Mom contact you."
 sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Ideal / Average"

@@ -43,7 +43,7 @@ sex_of_cat = "Male"
 size_of_cat = ""
 weight_of_cat = "Ideal / Average"
 [[cats]]
-adoption_fee = nil
+adoption_fee = 60
 age_of_cat = "Adult"
 breed_of_cat = "Domestic Mediumhair"
 image_of_cat = "/images/my_jelly.jpg"

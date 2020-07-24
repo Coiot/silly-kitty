@@ -36,6 +36,16 @@ weight_of_cat = "Thin"
 adoption_fee = nil
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
+image_of_cat = "/images/my_ginger.jpg"
+name_of_cat = "Ginger"
+notes = "COURTESTY POST - Not an NWACCP Foster.  Ginger is a male who plays well with others. For more information, or to arrange a meet & greet, please contact Michelle at 479-435-3174"
+sex_of_cat = "Male"
+size_of_cat = ""
+weight_of_cat = "Ideal / Average"
+[[cats]]
+adoption_fee = nil
+age_of_cat = "Kitten"
+breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/my_max.jpg"
 name_of_cat = "Max"
 notes = "COURTESY POST, Not an NWACCP Foster.  Max is a female who loves to play with other cats and dogs. For more information, or to arrange a meet & greet, please contact Michelle at 479-435-3174"

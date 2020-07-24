@@ -35,6 +35,16 @@ weight_of_cat = "Thin"
 [[cats]]
 adoption_fee = nil
 age_of_cat = "Kitten"
+breed_of_cat = "Domestic Mediumhair"
+image_of_cat = "/images/my_charlie.jpg"
+name_of_cat = "Charlie"
+notes = "COURTESY POST - Not an NWACCP Foster. Charlie is a male who is on the larger size who loves to sleep more than anything!    For more information, or to arrange a meet & greet, please contact Michelle at 479-435-3174"
+sex_of_cat = "Male"
+size_of_cat = "Large"
+weight_of_cat = "Ideal / Average"
+[[cats]]
+adoption_fee = nil
+age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/my_ittybitty.jpg"
 name_of_cat = "Itty Bitty"

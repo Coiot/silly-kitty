@@ -35,6 +35,16 @@ weight_of_cat = "Thin"
 [[cats]]
 adoption_fee = nil
 age_of_cat = "Kitten"
+breed_of_cat = "Domestic Shorthair"
+image_of_cat = "/images/my_bugsy.jpg"
+name_of_cat = "Bugsy"
+notes = "COURTESY POST - Not an NWACCP Foster. Bugsy is a female who loves attention.  If you want a snuggle kitty, this is the girl for you!     For more information, or to arrange a meet & greet, please contact Michelle at 479-435-3174"
+sex_of_cat = "Female"
+size_of_cat = ""
+weight_of_cat = "Ideal / Average"
+[[cats]]
+adoption_fee = nil
+age_of_cat = "Kitten"
 breed_of_cat = "Domestic Mediumhair"
 image_of_cat = "/images/my_charlie.jpg"
 name_of_cat = "Charlie"

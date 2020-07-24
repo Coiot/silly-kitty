@@ -34,6 +34,16 @@ size_of_cat = "Medium"
 weight_of_cat = "Thin"
 [[cats]]
 adoption_fee = nil
+age_of_cat = "Adult"
+breed_of_cat = "Domestic Mediumhair"
+image_of_cat = "/images/my_jelly.jpg"
+name_of_cat = "Jelly"
+notes = "COURTESY POST - Not an NWACCP Foster. Jelly is an amazing female who loves coming when you call her and loving on you.  If you want a constant, loyal companion, here's your chance!    For more information, or to arrange a meet & greet, please contact Michelle at 479-435-3174"
+sex_of_cat = "Female"
+size_of_cat = ""
+weight_of_cat = "Ideal / Average"
+[[cats]]
+adoption_fee = nil
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/my_bugsy.jpg"

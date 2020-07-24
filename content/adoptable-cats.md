@@ -36,6 +36,16 @@ weight_of_cat = "Thin"
 adoption_fee = nil
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"
+image_of_cat = "/images/my_ittybitty.jpg"
+name_of_cat = "Itty Bitty"
+notes = "COURTESY POST - Not an NWACCP Foster.  Itty Bitty is a female who is shy, but plays well with others.  For more information, or to arrange a meet & greet, please contact Michelle at 479-435-3174"
+sex_of_cat = "Female"
+size_of_cat = ""
+weight_of_cat = "Ideal / Average"
+[[cats]]
+adoption_fee = nil
+age_of_cat = "Kitten"
+breed_of_cat = "Domestic Shorthair"
 image_of_cat = "/images/my_garfield.jpg"
 name_of_cat = "Garfield"
 notes = "COURTESY POST - Not an NWACCP Foster  Garfield is a female who is VERY talkative and absolutely LOVES attention!  For more information, or to arrange a meet & greet, please contact Michelle at 479-435-3174"

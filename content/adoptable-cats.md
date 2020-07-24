@@ -33,6 +33,16 @@ sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Thin"
 [[cats]]
+adoption_fee = nil
+age_of_cat = "Kitten"
+breed_of_cat = "Domestic Shorthair"
+image_of_cat = "/images/my_max.jpg"
+name_of_cat = "Max"
+notes = "COURTESY POST, Not an NWACCP Foster.  Max is a female who loves to play with other cats and dogs. For more information, or to arrange a meet & greet, please contact Michelle at 479-435-3174"
+sex_of_cat = "Female"
+size_of_cat = "Medium"
+weight_of_cat = "Ideal / Average"
+[[cats]]
 adoption_fee = 60
 age_of_cat = "Kitten"
 breed_of_cat = "Domestic Shorthair"

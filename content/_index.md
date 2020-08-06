@@ -69,6 +69,38 @@ sections:
     to their familiar habitat to live out their lives under the watchful care of sympathetic
     neighborhood volunteers.
   component: cta.html
+- template: features
+  section_id: donation
+  component: features.html
+  type: features
+  features:
+  - title: NWACCP succeeds through Donations
+    icon:
+      enabled: false
+      icon: ''
+      style: ''
+    description: |-
+      The NWA Community Cat Project is a registered 501©3 tax exempt organization. All donations are tax deductible!
+
+      You can also choose to donate directly to us through PayPal:
+
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+
+      <input name="hosted_button_id" type="hidden" value="4T373C4G4KGBY" />
+
+      <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image" />
+
+      <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
+
+      </form>
+
+      Monetary donations can be mailed to:
+
+      NWA Community Cat Project
+
+      200 S. Barton Avenue
+
+      Fayetteville, AR 72701
 - type: posts
   template: posts
   section_id: posts

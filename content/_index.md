@@ -77,7 +77,7 @@ sections:
   - title: NWACCP succeeds through Donations
     icon:
       enabled: true
-      icon: gift
+      icon: fa-gift
       style: ''
     description: "The NWA Community Cat Project is a registered 501©3 tax exempt organization.
       All donations are tax deductible! You can also choose to donate directly to

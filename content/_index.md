@@ -18,22 +18,6 @@ sections:
   template: features
   section_id: features
   features:
-  - title: Donations
-    icon:
-      enabled: true
-      icon: fa-gift
-      style: style1
-    description: "The NWA Community Cat Project is a registered 501©3 tax exempt organization.
-      All donations are tax deductible! You can also choose to donate directly to
-      us through PayPal:  \n<form action=\"[https://www.paypal.com/cgi-bin/webscr](https://www.paypal.com/cgi-bin/webscr
-      \"https://www.paypal.com/cgi-bin/webscr\")\" method=\"post\" target=\"_top\">\n\n<input
-      name=\"cmd\" type=\"hidden\" value=\"_s-xclick\" />\n\n<input name=\"hosted_button_id\"
-      type=\"hidden\" value=\"4T373C4G4_GBY\" /_\n\n<input alt=\"PayPal - The safer,
-      easier way to pay online!\" name=\"submit\" src=\"[https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif
-      \"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\")\" type=\"image\"
-      />\n\n<img src=\"[https://www.paypalobjects.com/en_US/i/scr/pixel.gif](https://www.paypalobjects.com/en_US/i/scr/pixel.gif
-      \"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\")\" alt=\"\" width=\"1\"
-      height=\"1\" border=\"0\" />\n\n</form>"
   - title: 'Education & Awareness '
     icon:
       enabled: true
@@ -69,6 +53,20 @@ sections:
       community cats. You can [**contact us by email**](mailto:nwacommunitycatproject@gmail.com
       "Contact us through this email address."). If you wish to talk to someone, leave
       your phone number and a good time to call.
+  - title: Donations
+    icon:
+      enabled: true
+      icon: fa-gift
+      style: style1
+    description: "The NWA Community Cat Project is a registered 501©3 tax exempt organization.
+      All donations are tax deductible! You can also choose to donate directly to
+      us through PayPal:  \n<form action=\"https://www.paypal.com/cgi-bin/webscr\"
+      method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"
+      />\n\n<input name=\"hosted_button_id\" type=\"hidden\" value=\"4T373C4G4KGBY\"
+      />\n\n<input alt=\"PayPal - The safer, easier way to pay online!\" name=\"submit\"
+      src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" type=\"image\"
+      />\n\n<img src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" alt=\"\"
+      width=\"1\" height=\"1\" border=\"0\" />\n\n</form>"
   component: features.html
 - type: cta
   template: cta

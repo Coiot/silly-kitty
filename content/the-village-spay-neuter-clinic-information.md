@@ -16,7 +16,7 @@ side = "left"
 +++
 In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-monthly low cost spay/neuter clinics for cats.
 
-At this time, this page is strictly informative for scheduled participants for the **SATURDAY, AUGUST 15 and Saturday, August 29** clinic dates.
+At this time, this page is strictly informative for scheduled participants for the **Saturday, August 29** clinic dates.
 
 **BASIC INSTRUCTIONS**:
 
@@ -36,6 +36,8 @@ At this time, this page is strictly informative for scheduled participants for t
 * PLEASE try to come ALONE if possible, but if not, EVERYONE IN YOUR VEHICLE MUST BE WEARING A MASK.
 * WE WILL CONTACT YOU WHEN YOUR CAT(S) ARE READY FOR DISCHARGE.
 * UPON ARRIVAL FOR PICKUP, **PLEASE REMAIN IN YOUR CAR**, OUR VOLUNTEERS WILL ASSIST EACH OWNER BY ORDER OF ARRIVAL.
+
+**HOW TO CONFIRM YOUR APPT:**
 
 Upon reading the above instructions, please reply "**Yes**" to the text message you received, which indicates you have read the above information and agree.
 

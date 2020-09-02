@@ -37,7 +37,7 @@ At this time, this page is strictly informative for scheduled participants for t
 * WE WILL CONTACT YOU WHEN YOUR CAT(S) ARE READY FOR DISCHARGE.
 * UPON ARRIVAL FOR PICKUP, **PLEASE REMAIN IN YOUR CAR**, OUR VOLUNTEERS WILL ASSIST EACH OWNER BY ORDER OF ARRIVAL.
 
-**HOW TO CONFIRM YOUR APPT:**
+### **HOW TO CONFIRM YOUR APPT:**
 
 Upon reading the above instructions, please reply "**Yes**" to the text message you received, which indicates you have read the above information and agree.
 

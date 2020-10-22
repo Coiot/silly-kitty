@@ -16,7 +16,7 @@ side = "left"
 +++
 In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-monthly low cost spay/neuter clinics for cats.
 
-At this time, this page is strictly informative for scheduled participants for the **Saturday, September 19** clinic date.
+At this time, this page is strictly informative for scheduled participants for the **Sunday, October 25 & Saturday, November 14** clinic dates (which are BOTH booked).
 
 **BASIC INSTRUCTIONS**:
 

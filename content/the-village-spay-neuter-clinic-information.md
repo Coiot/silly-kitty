@@ -18,8 +18,8 @@ In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-
 
 At this time, this page is strictly informative for **_scheduled_** participants for the following clinic dates:
 
-* **Sunday, January 17th, 2021**
-* **Saturday, January 23rd, 2021**
+* **Saturday, February 13th, 2021**
+* **Saturday, March 13th, 2021**
 
 **BASIC INSTRUCTIONS**:
 

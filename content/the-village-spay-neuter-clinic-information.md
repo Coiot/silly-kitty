@@ -18,8 +18,8 @@ In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-
 
 At this time, this page is strictly informative for **_scheduled_** participants for the following clinic dates:
 
-* **Saturday, February 13th, 2021**
 * **Saturday, March 13th, 2021**
+* **Sunday, March 21st, 2021**
 
 **BASIC INSTRUCTIONS**:
 
@@ -40,7 +40,7 @@ At this time, this page is strictly informative for **_scheduled_** participants
 * WE WILL CONTACT YOU WHEN YOUR CAT(S) ARE READY FOR DISCHARGE.
 * UPON ARRIVAL FOR PICKUP, **PLEASE REMAIN IN YOUR CAR**, OUR VOLUNTEERS WILL ASSIST EACH OWNER BY ORDER OF ARRIVAL.
 
-NOTICE:  By confirming your scheduled appointment, please note that it is VERY important that you attempt to keep the appointment.  These reservations are _highly_ sought after, and we maintain a rather lengthy waiting list.  If you fail to keep a scheduled appointment, we cannot guarantee the next reschedule date, due to the high demand.  
+NOTICE:  By confirming your scheduled appointment, please note that it is VERY important that you attempt to keep the appointment.  These reservations are _highly_ sought after, and we maintain a rather lengthy waiting list.  If you fail to keep a scheduled appointment, we cannot guarantee the next reschedule date, due to the high demand.
 
 ### **HOW TO CONFIRM YOUR APPT:**
 

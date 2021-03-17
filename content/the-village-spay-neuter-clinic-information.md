@@ -18,10 +18,13 @@ In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-
 
 At this time, this page is strictly informative for **_scheduled_** participants for the following clinic dates:
 
-* **Saturday, March 13th, 2021**
 * **Sunday, March 21st, 2021**
 
-**BASIC INSTRUCTIONS**:
+**_IMPORTANT NOTE:_**
+
+If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the Volunteer you are corresponding with knows that you are NOT scheduling for surgery.
+
+### **BASIC INSTRUCTIONS**:
 
 * Each cat needs to be in their own carrier, kennel, or trap.
 * NO soft side or fabric carriers.

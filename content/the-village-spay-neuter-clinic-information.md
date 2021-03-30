@@ -18,7 +18,7 @@ In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-
 
 At this time, this page is strictly informative for **_scheduled_** participants for the following clinic dates:
 
-* **Sunday, March 21st, 2021**
+* **Saturday, April 10, 2021**
 
 **_IMPORTANT NOTE:_**
 
@@ -37,7 +37,7 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 
 **COVID-19 PRECAUTIONS:**
 
-* PLEASE WEAR A MASK FOR DROPOFF/PICKUP - THIS IS **MANDATORY.**
+* **PLEASE WEAR A MASK FOR DROPOFF/PICKUP - THIS IS MANDATORY.**
 * PLEASE **STAY IN YOUR VEHICLE** - A VOLUNTEER WILL COME TO YOU FOR EACH STEP OF THE PROCESS.
 * PLEASE try to come ALONE if possible, but if not, EVERYONE IN YOUR VEHICLE MUST BE WEARING A MASK.
 * WE WILL CONTACT YOU WHEN YOUR CAT(S) ARE READY FOR DISCHARGE.

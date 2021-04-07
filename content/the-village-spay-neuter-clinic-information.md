@@ -35,7 +35,7 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 * Payment isn't due until pick-up, cash or check only (NO cards, sorry).
 * Pick-up times can vary.  **A volunteer will text you once your cat(s) are awake enough for discharge.**
 
-**COVID-19 PRECAUTIONS:**
+### **COVID-19 PRECAUTIONS:**
 
 * **PLEASE WEAR A MASK FOR DROPOFF/PICKUP - THIS IS MANDATORY.**
 * PLEASE **STAY IN YOUR VEHICLE** - A VOLUNTEER WILL COME TO YOU FOR EACH STEP OF THE PROCESS.

@@ -35,13 +35,13 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 * Payment isn't due until pick-up, cash or check only (NO cards, sorry).
 * Pick-up times can vary.  **A volunteer will text you once your cat(s) are awake enough for discharge.**
 
-### **COVID-19 PRECAUTIONS:**
-
-* **PLEASE WEAR A MASK FOR DROPOFF/PICKUP - THIS IS MANDATORY.**
-* PLEASE **STAY IN YOUR VEHICLE** - A VOLUNTEER WILL COME TO YOU FOR EACH STEP OF THE PROCESS.
-* PLEASE try to come ALONE if possible, but if not, **EVERYONE** IN YOUR VEHICLE **MUST** BE WEARING A MASK.
-* WE WILL CONTACT YOU WHEN YOUR CAT(S) ARE READY FOR DISCHARGE.
-* UPON ARRIVAL FOR PICKUP, **PLEASE REMAIN IN YOUR CAR**, OUR VOLUNTEERS WILL ASSIST EACH OWNER BY ORDER OF ARRIVAL.
+> ### **COVID-19 PRECAUTIONS:**
+>
+> * **PLEASE WEAR A MASK FOR DROPOFF/PICKUP - THIS IS MANDATORY.**
+> * PLEASE **STAY IN YOUR VEHICLE** - A VOLUNTEER WILL COME TO YOU FOR EACH STEP OF THE PROCESS.
+> * PLEASE try to come ALONE if possible, but if not, **EVERYONE** IN YOUR VEHICLE **MUST** BE WEARING A MASK.
+> * WE WILL CONTACT YOU WHEN YOUR CAT(S) ARE READY FOR DISCHARGE.
+> * UPON ARRIVAL FOR PICKUP, **PLEASE REMAIN IN YOUR CAR**, OUR VOLUNTEERS WILL ASSIST EACH OWNER BY ORDER OF ARRIVAL.
 
 NOTICE:  By confirming your scheduled appointment, please note that it is VERY important that you attempt to keep the appointment.  These reservations are _highly_ sought after, and we maintain a rather lengthy waiting list.  If you fail to keep a scheduled appointment, we cannot guarantee the next reschedule date, due to the high demand.
 

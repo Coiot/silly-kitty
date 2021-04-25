@@ -18,7 +18,8 @@ In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-
 
 At this time, this page is strictly informative for **_scheduled_** participants for the following clinic dates:
 
-* **Saturday, April 10, 2021**
+* **Saturday, May 1, 2021**
+* **Sunday, May 16, 2021**
 
 **_IMPORTANT NOTE:_**
 
@@ -45,7 +46,7 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 
 NOTICE:  By confirming your scheduled appointment, please note that it is VERY important that you attempt to keep the appointment.  These reservations are _highly_ sought after, and we maintain a rather lengthy waiting list.  If you fail to keep a scheduled appointment, we cannot guarantee the next reschedule date, due to the high demand.
 
-#### **MASKS ARE MANDATORY \~ NO MASK, NO SERVICE.** 
+#### **MASKS ARE MANDATORY \~ NO MASK, NO SERVICE.**
 
 #### 
 

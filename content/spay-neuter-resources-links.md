@@ -43,6 +43,10 @@ The cats must be truly feral, not just scared or unpetable!
   * Cost: Male Cat $35 Female Cat $50
   * Cost: Male Dog $55 Female Dog $70
 
+[**New Owner's Guide to Adopting a Cat**](https://www.grove.co/welcome/cat-adoption-guide/)
+
+* Helpful new owner's guide which includes a breakdown on preparing a space and other pets for a new cat, daily care, exercise, play needs and requirements, etc.
+
 ### Program utilizes vouchers sent to Participating Vets Participating Vets in Washington County:
 
 [**All Cats Clinic**](https://allcatsclinicfayar.com/): (479) 571-1228

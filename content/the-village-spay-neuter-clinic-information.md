@@ -29,6 +29,7 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 * Each cat needs to be in their own carrier, kennel, or trap.
 * NO soft side or fabric carriers.
 * Kittens MUST weigh 3.5lbs (roughly 3 1/2 months of age).
+* PLEASE - NO kitties over 8 years old.
 * NO fabric or blankets in the carriers, only newspaper (or wee pads) please.
 * No food or water after midnight the night before surgery.
 * PLEASE place a label on each carrier with your name, your cat's name, and your phone number.  Taping a card or paper note with this info on the carrier works well.

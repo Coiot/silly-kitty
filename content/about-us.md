@@ -21,6 +21,14 @@ are tax deductible!
 
 You can donate via:
 
++ [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)
++ Venmo @NWACCP (be sure to select “Charities” on the search page to find our account)
++ Monetary donations can be mailed to:
+
+NWA Community Cat Project
+200 S. Barton Avenue
+Fayetteville, AR 72701
+
 ### Volunteer
 
 If you would like to volunteer and help us with these efforts, please email us with your contact information, location, and if you have any particular interests or limitations, and we will do our best to match your availability with the needs we are presented with. We always need volunteers to trap, transport to/from clinics/shelters/adoption events, foster (both short-term and long-term, we provide all the supplies!), as well as help with fundraising and campaign efforts.
@@ -28,34 +36,6 @@ If you would like to volunteer and help us with these efforts, please email us w
 ### Care for Community Cats
 
 If you are caring for, or know of cats who need assistance, please email us at [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com "Emails us at this address.") with details about the cat(s) in need, as well as your location, and a phone number where we can reach you.
-
-### Donations
-
-The NWA Community Cat Project is a registered 501(c)3 tax exempt organization. All donations are tax deductible!
-
-Our fundraising campaign is thru [Go Fund Me - NWACCP](https://www.gofundme.com/f/nwacommunitycat "Go Fund me crowd-funding page.").
-
-You can also choose to donate directly to us through PayPal:
-
-+ [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)
-+ Venmo @NWACCP (be sure to select “Charities” on the search page to find our account)
-+ Monetary donations can be mailed to:
-
-NWA Community Cat Project
-
-200 S. Barton Avenue
-
-Fayetteville, AR 72701
-
-</form>
-
-Monetary donations can be mailed to:
-
-NWA Community Cat Project
-
-200 S. Barton Avenue
-
-Fayetteville, AR 72701
 
 #### Adopt
 

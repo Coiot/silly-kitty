@@ -23,11 +23,10 @@ You can donate via:
 
 + [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)
 + Venmo @NWACCP (be sure to select “Charities” on the search page to find our account)
-+ Monetary donations can be mailed to:
-
-NWA Community Cat Project
-200 S. Barton Avenue
-Fayetteville, AR 72701
++ Monetary donations can be mailed to:  
+NWA Community Cat Project  
+200 S. Barton Avenue  
+Fayetteville, AR 72701  
 
 ### Volunteer
 

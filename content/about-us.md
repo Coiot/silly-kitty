@@ -1,7 +1,7 @@
 +++
 layout = "page"
-subtitle = "You can help! Be involved!"
-title = "Volunteer"
+subtitle = ""
+title = ""
 [content_img]
 enabled = false
 path = ""

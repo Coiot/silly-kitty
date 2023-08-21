@@ -18,12 +18,6 @@ contact_methods:
     text: Facebook Page
     icon: fa-facebook
     title: Like us on Facebook
-  - template: contact_with_link
-    type: contact_with_link
-    url: https://www.instagram.com/nwacommunitycatproject/
-    text: Instagram Profile
-    icon: fa-instagram
-    title: Follow us on Instagram
   methods_col2:
   - type: contact_with_link
     template: contact_with_link

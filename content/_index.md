@@ -59,8 +59,8 @@ sections:
       icon: fa-gift
       style: style1
     description: "The NWA Community Cat Project is a registered 501©3 tax exempt organization.
-      All donations are tax deductible! You can donate directly to us through [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427).
-  component: features.html
+      All donations are tax deductible! You can donate directly to us through [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)"
+    component: features.html
 - type: cta
   template: cta
   section_id: cta

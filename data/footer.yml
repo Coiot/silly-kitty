@@ -25,6 +25,13 @@ contact_methods:
     icon: fa-envelope-o
     text: nwacommunitycatproject [at] gmail [dot] com
     url: mailto:nwacommunitycatproject@gmail.com
+  methods_col3:
+  - type: contact_with_link
+    template: contact_with_link
+    title: Follow us on Instagram
+    icon: fa-instagram
+    text: Instagram Page
+    url: https://www.instagram.com/nwa_ccp/
 copyright:
   enabled: true
   text: "&copy; NWACCP. All rights reserved."

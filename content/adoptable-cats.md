@@ -1,6 +1,5 @@
 +++
 cats = []
-form = "<p>All of our kitties are spayed/neutered, vaccinated, flea treated, dewormed, tested for FIV, and microchipped. To begin the adoption process, download <a href=\"/images/cat-adoption-application.pdf\" title=\"cat adoption form\">our application form</a>.</p><p>Please send the finished application form to <a href=\"mailto:nwacommunitycatproject@gmail.com?subject=Adoption Process\" title=\"\">our email address</a>. Application completion does not constitute adoption approval. Stay in contact with us to know if you have been approved and if the cat is ready.</p><p>If you have a cat you need urgent assistance with placing for adoption, please contact us at <a href=\"mailto:nwacommunitycatproject@gmail.com?subject=Emergency Adoption\" title=\"\">our email address</a> to receive proper care first.  Include as much information as possible, and photos if you are able to.  </p>"
 layout = "adoption"
 subtitle = "Give a loving cat a new home! "
 title = "Adoptable Cats"
@@ -33,5 +32,14 @@ name_of_cat = "Bubs"
 sex_of_cat = "Female"
 size_of_cat = "Medium"
 weight_of_cat = "Thin"
-
 +++
+
+All of our kitties are spayed/neutered, vaccinated, flea treated, dewormed, and microchipped.
+
+View our adoptable cats by visiting:  
++ Adopt-a-Pet [https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-
+fayetteville-arkansas](https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-fayetteville-arkansas)
++ PetFinder [https://AR418.petfinder.com](https://AR418.petfinder.com)
+
+Or just complete an adoption application and we’ll play matchmaker!
+[https://forms.gle/j85cX4K71NqGw9578](https://forms.gle/j85cX4K71NqGw9578)

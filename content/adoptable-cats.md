@@ -1,6 +1,6 @@
 +++
 cats = []
-layout = "adoption"
+layout = "page"
 subtitle = "Give a loving cat a new home! "
 title = "Adoptable Cats"
 [content_img]

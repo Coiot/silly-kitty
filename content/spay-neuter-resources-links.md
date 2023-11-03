@@ -27,10 +27,6 @@ The cats must be truly feral, not just scared or unpetable!
 * (479) 756-1100, Cost: $38 (includes a $5 rabies shot) (Male or Female)
 * *No income restrictions for feral cats.
 
-[**Best Friends Animal Hospital and Hotel**](http://bfahph.com/):
-
-* (479) 251-8387, Cost: FREE!
-
 [**Washington County Animal Shelter**](https://www.co.washington.ar.us/government/departments-a-e/animal-shelter):
 
 * (479) 695-3450, Cost: *FREE (Feral cats).

@@ -20,7 +20,7 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 
 ### **BASIC INSTRUCTIONS**:
 
-* Drop off time is 8:00-9:00am.
+* Drop off time is 8:00 - 9:00am.
 * Each cat needs to be in their own carrier or trap.
 * Hard sided carriers are much preferred over fabric carriers.
 * Kittens must weigh 3lbs (roughly 3 months of age).
@@ -28,11 +28,11 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 * No food or water after midnight the night before surgery.
 * PLEASE place a label on each carrier with your name, your cat's name, and your phone number.  Taping a card or paper note with this info on the carrier works well.
 * Payment accepted:
-    * Cash
-    * Paypal: https://www.paypal.com/fundraiser/charity/2408427
-    * Venmo (@NWACCP – click on “charities”)
-    * Give Butter https://givebutter.com/nwaccp
-    * Check
+    - Cash
+    - Paypal: https://www.paypal.com/fundraiser/charity/2408427
+    - Venmo (@NWACCP – click on “charities”)
+    - Give Butter https://givebutter.com/nwaccp
+    - Check
 * Pick-up times can vary.  **A volunteer will text you once your cat(s) are awake enough for discharge.**
 
 ## COSTS
@@ -40,6 +40,7 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 **$15 spay/neuter**
 
 Optional Services:
+
 * $10 for rabies
 * $10 for annual kitty vaccines
 * $5 for deworming

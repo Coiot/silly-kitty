@@ -1,7 +1,7 @@
 +++
 layout = "page"
 subtitle = ""
-title = "The Village Spay/Neuter Clinic Information"
+title = "Spay/Neuter Clinic Information"
 [content_img]
 enabled = true
 path = "/images/img_0216.jpg"
@@ -14,47 +14,26 @@ enabled = false
 side = "left"
 
 +++
-In collaboration with the Friends of Prairie Grove Pound, we sponsor monthly/bi-monthly low cost spay/neuter clinics for cats.
-
-At this time, this page is strictly informative for **_scheduled_** participants for the following clinic dates:
-
-* **Saturday, March 19, 2022**
-
 **_IMPORTANT NOTE:_**
 
 If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the Volunteer you are corresponding with knows that you are NOT scheduling for surgery.
 
 ### **BASIC INSTRUCTIONS**:
 
-* Each cat needs to be in their own carrier, kennel, or trap.
-* NO soft side or fabric carriers.
-* Kittens MUST weigh 3.5lbs (roughly 3 1/2 months of age).
-* PLEASE - NO kitties over 8 years old.
-* NO fabric or blankets in the carriers, only newspaper (or wee pads) please.
+* Drop off time is 8:00-9:00am.
+* Each cat needs to be in their own carrier or trap.
+* Hard sided carriers are much preferred over fabric carriers.
+* Kittens must weigh 3lbs (roughly 3 months of age).
+* No fabric or blankets in the carriers, only newspaper (or wee pads) please.
 * No food or water after midnight the night before surgery.
 * PLEASE place a label on each carrier with your name, your cat's name, and your phone number.  Taping a card or paper note with this info on the carrier works well.
-* Payment isn't due until pick-up, cash or check only (NO cards, sorry).
+* Payment accepted:
+    * Cash
+    * Paypal:(https://www.paypal.com/fundraiser/charity/2408427)[https://www.paypal.com/fundraiser/charity/2408427]
+    * Venmo (@NWACCP – click on “charities”)
+    * Give Butter https://givebutter.com/nwaccp
+    * Check
 * Pick-up times can vary.  **A volunteer will text you once your cat(s) are awake enough for discharge.**
-
-> ### **COVID-19 PRECAUTIONS:**
->
-> * **PLEASE WEAR A MASK FOR DROPOFF/PICKUP - THIS IS MANDATORY.**
-> * PLEASE **STAY IN YOUR VEHICLE** - A VOLUNTEER WILL COME TO YOU FOR EACH STEP OF THE PROCESS.
-> * PLEASE try to come ALONE if possible, but if not, **EVERYONE** IN YOUR VEHICLE **MUST** BE WEARING A MASK.
-> * WE WILL CONTACT YOU WHEN YOUR CAT(S) ARE READY FOR DISCHARGE.
-> * UPON ARRIVAL FOR PICKUP, **PLEASE REMAIN IN YOUR CAR**, OUR VOLUNTEERS WILL ASSIST EACH OWNER BY ORDER OF ARRIVAL.
-
-NOTICE:  By confirming your scheduled appointment, please note that it is VERY important that you attempt to keep the appointment.  These reservations are _highly_ sought after, and we maintain a rather lengthy waiting list.  If you fail to keep a scheduled appointment, we cannot guarantee the next reschedule date, due to the high demand.
-
-#### **MASKS ARE MANDATORY \~ NO MASK, NO SERVICE.**
-
-#### 
-
-### **HOW TO CONFIRM YOUR APPT:**
-
-Upon reading the above instructions, please reply "**Yes**" to the text message you received, which indicates you have read the above information and agree.
-
-**Once you reply, you will receive your scheduled dropoff time in a response text WITHIN 24 HOURS.**  (We will "stagger" dropoff times from 7:30 am to 10:00 am in the order we schedule each family).
 
 **COSTS:**
 
@@ -73,8 +52,6 @@ We are open to anyone regardless of where you live or your income level!
 ![](/images/img_0215.jpg)
 
 **Location:**
-
-**The Village - Low Cost Spay/Neuter Clinic**
 
 **11114 Little Elm Rd, Farmington, AR**
 

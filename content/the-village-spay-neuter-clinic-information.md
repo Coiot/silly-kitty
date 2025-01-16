@@ -37,7 +37,7 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 
 ## COSTS
 
-**$15 spay/neuter
+**$15 spay/neuter**
 
 Optional Services:
 * $10 for rabies

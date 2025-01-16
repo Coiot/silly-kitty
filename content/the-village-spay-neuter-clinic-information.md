@@ -29,18 +29,17 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 * PLEASE place a label on each carrier with your name, your cat's name, and your phone number.  Taping a card or paper note with this info on the carrier works well.
 * Payment accepted:
     * Cash
-    * Paypal:(https://www.paypal.com/fundraiser/charity/2408427)[https://www.paypal.com/fundraiser/charity/2408427]
+    * Paypal: https://www.paypal.com/fundraiser/charity/2408427
     * Venmo (@NWACCP – click on “charities”)
     * Give Butter https://givebutter.com/nwaccp
     * Check
 * Pick-up times can vary.  **A volunteer will text you once your cat(s) are awake enough for discharge.**
 
-**COSTS:**
+## COSTS
 
-* $15 spay/neuter
+**$15 spay/neuter
 
 Optional Services:
-
 * $10 for rabies
 * $10 for annual kitty vaccines
 * $5 for deworming

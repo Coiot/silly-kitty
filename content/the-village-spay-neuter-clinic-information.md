@@ -1,17 +1,18 @@
 ---
-layout = "page"
-subtitle = ""
-title = "Spay/Neuter Clinic Information"
-[content_img]
-enabled = true
-path = "/images/img_0216.jpg"
-url = "#"
-[menu.main]
-name = "Clinic Instructions"
-weight = 4
-[sidebar]
-enabled = false
-side = "left"
+title: "Spay/Neuter Clinic Information"
+layout: "page"
+subtitle: ""
+content_img:
+    enabled: true
+    path྄྄྄: "/images/img_0216.jpg"
+    url: "#"
+menu:
+    main:
+        name: "Clinic Instructions"
+        weight: 4
+sidebar:
+  enabled: false
+  side: left
 
 ---
 **_IMPORTANT NOTE:_**

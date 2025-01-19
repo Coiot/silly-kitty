@@ -1,17 +1,18 @@
 ---
-layout = "page"
-subtitle = "WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS!"
-title = "SPAY/NEUTER RESOURCES & LINKS"
-[content_img]
-enabled = false
-path = ""
-url = "#"
-[menu.main]
-name = "Resources & Links"
-weight = 2
-[sidebar]
-enabled = true
-side = "right"
+layout: "page"
+title: "SPAY/NEUTER RESOURCES & LINKS"
+subtitle: "WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS!"
+content_img:
+    enabled: false
+    path྄྄྄: ""
+    url: "#"
+menu:
+    main:
+        name: "Resources & Links"
+        weight: 2
+sidebar:
+  enabled: false
+  side: left
 
 ---
 

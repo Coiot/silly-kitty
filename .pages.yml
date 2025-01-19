@@ -1,100 +1,7 @@
-media: static/images
+media:
+  input: images
+  output: images
 content:
-  # - name: home
-  #   label: Home Page
-  #   path: content/home
-  #   type: single
-  #   fields:
-  #     - name: banner
-  #       label: Banner
-  #       type: object
-  #       fields:
-  #         - name: title
-  #           label: Title
-  #           type: string
-  #         - name: subtitle
-  #           label: Subtitle
-  #           type: text
-  #         - name: actions
-  #           label: Actions
-  #           type: list
-  #           fields:
-  #             - name: label
-  #               label: Label
-  #               type: string
-  #             - name: url
-  #               label: URL
-  #               type: string
-  #             - name: is_primary
-  #               label: Is Primary
-  #               type: boolean
-  #             - name: is_scrolly
-  #               label: Is Scrolly
-  #               type: boolean
-  #             - name: is_huge
-  #               label: Is Huge
-  #               type: boolean
-  #     - name: sections
-  #       label: Sections
-  #       type: list
-  #       fields:
-  #         - name: type
-  #           label: Section Type
-  #           type: string
-  #         - name: template
-  #           label: Template
-  #           type: string
-  #         - name: section_id
-  #           label: Section ID
-  #           type: string
-  #         - name: features
-  #           label: Features
-  #           type: list
-  #           fields:
-  #             - name: title
-  #               label: Title
-  #               type: string
-  #             - name: icon
-  #               label: Icon
-  #               type: object
-  #               fields:
-  #                 - name: enabled
-  #                   label: Enabled
-  #                   type: boolean
-  #                 - name: icon
-  #                   label: Icon
-  #                   type: string
-  #                 - name: style
-  #                   label: Style
-  #                   type: string
-  #             - name: description
-  #               label: Description
-  #               type: text
-  #         - name: title
-  #           label: Title
-  #           type: string
-  #         - name: subtitle
-  #           label: Subtitle
-  #           type: text
-  #         - name: text
-  #           label: Text
-  #           type: text
-  #         - name: actions
-  #           label: Actions
-  #           type: list
-  #           fields:
-  #             - name: label
-  #               label: Label
-  #               type: string
-  #             - name: url
-  #               label: URL
-  #               type: string
-  #             - name: is_primary
-  #               label: Is Primary
-  #               type: boolean
-  #             - name: is_scrolly
-  #               label: Is Scrolly
-  #               type: boolean
   - name: pages
     label: Pages
     path: content
@@ -116,7 +23,7 @@ content:
         type: rich-text
         options:
           image:
-            path: static/images
+            path: images
             extensions: [ jpg, jpeg, png ]
   - name: blog
     label: Posts
@@ -153,15 +60,11 @@ content:
             type: boolean
           - name: path
             label: Image Path
-            type: image
-            list: true
-            options:
-              path: static/images
-              extensions: [ jpg, jpeg, png ]
+            type: string
       - name: body
         label: Body
         type: rich-text
         options:
           image:
-            path: static/images
+            path: images
             extensions: [ jpg, jpeg, png ]

@@ -4,7 +4,7 @@ title: "SPAY/NEUTER RESOURCES & LINKS"
 subtitle: "WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS!"
 content_img:
     enabled: false
-    path྄྄྄: ""
+    path: ""
     url: "#"
 menu:
     main:

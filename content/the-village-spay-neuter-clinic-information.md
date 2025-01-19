@@ -4,7 +4,7 @@ layout: "page"
 subtitle: ""
 content_img:
     enabled: true
-    path྄྄྄: "/images/img_0216.jpg"
+    path: "/images/img_0216.jpg"
     url: "#"
 menu:
     main:

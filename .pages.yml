@@ -1,5 +1,5 @@
 media:
-  input: images
+  input: static/images
   output: images
 content:
   - name: pages
@@ -23,7 +23,7 @@ content:
         type: rich-text
         options:
           image:
-            path: images
+            path: static/images
             extensions: [ jpg, jpeg, png ]
   - name: blog
     label: Posts
@@ -66,5 +66,5 @@ content:
         type: rich-text
         options:
           image:
-            path: images
+            path: static/images
             extensions: [ jpg, jpeg, png ]

@@ -18,7 +18,7 @@ content:
       - name: name
         label: "Menu Name"
         type: string
-      - name: body
+      - name: content
         label: Body
         type: rich-text
         options:
@@ -26,21 +26,21 @@ content:
             path: images
             extensions: [ jpg, jpeg, png ]
       - name: content_img
-        label: Content Image
+        label: "Content Image"
         type: object
         fields:
           - name: enabled
             label: Enabled
             type: boolean
           - name: path
-            label: Image Path
+            label: "Image Path"
             type: image
             list: true
             options:
               path: images
               extensions: [ jpg, jpeg, png ]
           - name: url
-            label: Image URL
+            label: "Image URL"
             type: string
       - name: sidebar
         label: Sidebar
@@ -73,13 +73,13 @@ content:
         label: Excerpt
         type: string
       - name: show_in_home_posts
-        label: Show in Home Posts
+        label: "Show in Home Posts"
         type: boolean
       - name: show_in_sidebar
-        label: Show in Sidebar
+        label: "Show in Sidebar"
         type: boolean
       - name: content_img
-        label: Content Image
+        label: "Content Image"
         type: object
         fields:
           - name: alt
@@ -91,7 +91,7 @@ content:
           - name: path
             label: Image Path
             type: string
-      - name: body
+      - name: content
         label: Body
         type: rich-text
         options:

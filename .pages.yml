@@ -1,0 +1,24 @@
+media:
+  input: static/images
+  output: /category/images
+content:
+  - name: pages
+    label: Pages
+    path: content
+    type: collection
+    view:
+      fields: [ title, name ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: name
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+  - name: blog
+    label: Posts
+    path: content/posts
+    type: collection

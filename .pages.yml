@@ -5,7 +5,7 @@ content:
     path: content
     type: collection
     view:
-      fields: [ title, subtitle, menu.main.name ]
+      fields: [ title, subtitle, menu.main.name, content_img, sidebar ]
     fields:
       - name: title
         label: Title
@@ -21,8 +21,38 @@ content:
         type: rich-text
         options:
           image:
-            path: static/images
+            path: images
             extensions: [ jpg, jpeg, png ]
+      - name: content_img
+        label: Content Image
+        type: object
+        fields:
+          - name: enabled
+            label: Enabled
+            type: boolean
+          - name: path
+            label: Image Path
+            type: image
+            list: true
+            options:
+              path: images
+              extensions: [ jpg, jpeg, png ]
+          - name: url
+            label: Image URL
+            type: string
+      - name: sidebar
+        label: Sidebar
+        type: object
+        fields:
+          - name: enabled
+            label: Enabled
+            type: boolean
+          - name: side
+            label: Side
+            type: string
+            options:
+              - left
+              - right
   - name: blog
     label: Posts
     path: content/posts

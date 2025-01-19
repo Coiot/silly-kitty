@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "About Us"
 layout: "page"
 subtitle: ""
 content_img:

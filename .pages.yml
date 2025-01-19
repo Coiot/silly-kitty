@@ -6,11 +6,9 @@ content:
     label: Pages
     path: content
     type: collection
+    exclude: [ _index.md ]
     view:
       fields: [ title, subtitle ]
-      exclude: [
-        _index.md
-      ]
     fields:
       - name: title
         label: Title

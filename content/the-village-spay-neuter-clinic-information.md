@@ -1,4 +1,4 @@
-+++
+---
 layout = "page"
 subtitle = ""
 title = "Spay/Neuter Clinic Information"
@@ -13,7 +13,7 @@ weight = 4
 enabled = false
 side = "left"
 
-+++
+---
 **_IMPORTANT NOTE:_**
 
 If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the Volunteer you are corresponding with knows that you are NOT scheduling for surgery.

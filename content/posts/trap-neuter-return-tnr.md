@@ -1,26 +1,12 @@
 ---
-alt_img: "/images/banner1.jpg"
+title: TRAP-NEUTER-RETURN (TNR)
 date: 2019-12-29T06:00:00Z
-excerpt: ""
-layout: "page"
 show_in_home_posts: false
 show_in_sidebar: true
-subtitle: ""
-title: "TRAP-NEUTER-RETURN (TNR)"
 content_img:
   alt: "#"
   enabled: false
-  path: ""
-menu:
-  footer:
-    name: "Trap-Neuter-Return (TNR)"
-    weight: 1
-sidebar:
-  enabled: true
-  side: "right"
 ---
-
-
 TNR is a comprehensive plan where entire feral colonies are humanely trapped, then evaluated, vaccinated, and neutered by veterinarians. Kittens and cats that are tame enough to be adopted are placed in good homes. Adult cats are returned to their familiar habitat to live out their lives under the watchful care of sympathetic neighborhood volunteers.
 
 TNR works. Cat populations are gradually reduced. Nuisance behaviors associated with breeding, such as the yowling of females or the spraying of toms, are virtually eliminated. Disease and malnutrition are greatly reduced. The cats live healthy, safe, and peaceful lives in their territories.
@@ -65,3 +51,6 @@ TNR works. Cat populations are gradually reduced. Nuisance behaviors associated 
 *   They will see fewer cats each year.
     
 *   The healthy cats who remain will provide a safe, free deterrent to rodents.![](/static/images/11.jpg)
+    
+
+![](images/11.jpg)

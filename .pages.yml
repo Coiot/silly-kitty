@@ -7,7 +7,10 @@ content:
     path: content
     type: collection
     view:
-      fields: [ title, subtitle, menun, content_img, sidebar ]
+      fields: [ title, subtitle ]
+      exclude: [
+        _index.md
+      ]
     fields:
       - name: title
         label: Title
@@ -17,6 +20,7 @@ content:
         type: string
       - name: menu
         label: "Menu"
+        hidden: true
         type: object
         fields:
           - name: main
@@ -48,6 +52,7 @@ content:
             extensions: [ jpg, jpeg, png ]
       - name: content_img
         label: "Content Image"
+        hidden: true
         type: object
         fields:
           - name: enabled
@@ -61,6 +66,7 @@ content:
             type: string
       - name: sidebar
         label: Sidebar
+        hidden: true
         type: object
         fields:
           - name: enabled
@@ -91,15 +97,19 @@ content:
         type: string
       - name: show_in_home_posts
         label: "Show in Home Posts"
+        hidden: true
         type: boolean
       - name: show_in_sidebar
         label: "Show in Sidebar"
+        hidden: true
         type: boolean
       - name: alt_img
         label: Alternative Image
+        hidden: true
         type: string
       - name: content_img
         label: "Content Image"
+        hidden: true
         type: object
         fields:
           - name: alt

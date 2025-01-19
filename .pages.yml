@@ -7,8 +7,11 @@ content:
     path: content
     type: collection
     view:
-      fields: [ title, name ]
+      fields: [ title, subtile, name ]
     fields:
+      - name: title
+        label: Title
+        type: string
       - name: title
         label: Title
         type: string

@@ -14,7 +14,7 @@ content:
         type: string
       - name: subtitle
         label: "Sub-title"
-        type: string
+        type: rich-text
       - name: name
         label: "Menu Name"
         type: string

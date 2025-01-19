@@ -50,7 +50,7 @@ TNR works. Cat populations are gradually reduced. Nuisance behaviors associated 
     
 *   They will see fewer cats each year.
     
-*   The healthy cats who remain will provide a safe, free deterrent to rodents.![](/static/images/11.jpg)
+*   The healthy cats who remain will provide a safe, free deterrent to rodents.
     
 
 ![](images/11.jpg)

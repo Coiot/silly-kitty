@@ -39,7 +39,7 @@ content:
             - name: weight
               label: Weight
               type: number
-      - name: content
+      - name: body
         label: Body
         type: rich-text
         options:
@@ -111,7 +111,7 @@ content:
           - name: path
             label: Image Path
             type: string
-      - name: content
+      - name: body
         label: Body
         type: rich-text
         options:

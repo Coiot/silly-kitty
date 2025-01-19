@@ -78,6 +78,9 @@ content:
       - name: show_in_sidebar
         label: "Show in Sidebar"
         type: boolean
+      - name: alt_img
+        label: Alternative Image
+        type: string
       - name: content_img
         label: "Content Image"
         type: object

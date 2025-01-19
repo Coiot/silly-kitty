@@ -1,4 +1,4 @@
-+++
+---
 layout = "page"
 subtitle = ""
 title = ""
@@ -12,7 +12,7 @@ weight = 1
 enabled = true
 side = "right"
 
-+++
+---
 The Northwest Arkansas Community Cat Project is a 501 (c) 3, non-profit organization, which
 means your donations are tax deductible.. We are 100% volunteer based, and every penny donated goes to the care of cats in our region.
 

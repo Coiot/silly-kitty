@@ -2,26 +2,182 @@ media:
   input: static/images
   output: /category/images
 content:
+  - name: home
+    label: Home Page
+    path: content/home
+    type: single
+    fields:
+      - name: banner
+        label: Banner
+        type: object
+        fields:
+          - name: title
+            label: Title
+            type: string
+          - name: subtitle
+            label: Subtitle
+            type: text
+          - name: actions
+            label: Actions
+            type: list
+            fields:
+              - name: label
+                label: Label
+                type: string
+              - name: url
+                label: URL
+                type: string
+              - name: is_primary
+                label: Is Primary
+                type: boolean
+              - name: is_scrolly
+                label: Is Scrolly
+                type: boolean
+              - name: is_huge
+                label: Is Huge
+                type: boolean
+      - name: sections
+        label: Sections
+        type: list
+        fields:
+          - name: type
+            label: Section Type
+            type: string
+          - name: template
+            label: Template
+            type: string
+          - name: section_id
+            label: Section ID
+            type: string
+          - name: features
+            label: Features
+            type: list
+            fields:
+              - name: title
+                label: Title
+                type: string
+              - name: icon
+                label: Icon
+                type: object
+                fields:
+                  - name: enabled
+                    label: Enabled
+                    type: boolean
+                  - name: icon
+                    label: Icon
+                    type: string
+                  - name: style
+                    label: Style
+                    type: string
+              - name: description
+                label: Description
+                type: text
+          - name: title
+            label: Title
+            type: string
+          - name: subtitle
+            label: Subtitle
+            type: text
+          - name: text
+            label: Text
+            type: text
+          - name: actions
+            label: Actions
+            type: list
+            fields:
+              - name: label
+                label: Label
+                type: string
+              - name: url
+                label: URL
+                type: string
+              - name: is_primary
+                label: Is Primary
+                type: boolean
+              - name: is_scrolly
+                label: Is Scrolly
+                type: boolean
   - name: pages
     label: Pages
     path: content
     type: collection
     view:
-      fields: [ title, subtile, name ]
+      fields: [ title, subtitle, name ]
     fields:
       - name: title
         label: Title
         type: string
-      - name: title
-        label: Title
+      - name: subtitle
+        label: "Sub-title"
         type: string
       - name: name
-        label: Title
+        label: "Menu Name"
         type: string
       - name: body
         label: Body
         type: rich-text
+        options:
+          image:
+            path: static/images
+            extensions: [ jpg, jpeg, png ]
   - name: blog
     label: Posts
     path: content/posts
     type: collection
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: subtitle
+        label: Subtitle
+        type: string
+      - name: date
+        label: Date
+        type: datetime
+      - name: excerpt
+        label: Excerpt
+        type: string
+      - name: layout
+        label: Layout
+        type: string
+        options:
+          - page
+          - post
+      - name: show_in_home_posts
+        label: Show in Home Posts
+        type: boolean
+      - name: show_in_sidebar
+        label: Show in Sidebar
+        type: boolean
+      - name: alt_img
+        label: Alternative Image
+        type: string
+      - name: content_img
+        label: Content Image
+        type: object
+        fields:
+          - name: alt
+            label: Alt Text
+            type: string
+          - name: enabled
+            label: Enabled
+            type: boolean
+          - name: path
+            label: Image Path
+            type: string
+          - name: url
+            label: URL
+            type: string
+      - name: sidebar
+        label: Sidebar
+        type: object
+        fields:
+          - name: enabled
+            label: Enabled
+            type: boolean
+          - name: side
+            label: Side
+            type: string
+            options:
+              - left
+              - right

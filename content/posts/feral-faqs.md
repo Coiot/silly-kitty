@@ -1,23 +1,24 @@
-+++
-alt_img = "/images/11.jpg"
-date = 2019-12-31T06:00:00Z
-excerpt = ""
-layout = "page"
-show_in_home_posts = false
-show_in_sidebar = true
-subtitle = "You’ve got questions? We have answers!"
-title = "Feral FAQs"
-[content_img]
-alt = "#"
-enabled = false
-path = ""
-[menu.footer]
-weight = 2
-[sidebar]
-enabled = true
-side = "right"
+---
+alt_img: "/images/11.jpg"
+date: 2019-12-31T06:00:00Z
+excerpt: ""
+layout: "page"
+show_in_home_posts: false
+show_in_sidebar: true
+subtitle: "You’ve got questions? We have answers!"
+title: "Feral FAQs"
+content_img:
+  alt: "#"
+  enabled: false
+  path: ""
+menu:
+  footer:
+    weight: 2
+sidebar:
+  enabled: true
+  side: "right"
+---
 
-+++
 <ol class="ol1"> <li class="li2"><a href="#1">What is a feral cat?</a></li> <li class="li2"><a href="#2">Are stray cats and feral cats the same?</a></li> <li class="li2"><a href="#3">How can I tell if a cat is stray or feral?</a></li> <li class="li2"><a href="#4">I would like to find good homes for the feral cats I have been feeding. Is this possible?</a></li> <li class="li2"><a href="#5">What about a feral cat sanctuary or a barn home for these cats?</a></li> <li class="li2"><a href="#6">I discovered some cats outside. Who can I call to come and get them?</a></li> <li class="li2"><a href="#7">I have been feeding cats for a while and they are reproducing. What should I do?</a></li> <li class="li2"><a href="#8">I cant touch the cats, so how can I get them to the vet for spay/neutering?</a></li> <li class="li2"><a href="#9">There are several cats to be trapped, but I only have one trap. Will that do?</a></li> <li class="li2"><a href="#10">I think the cat may be pregnant, can she still be spayed?</a></li> <li class="li2"><a href="#11">What if the cat is lactating? Can she still be spayed?</a></li> <li class="li2"><a href="#12">How old do kittens need to be to be fixed at the feral cat clinic?</a></li> <li class="li2"><a href="#13">My neighbor is feeding cats, but not fixing any of them. What can I do to help?</a></li> <li class="li2"><a href="#14">I have a lot of feral cats in my backyard that I feed. I am afraid if I start bringing them in to be fixed, I will get in trouble for having too many cats and they will be taken away from me.</a></li> </ol> <p> </p>
 
 ### <p><span id="1" class="p3">**1\]** What is a feral cat?</span></p>

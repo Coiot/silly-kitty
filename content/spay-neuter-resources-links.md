@@ -1,4 +1,4 @@
-+++
+---
 layout = "page"
 subtitle = "WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS!"
 title = "SPAY/NEUTER RESOURCES & LINKS"
@@ -12,8 +12,8 @@ weight = 2
 [sidebar]
 enabled = true
 side = "right"
+---
 
-+++
 Please contact us at: [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com "NWACCP EMAIL") with your telephone number and a good time to call. Advise us if you are planning multiple appointments for additional assistance. We have live traps available to borrow, with a fully refundable deposit.
 
 ## **Low Cost Spay & Neuter Resources**

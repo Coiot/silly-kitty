@@ -1,8 +1,7 @@
 ---
 title: Contact
 subtitle: We're always shifting through phone numbers as our team of volunteers changes,
-  so contacting us through email is the best way. You can [email us at our at address](mailto:nwacommunitycatproject@gmail.com)
-  or use the form below.
+  so contacting us through email is the best way. You can email us at our at address nwacommunitycatproject@gmail.com or use the form below.
 content_img:
   enabled: false
   path: ''

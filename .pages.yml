@@ -1,6 +1,4 @@
-media:
-  input: static/images
-  output: /category/images
+media: static/images
 content:
   # - name: home
   #   label: Home Page
@@ -102,7 +100,7 @@ content:
     path: content
     type: collection
     view:
-      fields: [ title, subtitle, name ]
+      fields: [ title, subtitle, menu.main.name ]
     fields:
       - name: title
         label: Title
@@ -110,7 +108,7 @@ content:
       - name: subtitle
         label: "Sub-title"
         type: string
-      - name: name
+      - name: menu.main.name
         label: "Menu Name"
         type: string
       - name: body
@@ -137,21 +135,12 @@ content:
       - name: excerpt
         label: Excerpt
         type: string
-      - name: layout
-        label: Layout
-        type: string
-        options:
-          - page
-          - post
       - name: show_in_home_posts
         label: Show in Home Posts
         type: boolean
       - name: show_in_sidebar
         label: Show in Sidebar
         type: boolean
-      - name: alt_img
-        label: Alternative Image
-        type: string
       - name: content_img
         label: Content Image
         type: object
@@ -164,20 +153,15 @@ content:
             type: boolean
           - name: path
             label: Image Path
-            type: string
-          - name: url
-            label: URL
-            type: string
-      - name: sidebar
-        label: Sidebar
-        type: object
-        fields:
-          - name: enabled
-            label: Enabled
-            type: boolean
-          - name: side
-            label: Side
-            type: string
+            type: image
+            list: true
             options:
-              - left
-              - right
+              path: static/images
+              extensions: [ jpg, jpeg, png ]
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          image:
+            path: static/images
+            extensions: [ jpg, jpeg, png ]

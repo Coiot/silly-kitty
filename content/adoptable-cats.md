@@ -23,5 +23,3 @@ View our adoptable cats by visiting:
     
 
 Or just complete an adoption application and we’ll play matchmaker! [https://forms.gle/j85cX4K71NqGw9578](https://forms.gle/j85cX4K71NqGw9578)
-
-test

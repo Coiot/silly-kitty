@@ -99,9 +99,35 @@ content:
           image:
             path: static/images
             extensions: [ jpg, jpeg, png ]
+      - name: menu
+        label: "Menu"
+        type: object
+        fields:
+          - name: main
+            label: Main
+            type: object
+            fields:
+            - name: name
+              label: Name
+              type: string
+            - name: weight
+              label: Weight
+              type: number
+          - name: footer
+            label: Footer
+            type: object
+            fields:
+            - name: name
+              label: Name
+              type: string
+            - name: weight
+              label: Weight
+              type: number
       - name: date
         label: Date
         type: date
+        options:
+          format: dd-MM-yyyy
       - name: content_img
         label: "Content Image"
         type: object
@@ -124,6 +150,110 @@ content:
       - name: alt_img
         label: Alternative Image
         type: string
+      - name: layout
+        label: Layout
+        type: string
+  - name: home
+    label: Home Page
+    path: content
+    type: collection
+    include: [ _index.md ]
+    view:
+      fields: [ title, banner.title, banner.subtitle ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: banner
+        label: Banner
+        type: object
+        fields:
+          - name: title
+            label: Banner Title
+            type: string
+          - name: subtitle
+            label: Banner Subtitle
+            type: text
+          - name: actions
+            label: Banner Actions
+            type: list
+            fields:
+              - name: label
+                label: Button Label
+                type: string
+              - name: url
+                label: Button URL
+                type: string
+              - name: is_primary
+                label: Primary Button
+                type: boolean
+              - name: is_scrolly
+                label: Scrolling Link
+                type: boolean
+              - name: is_huge
+                label: Large Button
+                type: boolean
+      - name: sections
+        label: Page Sections
+        type: list
+        fields:
+          - name: type
+            label: Section Type
+            type: string
+          - name: template
+            label: Section Template
+            type: string
+          - name: section_id
+            label: Section ID
+            type: string
+          - name: title
+            label: Section Title
+            type: string
+          - name: subtitle
+            label: Section Subtitle
+            type: text
+          - name: text
+            label: Section Text
+            type: rich-text
+          - name: actions
+            label: Section Actions
+            type: list
+            fields:
+              - name: label
+                label: Button Label
+                type: string
+              - name: url
+                label: Button URL
+                type: string
+              - name: is_primary
+                label: Primary Button
+                type: boolean
+          - name: features
+            label: Features
+            type: list
+            fields:
+              - name: title
+                label: Feature Title
+                type: string
+              - name: icon
+                label: Icon
+                type: object
+                fields:
+                  - name: enabled
+                    label: Icon Enabled
+                    type: boolean
+                  - name: icon
+                    label: Icon Name
+                    type: string
+                  - name: style
+                    label: Icon Style
+                    type: string
+              - name: description
+                label: Feature Description
+                type: text
+          - name: component
+            label: Component
+            type: string
       - name: layout
         label: Layout
         type: string

@@ -16,9 +16,15 @@ content:
       - name: subtitle
         label: "Sub-title"
         type: string
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          image:
+            path: images
+            extensions: [ jpg, jpeg, png ]
       - name: menu
         label: "Menu"
-        hidden: true
         type: object
         fields:
           - name: main
@@ -41,16 +47,8 @@ content:
             - name: weight
               label: Weight
               type: number
-      - name: body
-        label: Body
-        type: rich-text
-        options:
-          image:
-            path: images
-            extensions: [ jpg, jpeg, png ]
       - name: content_img
         label: "Content Image"
-        hidden: true
         type: object
         fields:
           - name: enabled
@@ -64,7 +62,6 @@ content:
             type: string
       - name: sidebar
         label: Sidebar
-        hidden: true
         type: object
         fields:
           - name: enabled
@@ -76,9 +73,14 @@ content:
             options:
               - left
               - right
+      - name: layout
+        label: Layout
+        type: string
   - name: blog
     label: Posts
     path: content/posts
+    view:
+      fields: [ title, subtitle ]
     type: collection
     fields:
       - name: title
@@ -87,27 +89,21 @@ content:
       - name: subtitle
         label: Subtitle
         type: string
-      - name: date
-        label: Date
-        type: date
       - name: excerpt
         label: Excerpt
         type: string
-      - name: show_in_home_posts
-        label: "Show in Home Posts"
-        hidden: true
-        type: boolean
-      - name: show_in_sidebar
-        label: "Show in Sidebar"
-        hidden: true
-        type: boolean
-      - name: alt_img
-        label: Alternative Image
-        hidden: true
-        type: string
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          image:
+            path: static/images
+            extensions: [ jpg, jpeg, png ]
+      - name: date
+        label: Date
+        type: date
       - name: content_img
         label: "Content Image"
-        hidden: true
         type: object
         fields:
           - name: alt
@@ -119,10 +115,15 @@ content:
           - name: path
             label: Image Path
             type: string
-      - name: body
-        label: Body
-        type: rich-text
-        options:
-          image:
-            path: static/images
-            extensions: [ jpg, jpeg, png ]
+      - name: show_in_home_posts
+        label: "Show in Home Posts"
+        type: boolean
+      - name: show_in_sidebar
+        label: "Show in Sidebar"
+        type: boolean
+      - name: alt_img
+        label: Alternative Image
+        type: string
+      - name: layout
+        label: Layout
+        type: string

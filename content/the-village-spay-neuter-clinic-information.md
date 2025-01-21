@@ -1,40 +1,46 @@
 ---
-title: "Spay/Neuter Clinic Information"
-layout: "page"
-subtitle: ""
-content_img:
-    enabled: true
-    path: "/images/img_0216.jpg"
-    url: "#"
+title: Spay/Neuter Clinic Information
 menu:
-    main:
-        name: "Clinic Instructions"
-        weight: 4
+  main:
+    name: Clinic Instructions
+    weight: 4
+content_img:
+  enabled: true
+  path: /images/img_0216.jpg
+  url: "#"
 sidebar:
   enabled: false
   side: left
-
+layout: page
 ---
-**_IMPORTANT NOTE:_**
-
-If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the Volunteer you are corresponding with knows that you are NOT scheduling for surgery.
-
 ### **BASIC INSTRUCTIONS**:
 
-* Drop off time is 8:00 - 9:00am.
-* Each cat needs to be in their own carrier or trap.
-* Hard sided carriers are much preferred over fabric carriers.
-* Kittens must weigh 3lbs (roughly 3 months of age).
-* No fabric or blankets in the carriers, only newspaper (or wee pads) please.
-* No food or water after midnight the night before surgery.
-* PLEASE place a label on each carrier with your name, your cat's name, and your phone number.  Taping a card or paper note with this info on the carrier works well.
-* Payment accepted:
-    - Cash
-    - Paypal: https://www.paypal.com/fundraiser/charity/2408427
-    - Venmo (@NWACCP – click on “charities”)
-    - Give Butter https://givebutter.com/nwaccp
-    - Check
-* Pick-up times can vary.  **A volunteer will text you once your cat(s) are awake enough for discharge.**
+*   Drop off time is 8:30am.
+    
+*   Each cat needs to be in their own carrier or trap.
+    
+*   Hard sided carriers are much preferred over fabric carriers.
+    
+*   Kittens must weigh 3lbs (roughly 3 months of age).
+    
+*   No food after midnight the night before surgery (leaving water out is okay).
+    
+*   Please place a label on each carrier with your cat’s name, your name, and your phone number.
+    
+*   Payment accepted:
+    
+    *   Cash
+        
+    *   Paypal: [https://www.paypal.com/fundraiser/charity/2408427](https://www.paypal.com/fundraiser/charity/2408427)
+        
+    *   Venmo (@NWACCP – click on “charities”)
+        
+    *   Give Butter [https://givebutter.com/nwaccp](https://givebutter.com/nwaccp)
+        
+    *   Check
+        
+*   Pick-up times can vary. **A volunteer will text you once your cat(s) are awake enough for discharge.**
+    
 
 ## COSTS
 
@@ -42,11 +48,16 @@ If you have scheduled an appointment for VACCINES ONLY, _PLEASE_ make sure the V
 
 Optional Services:
 
-* $10 for rabies
-* $10 for annual kitty vaccines
-* $5 for deworming
-* $20 microchip
-* $20 FIV/FeLV test
+*   $10 for rabies
+    
+*   $10 for annual kitty vaccines
+    
+*   $5 for deworming
+    
+*   $20 microchip
+    
+*   $20 FIV/FeLV test
+    
 
 We are open to anyone regardless of where you live or your income level!
 
@@ -57,5 +68,3 @@ We are open to anyone regardless of where you live or your income level!
 **11114 Little Elm Rd, Farmington, AR**
 
 (Little Elm is the road behind Rustic Rooster Flea Market on Hwy 62)
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3227.5838818202606!2d-94.28709398473224!3d36.00603278011988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c97a709f2a74f1%3A0xdecbe500f1bb12d0!2s11114%20Little%20Elm%20Rd%2C%20Farmington%2C%20AR%2072730!5e0!3m2!1sen!2sus!4v1592327682132!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>

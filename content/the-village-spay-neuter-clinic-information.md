@@ -48,7 +48,7 @@ layout: page
 
 Optional Services:
 
-*   $10 for rabies
+*   $10 for rabies (required if not up to date)
     
 *   $10 for annual kitty vaccines
     

@@ -1,6 +1,5 @@
 ---
-title: SPAY/NEUTER RESOURCES & LINKS
-subtitle: WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS!
+title: Spay/Neuter Resources and Links
 menu:
   main:
     name: Resources & Links

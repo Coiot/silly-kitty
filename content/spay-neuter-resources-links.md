@@ -1,49 +1,57 @@
 ---
-layout: "page"
-title: "SPAY/NEUTER RESOURCES & LINKS"
-subtitle: "WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS!"
-content_img:
-    enabled: false
-    path: ""
-    url: "#"
+title: SPAY/NEUTER RESOURCES & LINKS
+subtitle: WE WOULD LIKE TO HELP YOU WITH YOUR STRAY/FERAL CAT PROBLEMS!
 menu:
-    main:
-        name: "Resources & Links"
-        weight: 2
+  main:
+    name: Resources & Links
+    weight: 2
+content_img:
+  enabled: false
+  url: "#"
 sidebar:
   enabled: false
   side: left
-
+layout: page
 ---
-
-Please contact us at: [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com "NWACCP EMAIL") with your telephone number and a good time to call. Advise us if you are planning multiple appointments for additional assistance. We have live traps available to borrow, with a fully refundable deposit.
+Please contact us at: [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com) with your telephone number and a good time to call. Advise us if you are planning multiple appointments for additional assistance. We have live traps available to borrow, with a fully refundable deposit.
 
 ## **Low Cost Spay & Neuter Resources**
 
-You can make your own appointments and arrangements at the clinics listed below. For assistance in other locations, contact us at: nwacommunitycatproject@gmail.com Ask about possible discounts available for multiple spay/neuters.
+You can make your own appointments and arrangements at the clinics listed below. Ask about possible discounts available for multiple spay/neuters.
 
 The cats must be truly feral, not just scared or unpetable!
 
 [**Spay Arkansas**](http://spayarkansas.org/):
 
-* (479) 756-1100, Cost: $38 (includes a $5 rabies shot) (Male or Female)
-* *No income restrictions for feral cats.
+*   (479) 756-1100, Cost: $38 (includes a $5 rabies shot) (Male or Female)
+    
+*   \*No income restrictions for feral cats.
+    
 
 [**Washington County Animal Shelter**](https://www.co.washington.ar.us/government/departments-a-e/animal-shelter):
 
-* (479) 695-3450, Cost: *FREE (Feral cats).
-* Limited to Washington County residents who do not reside within the city limits of an incorporated city whose population is in excess of 10,000 and whose annual family incomes do not exceed the current Low Income Limits for Washington County as established by the U.S. Department of Housing and Urban Development (HUD).
+*   (479) 695-3450, Cost: \*FREE (Feral cats).
+    
+*   Limited to Washington County residents who do not reside within the city limits of an incorporated city whose population is in excess of 10,000 and whose annual family incomes do not exceed the current Low Income Limits for Washington County as established by the U.S. Department of Housing and Urban Development (HUD).
+    
 
-[**Humane Society of the Ozarks**](https://hsozarks.org/programs/feral-cats-tnr-program/)**:** (479) 444-7387
+[**Humane Society of the Ozarks**](https://hsozarks.org/programs/feral-cats-tnr-program/)**:**
 
-* Feral Cats: In conjunction with the Lester C Howick Animal Shelter of Washington County, we sponsor a joint TNR program. To be eligible for this program, you and the colony you are trapping cats in must be in either an unincorporated area of Washington County or communities that are NOT within the city limits of Fayetteville or Springdale. If you reside in and the colony is in an eligible area of the county, _there is no charge for this program_.
-* Owned (Pet) Cats:
-  * Cost: Male Cat $35 Female Cat $50
-  * Cost: Male Dog $55 Female Dog $70
+*   (479) 444-7387
+    
+*   Feral Cats: In conjunction with the Lester C Howick Animal Shelter of Washington County, we sponsor a joint TNR program. To be eligible for this program, you and the colony you are trapping cats in must be in either an unincorporated area of Washington County or communities that are NOT within the city limits of Fayetteville or Springdale. If you reside in and the colony is in an eligible area of the county, _there is no charge for this program_.
+    
+*   Owned (Pet) Cats:
+    
+    *   Cost: Male Cat $35 Female Cat $50
+        
+    *   Cost: Male Dog $55 Female Dog $70
+        
 
 [**New Owner's Guide to Adopting a Cat**](https://www.grove.co/welcome/cat-adoption-guide/)
 
-* Helpful new owner's guide which includes a breakdown on preparing a space and other pets for a new cat, daily care, exercise, play needs and requirements, etc.
+*   Helpful new owner's guide which includes a breakdown on preparing a space and other pets for a new cat, daily care, exercise, play needs and requirements, etc.
+    
 
 ### Program utilizes vouchers sent to Participating Vets Participating Vets in Washington County:
 
@@ -127,8 +135,6 @@ Low cost spay/neuter services for OWNED CATS only.
 
 ## **AREA SHELTERS:**
 
-(These are not no-kill facilities although Fayetteville, Bella Vista, Madison Co, and Prairie Grove have very low cat euthanasia rates. That said, most shelters do euthanize feral cats.)
-
 [**Bella Vista Animal Shelter**](http://www.bellavista-animalshelter.org/)
 
 [**Fayetteville Animal Services**](http://www.fayetteville-ar.gov/525/Animal-Services)
@@ -154,7 +160,5 @@ Low cost spay/neuter services for OWNED CATS only.
 [**Spensers Legacy Animal Rescue**](http://spenserslegacy.org/)
 
 [**Cat Haven Ranch**](http://www.cathavenranch.org/)
-
-[**Stray Central**](https://www.adoptapet.com/adoption_rescue/69656-stray-central-farmington-arkansas)
 
 [**FOR PETS SAKE**](http://www.for-pets-sake.org/)

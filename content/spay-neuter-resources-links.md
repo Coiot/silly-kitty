@@ -45,9 +45,7 @@ You can make your own appointments and arrangements at the clinics listed below.
 
 [**FixNation**](http://fixnation.org/)
 
-[**Tree House Humane Society**](http://www.treehouseanimals.org/site/PageServer?pagename=home)
-
-[**Best Friends Animal Society**](https://bestfriends.org/)
+[**Neighborhood Cats**](https://www.neighborhoodcats.org/)
 
 ## **AREA SHELTERS:**
 

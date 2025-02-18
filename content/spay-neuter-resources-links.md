@@ -36,7 +36,7 @@ You can make your own appointments and arrangements at the clinics listed below.
 
 *   (479) 444-7387
     
-*   The Humane Society of the Ozarks partners with several area vets to help pay for cats and dogs to be spayed and neutered. To learn more about the voucher program with HSO, visit their website: [https://hsozarks.org/spay-%26-neuter-program](https://hsozarks.org/spay-%26-neuter-program)
+*   The Humane Society of the Ozarks partners with several area vets to help pay for cats and dogs to be spayed and neutered. To learn more about the voucher program with HSO, [visit their website](https://hsozarks.org/spay-%26-neuter-program).
     
 
 ## **National Organizations:**

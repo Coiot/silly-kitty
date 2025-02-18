@@ -36,18 +36,10 @@ You can make your own appointments and arrangements at the clinics listed below.
 
 *   (479) 444-7387
     
-*   Feral Cats: In conjunction with the Lester C Howick Animal Shelter of Washington County, we sponsor a joint TNR program. To be eligible for this program, you and the colony you are trapping cats in must be in either an unincorporated area of Washington County or communities that are NOT within the city limits of Fayetteville or Springdale. If you reside in and the colony is in an eligible area of the county, _there is no charge for this program_.
+*   The Humane Society of the Ozarks partners with several area vets to help pay for cats and dogs to be spayed and neutered. To learn more about the voucher program with HSO, visit their website: [https://hsozarks.org/spay-%26-neuter-program](https://hsozarks.org/spay-%26-neuter-program)
     
-*   Owned (Pet) Cats:
-    
-    *   Cost: Male Cat $35 Female Cat $50
-        
-    *   Cost: Male Dog $55 Female Dog $70
-        
 
-### Program utilizes vouchers sent to Participating Vets Participating Vets in Washington County.
-
-## **Links – National Organizations:**
+## **National Organizations:**
 
 [**Alley Cat Allies**](https://www.alleycat.org/)
 
@@ -56,20 +48,6 @@ You can make your own appointments and arrangements at the clinics listed below.
 [**Tree House Humane Society**](http://www.treehouseanimals.org/site/PageServer?pagename=home)
 
 [**Best Friends Animal Society**](https://bestfriends.org/)
-
-## **Local Low Cost Spay/Neuter Services:**
-
-[**Humane Society of the Ozarks**](https://hsozarks.org/)
-
-[**Humane Society for Animals, Inc**](http://humanesocietyanimals.org/)
-
-[**Spay Arkansas**](http://spayarkansas.org/)
-
-[**Kitties and Kanines Veterinary Clinic**](https://www.kittiesandkanines.com/)
-
-[**Fayetteville Animal Services**](https://www.fayetteville-ar.gov/525/Animal-Services)
-
-[**Lester C. Howick Animal Shelter: Washington County, Arkansas**](https://www.co.washington.ar.us/government/departments-a-e/animal-shelter)
 
 ## **AREA SHELTERS:**
 

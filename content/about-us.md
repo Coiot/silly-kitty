@@ -35,7 +35,7 @@ If you would like to volunteer and help us with these efforts, please email us w
 
 If you are caring for, or know of cats who need assistance, please email us at [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com) with details about the cat(s) in need, as well as your location, and a phone number where we can reach you.
 
-#### Adopt
+### Adopt
 
 Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-fayetteville-arkansas)
 
@@ -51,7 +51,7 @@ Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptap
     
 *   Cat Food
     
-*   Clay Litter
+*   Kitty Litter
     
 *   Large Rubbermaid Storage Totes for winter shelters and feeding stations
     

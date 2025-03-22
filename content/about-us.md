@@ -11,9 +11,7 @@ sidebar:
   side: right
 layout: page
 ---
-The Northwest Arkansas Community Cat Project is a 501 (c) 3, non-profit organization, which means your donations are tax deductible. We are 100% volunteer based, and every penny donated goes to the care of cats in our region.
-
-The NWA Community Cat Project is a registered 501©3 tax exempt organization. All donations are tax deductible!
+The NWA Community Cat Project is a registered 501©3 tax exempt organization. All donations are tax deductible! We are 100% volunteer based, and every penny donated goes to the care of cats in our region.
 
 You can donate via:
 
@@ -29,7 +27,7 @@ You can donate via:
 
 ### Volunteer
 
-If you would like to volunteer and help us with these efforts, please email us with your contact information, location, and if you have any particular interests or limitations, and we will do our best to match your availability with the needs we are presented with. We always need volunteers to trap, transport to/from clinics/shelters/adoption events, foster (both short-term and long-term, we provide all the supplies!), as well as help with fundraising and campaign efforts.
+If you would like to volunteer to help community cats in NWA, please email us with your contact information, location, and if you have any particular interests or limitations. We always need volunteers who are willing to learn and participate in trap, neuter, return efforts. We also have occasional need for volunteers to feed community cats; currently we are in need of volunteer feeders in Springdale. We also have occasional need for volunteers will to help with fundraising and outreach events.
 
 ### Care for Community Cats
 
@@ -39,10 +37,12 @@ If you are caring for, or know of cats who need assistance, please email us at [
 
 Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-fayetteville-arkansas)
 
-### **WISH LIST**
+### **WISH LISTS**
 
-*   Cat Trapper Volunteers
-    
+[Chewy wish list](https://www.chewy.com/g/nwa-community-cat-project_b118824058#wish-list)
+
+[Amazon wish list](https://a.co/2rfCcMJ)
+
 *   Humane cat traps
     
 *   Large Wire Collapsible Dog Crates for feral spay recovery
@@ -78,5 +78,3 @@ Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptap
 *   Tarps
     
 *   KMR kitten formula
-    
-*   Barn homes

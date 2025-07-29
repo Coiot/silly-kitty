@@ -27,7 +27,7 @@ You can make your own appointments and arrangements at the clinics listed below.
 
 [**Washington County Animal Shelter**](https://www.co.washington.ar.us/government/departments-a-e/animal-shelter):
 
-*   (479) 695-3450, Cost: \*$40
+*   (479) 695-3450, Cost: \*$40 per cat
     
 *   Limited to Washington County residents who do not reside within the city limits of an incorporated city whose population is in excess of 10,000 and whose annual family incomes do not exceed the current Low Income Limits for Washington County as established by the U.S. Department of Housing and Urban Development (HUD).
     

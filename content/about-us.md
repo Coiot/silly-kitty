@@ -17,10 +17,13 @@ You can donate via:
 
 *   [The Marcia Donley Memorial Fund](http://www.arcf.org/mdonley)
     
-
+*   [GiveButter](https://givebutter.com/nwaccp)
+    
 *   [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)
     
-*   Venmo @NWACCP (be sure to select “Charities” on the search page to find our account)
+*   Venmo: @NWACCP (be sure to select “Charities” on the search page to find our account)
+    
+*   CashApp: $NWACCP
     
 *   Monetary donations can be mailed to:  
     NWA Community Cat Project  

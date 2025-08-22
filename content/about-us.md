@@ -33,7 +33,7 @@ You can donate via:
 
 ### Volunteer
 
-If you would like to volunteer to help community cats in NWA, please email us with your contact information, location, and if you have any particular interests or limitations. We always need volunteers who are willing to learn and participate in trap, neuter, return efforts. We also have occasional need for volunteers to feed community cats; currently we are in need of volunteer feeders in Springdale. We also have occasional need for volunteers will to help with fundraising and outreach events.
+If you would like to volunteer to help community cats in NWA, please email us with your contact information, location, and if you have any particular interests or limitations. We always need volunteers who are willing to learn and participate in trap, neuter, return efforts. We also have occasional need for volunteers to feed community cats. We also have occasional need for volunteers will to help with fundraising and outreach events.
 
 ### Care for Community Cats
 
@@ -46,6 +46,8 @@ Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptap
 ### **WISH LISTS**
 
 [Chewy wish list](https://www.chewy.com/g/nwa-community-cat-project_b118824058#wish-list)
+
+[Walmart gift registry](https://www.walmart.com/registry/RR/9482af33-65a4-4712-a29b-bfa17775acf2)
 
 [Amazon wish list](https://a.co/2rfCcMJ)
 

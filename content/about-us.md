@@ -27,7 +27,7 @@ You can donate via:
     
 *   Monetary donations can be mailed to:  
     NWA Community Cat Project  
-    200 S. Barton Avenue  
+    1021 S Janelle Ave.  
     Fayetteville, AR 72701
     
 

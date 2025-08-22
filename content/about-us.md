@@ -15,6 +15,9 @@ The NWA Community Cat Project is a registered 501©3 tax exempt organization. Al
 
 You can donate via:
 
+*   [The Marcia Donley Memorial Fund](http://www.arcf.org/mdonley)
+    
+
 *   [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)
     
 *   Venmo @NWACCP (be sure to select “Charities” on the search page to find our account)

@@ -15,9 +15,9 @@ layout: page
 ---
 ### **BASIC INSTRUCTIONS**:
 
-*   Appointment require.
+*   Appointments require.
     
-*   Drop off time is 8:30am.
+*   Drop off time is between 8-9am.
     
 *   Each cat needs to be in their own carrier or trap.
     

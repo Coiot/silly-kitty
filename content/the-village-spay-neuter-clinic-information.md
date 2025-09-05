@@ -69,4 +69,4 @@ We are open to anyone regardless of where you live or your income level!
 
 **11114 Little Elm Rd, Farmington, AR**
 
-(Little Elm is the road behind Rustic Rooster Flea Market on Hwy 62)
+(Little Elm is the road behind Rustic Rooster Flea Market on Hwy 62. GPS may say you’ve arrived a bit before you have. Look for a gravel driveway with the metal red/tan building set back from the road.)

@@ -15,7 +15,7 @@ layout: page
 ---
 ### **BASIC INSTRUCTIONS**:
 
-*   Appointments require.
+*   Appointments required.
     
 *   Drop off time is between 8-9am.
     

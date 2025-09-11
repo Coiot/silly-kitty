@@ -41,7 +41,7 @@ layout: page
         
     *   Check
         
-*   Pick-up times can vary. **A volunteer will text you once your cat(s) are awake enough for discharge.**
+*   Pick-up times can vary but plan for early afternoon. **A volunteer will text you once your cat(s) are awake enough for discharge.**
     
 
 ## COSTS

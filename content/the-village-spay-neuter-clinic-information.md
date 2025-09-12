@@ -19,13 +19,15 @@ layout: page
     
 *   Drop off time is between 8-9am.
     
+*   Kittens must weigh 3lbs (roughly 3 months of age).
+    
+*   No food after midnight the night before surgery (leaving water out is okay).
+    
 *   Each cat needs to be in their own carrier or trap.
     
 *   Hard sided carriers are much preferred over fabric carriers.
     
-*   Kittens must weigh 3lbs (roughly 3 months of age).
-    
-*   No food after midnight the night before surgery (leaving water out is okay).
+*   Please have only the cat (and a pee pad, cardboard pad or newspapers) in the carrier/trap. No blankets, towels, or other non-disposable objects.
     
 *   Please place a label on each carrier with your cat’s name, your name, and your phone number.
     

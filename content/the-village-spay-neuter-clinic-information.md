@@ -27,7 +27,7 @@ layout: page
     
 *   Hard sided carriers are much preferred over fabric carriers.
     
-*   Please have only the cat (and a pee pad, cardboard pad or newspapers) in the carrier/trap. No blankets, towels, or other non-disposable objects.
+*   Please have only the cat (and a pee pad, cardboard pad, or newspapers) in the carrier/trap. No blankets, towels, or other non-disposable objects.
     
 *   Please place a label on each carrier with your cat’s name, your name, and your phone number.
     

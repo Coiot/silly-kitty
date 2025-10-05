@@ -30,6 +30,8 @@ layout: page
 *   Please have only the cat (and a pee pad, cardboard pad, or newspapers) in the carrier/trap. No blankets, towels, or other non-disposable objects.
     
 *   Please place a label on each carrier with your cat’s name, your name, and your phone number.
+
+*   For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. [Clinic intake form](/images/NWA CCP clinic intake form Sept 2025.pdf) Please complete a form for each cat you are bringing to the clinic.
     
 *   Payment accepted:
     

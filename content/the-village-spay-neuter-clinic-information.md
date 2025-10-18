@@ -31,7 +31,7 @@ layout: page
     
 *   Please place a label on each carrier with your cat’s name, your name, and your phone number.
     
-*   For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. \[Clinic intake form\](/images/NWA CCP Clinic intake Form Oct 2025.pdf) Please complete a form for each cat you are bringing to the clinic.
+*   For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. \[[Clinic intake form](https://github.com/Coiot/silly-kitty/blob/654408ab2e0871011b664fd9e790c3a432d41a12/static/images/NWA%20CCP%20Clinic%20intake%20Form%20Oct%202025.pdf)\]Please complete a form for each cat you are bringing to the clinic.
     
 *   Payment accepted:
     

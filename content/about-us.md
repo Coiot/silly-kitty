@@ -11,7 +11,7 @@ sidebar:
   side: right
 layout: page
 ---
-The NWA Community Cat Project is a registered 501©3 tax exempt organization. All donations are tax deductible! We are 100% volunteer based, and every penny donated goes to the care of cats in our region.
+The NWA Community Cat Project is a registered 501©3 tax exempt organization. All donations are tax deductible! We are volunteer based, and your donations go to the care of cats in our region.
 
 You can donate via:
 
@@ -41,7 +41,7 @@ If you are caring for, or know of cats who need assistance, please email us at [
 
 ### Adopt
 
-Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-fayetteville-arkansas)
+While our main focus is on spay/neuter and not on fostering and adoption, we often have adoptable kitties in our care. Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-fayetteville-arkansas)
 
 ### **WISH LISTS**
 

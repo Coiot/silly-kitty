@@ -62,7 +62,9 @@ Optional Services:
     
 *   $5 flea/tick treatment
     
-*   $20 microchip
+*   $10 microchip
+    
+*   $10 take home pain medication (in addition to pain medication given during surgery)
     
 *   $20 FIV/FeLV test
     

@@ -50,15 +50,17 @@ layout: page
 
 ## COSTS
 
-**$15 spay/neuter**
+**$25 spay/neuter package includes Rabies and FVRCP vaccines**
 
 Optional Services:
 
-*   $10 for rabies (required if not up to date)
+*   $10 for Rabies vaccine
     
-*   $10 for annual kitty vaccines
+*   $10 for annual kitty vaccine (FVRCP)
     
 *   $5 for deworming
+    
+*   $5 flea/tick treatment
     
 *   $20 microchip
     

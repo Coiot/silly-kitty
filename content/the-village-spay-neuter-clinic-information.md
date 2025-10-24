@@ -54,10 +54,6 @@ layout: page
 
 Optional Services:
 
-*   $10 for Rabies vaccine
-    
-*   $10 for annual kitty vaccine (FVRCP)
-    
 *   $5 for deworming
     
 *   $5 flea/tick treatment

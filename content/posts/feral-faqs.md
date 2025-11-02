@@ -21,7 +21,7 @@ layout: page
     
 5.  [What about a feral cat sanctuary or a barn home for these cats?](#5)
     
-6.  [I discovered some cats outside. Who can I call to come and get them?](#6)
+6.  [I discovered some cats outside. What should I do?](#6)
     
 7.  [I have been feeding cats for a while and they are reproducing. What should I do?](#7)
     

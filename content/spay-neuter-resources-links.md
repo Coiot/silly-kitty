@@ -12,7 +12,7 @@ sidebar:
   side: left
 layout: page
 ---
-Please contact us at: [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com) with your telephone number and a good time to call. Advise us if you are planning multiple appointments for additional assistance. We have live traps available to borrow, with a fully refundable deposit.
+To make spay/neuter appointments for your kitties with our clinic contact us at: [nwacommunitycatproject@gmail.com](mailto:nwacommunitycatproject@gmail.com) or text 501-500-3855. More information including pricing and location can be found on our Clinic Instructions page.
 
 ## **Low Cost Spay & Neuter Resources**
 
@@ -20,21 +20,21 @@ You can make your own appointments and arrangements at the clinics listed below.
 
 [**Spay Arkansas**](http://spayarkansas.org/):
 
-*   (479) 756-1100
+*   [(479) 756-1100](tel:\(479\) 756-1100)
     
 *   \*No income restrictions for feral cats. The cats must be truly feral, not just scared or unpetable!
     
 
 [**Washington County Animal Shelter**](https://www.co.washington.ar.us/government/departments-a-e/animal-shelter):
 
-*   (479) 695-3450, Cost: \*$40 per cat
+*   [(479) 695-3450](tel:\(479\) 695-3450), Cost: \*$40 per cat
     
 *   Limited to Washington County residents who do not reside within the city limits of an incorporated city whose population is in excess of 10,000 and whose annual family incomes do not exceed the current Low Income Limits for Washington County as established by the U.S. Department of Housing and Urban Development (HUD).
     
 
 [**Humane Society of the Ozarks**](https://hsozarks.org/programs/feral-cats-tnr-program/)**:**
 
-*   (479) 444-7387
+*   [(479) 444-7387](tel:\(479\) 444-7387)
     
 *   The Humane Society of the Ozarks partners with several area vets to help pay for cats and dogs to be spayed and neutered. To learn more about the voucher program with HSO, [visit their website](https://hsozarks.org/spay-%26-neuter-program).
     

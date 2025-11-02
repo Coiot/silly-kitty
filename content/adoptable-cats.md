@@ -13,7 +13,7 @@ sidebar:
   side: right
 layout: page
 ---
-All of our kitties are spayed/neutered, vaccinated, flea treated, dewormed, and microchipped.
+While our primary activity is providing low-cost spay/neuter services for cats, we do occasionally have adoptable cats in our care. All of our kitties are spayed/neutered, vaccinated, flea treated, dewormed, and microchipped.
 
 View our adoptable cats by visiting:
 

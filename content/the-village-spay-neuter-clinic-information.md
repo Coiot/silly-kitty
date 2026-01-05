@@ -15,7 +15,7 @@ layout: page
 ---
 ### **BASIC INSTRUCTIONS**:
 
-*   Appointments required.
+*   Appointments required. Please text (501) 500-3855 to schedule.
     
 *   Drop off time is between 8-9am.
     

@@ -15,7 +15,7 @@ layout: page
 ---
 ### **BASIC INSTRUCTIONS**:
 
-*   Appointments required. Please text [(501) 500-3855](tel:\(501\) 500-3855) to schedule.
+*   Appointments required. Please text [(501) 500-3855](tel:\(501%5C) [500-3855](tel:500-3855)) to schedule.
     
 *   Drop off time is between 8-9am.
     
@@ -31,7 +31,7 @@ layout: page
     
 *   Please place a label on each carrier with your cat’s name, your name, and your phone number.
     
-*   For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. \[[Clinic intake form](/images/Clinic%20intake%20form%20Jan%202026.pdf)\] Please complete a form for each cat you are bringing to the clinic.
+*   For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. \[[Clinic intake form](images/Clinic%20intake%20form%20Jan%202026.pdf)\] Please complete a form for each cat you are bringing to the clinic.
     
 *   Payment accepted:
     

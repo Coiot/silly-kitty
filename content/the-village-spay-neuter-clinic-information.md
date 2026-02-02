@@ -15,7 +15,7 @@ layout: page
 ---
 ### **BASIC INSTRUCTIONS**:
 
-*   Appointments required. Please text (501) 500-3855 to schedule.
+*   Appointments required. Please text [(501) 500-3855](tel:\(501\) 500-3855) to schedule.
     
 *   Drop off time is between 8-9am.
     
@@ -31,7 +31,7 @@ layout: page
     
 *   Please place a label on each carrier with your cat’s name, your name, and your phone number.
     
-*   For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. \[[Clinic intake form](/images/NWA%20CCP%20Clinic%20intake%20Form%20Oct%202025.pdf)\] Please complete a form for each cat you are bringing to the clinic.
+*   For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. \[[Clinic intake form](https://github.com/Coiot/silly-kitty/blob/7e57820ae9f6edc5f6d976dbee6aa761cb331222/static/images/Clinic%20intake%20form%20Jan%202026.pdf)\] Please complete a form for each cat you are bringing to the clinic.
     
 *   Payment accepted:
     

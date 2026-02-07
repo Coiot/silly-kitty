@@ -15,7 +15,7 @@ layout: page
 ---
 ### **BASIC INSTRUCTIONS**:
 
-*   Appointments required. Please text [(501) 500-3855](tel:\(501%5C) [500-3855](tel:500-3855)) to schedule.
+*   Appointments required. Please text [(501) 500-3855](tel:\(501%5C)) to schedule.
     
 *   Drop off time is between 8-9am.
     

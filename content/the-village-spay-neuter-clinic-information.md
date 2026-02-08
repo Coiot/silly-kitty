@@ -33,7 +33,7 @@ layout: page
     
 *   For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. \[[Clinic intake form](https://nwacommunitycatproject.org/images/Clinic%20intake%20form%20Jan%202026.pdf)\] Please complete a form for each cat you are bringing to the clinic.
     
-*   Payment accepted:
+*   Payment due at pickup. Payment accepted:
     
     *   Cash
         

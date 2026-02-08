@@ -65,6 +65,8 @@ Optional Services:
 *   $20 FIV/FeLV test
     
 
+Please note: optional services are only available as part of a spay/neuter appointment.
+
 We are open to anyone regardless of where you live or your income level!
 
 ![](/images/img_0215.jpg)

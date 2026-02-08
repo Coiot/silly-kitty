@@ -39,9 +39,11 @@ layout: page
         
     *   Paypal: [https://www.paypal.com/fundraiser/charity/2408427](https://www.paypal.com/fundraiser/charity/2408427)
         
-    *   Venmo (@NWACCP – click on “charities”)
+    *   Venmo: @NWACCP (click on “charities”)
         
-    *   Give Butter [https://givebutter.com/nwaccp](https://givebutter.com/nwaccp)
+    *   Give Butter: [https://givebutter.com/nwaccp](https://givebutter.com/nwaccp)
+        
+    *   Cash App: $NWACCP
         
     *   Check
         

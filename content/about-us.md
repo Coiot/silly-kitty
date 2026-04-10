@@ -15,25 +15,19 @@ The NWA Community Cat Project is a registered 501©3 tax exempt organization. Al
 
 You can donate via:
 
-*   [The Marcia Donley Memorial Fund](http://www.arcf.org/mdonley)
-    
-*   [GiveButter](https://givebutter.com/nwaccp)
-    
-*   [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)
-    
-*   Venmo: @NWACCP (be sure to select “Charities” on the search page to find our account)
-    
-*   CashApp: $NWACCP
-    
-*   Monetary donations can be mailed to:  
-    NWA Community Cat Project  
-    1021 S Janelle Ave.  
-    Fayetteville, AR 72701
-    
+- [The Marcia Donley Memorial Fund](http://www.arcf.org/mdonley)
+- [GiveButter](https://givebutter.com/nwaccp)
+- [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)
+- Venmo: @NWACCP (be sure to select “Charities” on the search page to find our account)
+- CashApp: $NWACCP
+- Monetary donations can be mailed to:  
+NWA Community Cat Project  
+1021 S Janelle Ave.  
+Fayetteville, AR 72701
 
 ### Volunteer
 
-If you would like to volunteer to help community cats in NWA, please email us with your contact information, location, and if you have any particular interests or limitations. We always need volunteers who are willing to learn and participate in trap, neuter, return efforts. We also have occasional need for volunteers to feed community cats. We also have occasional need for volunteers will to help with fundraising and outreach events.
+If you would like to volunteer to help community cats in NWA, please email us with your contact information, location, and if you have any particular interests or limitations. We always need volunteers who are willing to learn and participate in trap, neuter, return efforts. We also have occasional need for volunteers to feed community cats or to help with fundraising and outreach events.
 
 ### Care for Community Cats
 
@@ -41,7 +35,7 @@ If you are caring for, or know of cats who need assistance, please email us at [
 
 ### Adopt
 
-While our main focus is on spay/neuter and not on fostering and adoption, we often have adoptable kitties in our care. Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-fayetteville-arkansas)
+While our main focus is on spay/neuter and not on fostering and adoption, we occasionally have adoptable kitties in our care. Take a look at [our adoptable cats and kittens on AdoptaPet](https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-fayetteville-arkansas)
 
 ### **WISH LISTS**
 
@@ -51,40 +45,17 @@ While our main focus is on spay/neuter and not on fostering and adoption, we oft
 
 [Amazon wish list](https://a.co/2rfCcMJ)
 
-*   Humane cat traps
-    
-*   Large Wire Collapsible Dog Crates for feral spay recovery
-    
-*   Small cat carriers
-    
-*   Cat Food
-    
-*   Kitty Litter
-    
-*   Large Rubbermaid Storage Totes for winter shelters and feeding stations
-    
-*   Bleach
-    
-*   Laundry detergent
-    
-*   Long handled scrub brushes
-    
-*   Snuggle Safe Warming Discs
-    
-*   Fluids (Lactated Ringers)
-    
-*   3cc syringes
-    
-*   1 cc syringes
-    
-*   FeLV/FIV test kits
-    
-*   Paper towels
-    
-*   Large plastic trash bags
-    
-*   Tarps
-    
-*   KMR kitten formula
-    
-*   Gift cards (Walmart, PetCo, PetSmart, gas stations, etc!)
+- Humane cat traps (Tru Catch and Tomahawk Live Trap are our favorites)
+- Small cat carriers
+- Cat Food - dry and wet
+- Large Rubbermaid Storage Totes for winter shelters and feeding stations
+- Bleach
+- Laundry detergent
+- Fluids (Lactated Ringers)
+- 3cc syringes
+- 1 cc syringes
+- Paper towels
+- Large plastic trash bags
+- KMR kitten formula
+- Gift cards (Walmart, Chewy, PetCo, PetSmart, etc!)
+

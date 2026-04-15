@@ -27,12 +27,6 @@ content:
             type: string
             hidden: true
             readonly: true
-          - name: description
-            label: SEO Description
-            type: text
-          - name: social_image
-            label: Social Share Image
-            type: image
           - name: banner
             label: Banner
             type: object
@@ -78,19 +72,6 @@ content:
               - name: features
                 label: Feature Cards
                 fields:
-                  - name: section_id
-                    label: Section ID
-                    type: string
-                  - name: template
-                    label: Template
-                    type: string
-                    hidden: true
-                    readonly: true
-                  - name: component
-                    label: Partial
-                    type: string
-                    hidden: true
-                    readonly: true
                   - name: features
                     label: Cards
                     type: object
@@ -136,19 +117,6 @@ content:
               - name: cta
                 label: Highlight Section
                 fields:
-                  - name: section_id
-                    label: Section ID
-                    type: string
-                  - name: template
-                    label: Template
-                    type: string
-                    hidden: true
-                    readonly: true
-                  - name: component
-                    label: Partial
-                    type: string
-                    hidden: true
-                    readonly: true
                   - name: title
                     label: Heading
                     type: string
@@ -181,19 +149,6 @@ content:
               - name: posts
                 label: Vision Section
                 fields:
-                  - name: section_id
-                    label: Section ID
-                    type: string
-                  - name: template
-                    label: Template
-                    type: string
-                    hidden: true
-                    readonly: true
-                  - name: component
-                    label: Partial
-                    type: string
-                    hidden: true
-                    readonly: true
                   - name: title
                     label: Heading
                     type: string
@@ -370,17 +325,10 @@ content:
           - name: title
             label: Site Title
             type: string
-          - name: baseURL
-            label: Base URL
-            type: string
           - name: params
-            label: Theme Settings
+            label: Theme
             type: object
             fields:
-              - name: landing_template
-                label: Landing Template
-                type: string
-                hidden: true
               - name: palette
                 label: Color Palette
                 type: select
@@ -388,60 +336,6 @@ content:
                   values:
                     - blue
                     - green
-              - name: palettes
-                label: Palette Colors
-                type: object
-                fields:
-                  - name: blue
-                    label: Blue Palette
-                    type: object
-                    fields:
-                      - name: sass
-                        label: Sass Colors
-                        type: object
-                        fields:
-                          - name: gradient1
-                            label: Gradient 1
-                            type: string
-                          - name: gradient2
-                            label: Gradient 2
-                            type: string
-                          - name: accent1
-                            label: Accent 1
-                            type: string
-                          - name: accent2
-                            label: Accent 2
-                            type: string
-                          - name: accent3
-                            label: Accent 3
-                            type: string
-                  - name: green
-                    label: Green Palette
-                    type: object
-                    fields:
-                      - name: sass
-                        label: Sass Colors
-                        type: object
-                        fields:
-                          - name: gradient1
-                            label: Gradient 1
-                            type: string
-                          - name: gradient2
-                            label: Gradient 2
-                            type: string
-                          - name: accent1
-                            label: Accent 1
-                            type: string
-                          - name: accent2
-                            label: Accent 2
-                            type: string
-                          - name: accent3
-                            label: Accent 3
-                            type: string
-          - name: disableKinds
-            label: Disabled Hugo Kinds
-            type: string
-            list: true
 
   - name: content
     label: Content
@@ -470,12 +364,6 @@ content:
           - name: subtitle
             label: Subtitle
             type: string
-          - name: description
-            label: SEO Description
-            type: text
-          - name: social_image
-            label: Social Share Image
-            type: image
           - name: body
             label: Body
             type: rich-text
@@ -519,9 +407,6 @@ content:
               - name: path
                 label: Image
                 type: image
-              - name: url
-                label: Image Link
-                type: string
           - name: sidebar
             label: Sidebar
             type: object
@@ -661,12 +546,6 @@ content:
           - name: subtitle
             label: Subtitle
             type: string
-          - name: description
-            label: SEO Description
-            type: text
-          - name: social_image
-            label: Social Share Image
-            type: image
           - name: excerpt
             label: Excerpt
             type: text
@@ -717,9 +596,6 @@ content:
               - name: path
                 label: Image
                 type: image
-              - name: url
-                label: Image Link
-                type: string
           - name: alt_img
             label: Featured Image
             type: image

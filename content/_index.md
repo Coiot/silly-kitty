@@ -1,12 +1,12 @@
 ---
 title: home
 banner:
-  title: Providing animal welfare services
-  subtitle: To improve the lives of the estimated 50,000 community cats (stray, abandoned,
-    or feral) living in North West Arkansas by providing low cost spay/neuter, TNR
-    (Trap, Neuter, Return) training and equipment, public education, and increased
-    support and legal protection to colony caretakers, facilitating the humane management
-    of community cats, ultimately decreasing their numbers in shelters and at large.
+  title: Mission
+  subtitle: The mission of NWA Community Cat Project is to improve the lives of
+    community cats in Northwest Arkansas and beyond by providing low cost spay/neuter
+    services, TNR (Trap, Neuter, & Return) support including training and equipment,
+    and public education to facilitate the humane management of community cats,
+    ultimately decreasing their numbers in shelters and at large.
   actions:
   - label: Lend a Paw!
     url: "/about-us"
@@ -34,14 +34,6 @@ sections:
     description: Open to anyone regardless of where you live or your income level!
       This is the perfect opportunity to alter those neighborhood kitties that just
       “hang around”, feral kitties, or your own much loved pet.
-  - title: Trap Rentals
-    icon:
-      enabled: true
-      icon: fa-unlock-alt
-      style: style2
-    description: We have free trap rentals ( with a $75 deposit that is fully refunded)
-      and advice on how to use them for any residents wishing to spay/neuter community
-      cats.  To request assistance, email us at nwacommunitycatproject.org
   - title: Support Network
     icon:
       enabled: true
@@ -49,41 +41,37 @@ sections:
       style: style2
     description: Supporting cat colony caretakers and helping them gain the respect
       they so richly deserve for their difficult, thankless, expensive and compassionate
-      work. We promote the adoption of long term care taker based solutions regarding
-      community cats. You can [**contact us by email**](mailto:nwacommunitycatproject@gmail.com
-      "Contact us through this email address."). If you wish to talk to someone, leave
-      your phone number and a good time to call.
+      work.
   - title: Donations
     icon:
       enabled: true
       icon: fa-gift
       style: style1
-    description: "The NWA Community Cat Project is a registered 501©3 tax exempt organization.
-      All donations are tax deductible! You can donate directly to us through [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427)"
+    description: The NWA Community Cat Project is a registered 501(c)(3) tax exempt
+      organization. All donations are tax deductible! You can donate directly to
+      us through [PayPal](https://www.paypal.com/US/fundraiser/charity/2408427) or
+      visit our [About Us](/about-us) page to find more ways to help.
   component: features.html
 - type: cta
   template: cta
   section_id: cta
   title: Trap-Neuter-Return (TNR)
   actions:
-  - label: How it works
+  - label: How It Works
     url: "/posts/trap-neuter-return-tnr"
     is_primary: false
     is_scrolly: false
-  text: TNR is a comprehensive plan where entire feral colonies are humanely trapped,
-    then evaluated, vaccinated, and neutered by veterinarians. Kittens and cats that
-    are tame enough to be adopted are placed in good homes. Adult cats are returned
-    to their familiar habitat to live out their lives under the watchful care of sympathetic
-    neighborhood volunteers.
+  text: TNR is a comprehensive plan where community cats are humanely trapped, vaccinated
+    and spayed or neutered, and returned to their home territory.
   component: cta.html
 - type: posts
   template: posts
   section_id: posts
   title: Our Vision
-  subtitle: |-
-    To have a community where no kittens are born wild, where no cat capable of living in a home is lacking one, and where no community cats go wanting for food, water, and appropriate care and concern.
-
-    Keep coming back to our page to see updates on our blog about where we are hosting clinics, offering services, and showing some of the cats we've helped find a new home.
+  subtitle: To have a community where no kittens are born wild, where no cat capable
+    of living in a home is lacking one, and where no community cats go wanting for
+    food, water, and appropriate care and concern.
+  show_posts: false
   component: posts.html
 layout: home
 

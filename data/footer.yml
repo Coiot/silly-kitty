@@ -1,37 +1,15 @@
 ---
 about:
-  enabled: true
-  title: Providing Animal Welfare Services to Our Community
-  text: Our mission is to help the 50,000 feral cats living in Northwest Arkansas
-    by providing TNR training equipment & public education.
-  actions:
-  - label: Come Volunteer & Save Lives!
-    url: "/about-us"
-    is_primary: true
-    is_scrolly: false
+  enabled: false
 contact_methods:
   enabled: true
-  methods_col1:
-  - template: contact_with_link
-    type: contact_with_link
+  social_icons:
+  - icon: fa-facebook
     url: https://www.facebook.com/nwacommunitycatproject/
-    text: Facebook Page
-    icon: fa-facebook
-    title: Like us on Facebook
-  methods_col2:
-  - type: contact_with_link
-    template: contact_with_link
-    title: Send us an Email
-    icon: fa-envelope-o
-    text: nwacommunitycatproject [at] gmail [dot] com
-    url: mailto:nwacommunitycatproject@gmail.com
-  methods_col3:
-  - type: contact_with_link
-    template: contact_with_link
-    title: Follow us on Instagram
-    icon: fa-instagram
-    text: Instagram Page
+    title: Facebook
+  - icon: fa-instagram
     url: https://www.instagram.com/nwa_ccp/
+    title: Instagram
 copyright:
   enabled: true
   text: "&copy; NWACCP. All rights reserved."

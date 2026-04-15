@@ -1,13 +1,54 @@
 <!doctype html>
 <html lang="en">
-    <head>    
-        <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    <head>
+        {{ $siteTitle := .Site.Title }}
+        {{ $pageTitle := cond .IsHome $siteTitle (printf "%s - %s" .Title $siteTitle) }}
+        {{ $descriptionSource := "" }}
+        {{ with .Params.description }}
+            {{ $descriptionSource = . }}
+        {{ else if .IsHome }}
+            {{ with .Params.banner.subtitle }}
+                {{ $descriptionSource = . }}
+            {{ end }}
+        {{ else if .Params.subtitle }}
+            {{ $descriptionSource = .Params.subtitle }}
+        {{ else if .Summary }}
+            {{ $descriptionSource = .Summary }}
+        {{ else if .Content }}
+            {{ $descriptionSource = .Content }}
+        {{ end }}
+        {{ $description := cond (ne $descriptionSource "") ($descriptionSource | markdownify | plainify | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace | truncate 160) "Northwest Arkansas Community Cat Project provides low-cost spay/neuter services, TNR support, and education to improve the lives of community cats." }}
+        {{ $shareImage := "" }}
+        {{ with .Params.social_image }}
+            {{ $shareImage = . | absURL }}
+        {{ else if and .Params.content_img.enabled .Params.content_img.path }}
+            {{ $shareImage = .Params.content_img.path | absURL }}
+        {{ else if .Params.alt_img }}
+            {{ $shareImage = .Params.alt_img | absURL }}
+        {{ else }}
+            {{ $shareImage = "images/banner1.jpg" | absURL }}
+        {{ end }}
+        <title>{{ $pageTitle }}</title>
         <meta charset="utf-8">
-        <meta name="description" content="Northwest Arkansas Community Cat Project, our mission is to help the 50,000 feral cats living in Northwest Arkansas by providing TNR training equipment & public education.">
+        <meta name="description" content="{{ $description }}">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
+        <link rel="canonical" href="{{ .Permalink }}">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+        <meta property="og:site_name" content="{{ $siteTitle }}">
+        <meta property="og:title" content="{{ $pageTitle }}">
+        <meta property="og:description" content="{{ $description }}">
+        <meta property="og:url" content="{{ .Permalink }}">
+        <meta property="og:image" content="{{ $shareImage }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="{{ $pageTitle }}">
+        <meta name="twitter:description" content="{{ $description }}">
+        <meta name="twitter:image" content="{{ $shareImage }}">
+        {{ if .IsHome }}
+            <link rel="preload" as="image" href="{{ "images/banner1.jpg" | relURL }}">
+        {{ end }}
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)).Permalink }}" />
         <link rel="stylesheet" href="{{ "assets/css/markdown-images.css" | relURL }}" />
-        
     </head>
     <body class="{{ if eq .Params.layout .Site.Params.landing_template }}landing {{ end }}">
         

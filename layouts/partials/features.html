@@ -1,5 +1,5 @@
 <!-- One -->
-<section id="{{ .section.section_id }}" class="wrapper">
+<section id="{{ or .section.section_id .section.type }}" class="wrapper">
     <div class="inner">
         <ul class="features">
             {{ range $feature := .section.features }}

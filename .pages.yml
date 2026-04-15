@@ -1,155 +1,821 @@
-media: 
+media:
   input: static/images
   output: /images
+
+settings:
+  content:
+    merge: true
+  commit:
+    templates:
+      create: "Create {path}"
+      update: "Update {path}"
+      delete: "Delete {path}"
+
 content:
-  - name: pages
-    label: Pages
-    path: content
-    type: collection
-    exclude: [ _index.md ]
-    view:
-      fields: [ title, subtitle ]
-    fields:
-      - name: title
-        label: Title
-        type: string
-      - name: subtitle
-        label: "Sub-title"
-        type: string
-      - name: body
-        label: Body
-        type: rich-text
-        options:
-          image:
-            path: images
-            extensions: [ jpg, jpeg, png ]
-      - name: menu
-        label: "Menu"
-        type: object
+  - name: site
+    label: Site Settings
+    type: group
+    items:
+      - name: home
+        label: Home Page
+        type: file
+        path: content/_index.md
+        format: yaml-frontmatter
         fields:
-          - name: main
-            label: Main
+          - name: title
+            label: Internal Title
+            type: string
+            hidden: true
+            readonly: true
+          - name: description
+            label: SEO Description
+            type: text
+          - name: social_image
+            label: Social Share Image
+            type: image
+          - name: banner
+            label: Banner
             type: object
             fields:
-            - name: name
-              label: Name
-              type: string
-            - name: weight
-              label: Weight
-              type: number
-          - name: footer
-            label: Footer
+              - name: title
+                label: Heading
+                type: string
+                required: true
+              - name: subtitle
+                label: Text
+                type: rich-text
+                options:
+                  format: markdown
+                  rename: safe
+              - name: actions
+                label: Buttons
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    label: Label
+                    type: string
+                    required: true
+                  - name: url
+                    label: URL
+                    type: string
+                    required: true
+                  - name: is_primary
+                    label: Primary
+                    type: boolean
+                  - name: is_scrolly
+                    label: Smooth Scroll
+                    type: boolean
+                  - name: is_huge
+                    label: Large Button
+                    type: boolean
+          - name: sections
+            label: Home Sections
+            type: block
+            list: true
+            blockKey: type
+            blocks:
+              - name: features
+                label: Feature Cards
+                fields:
+                  - name: type
+                    label: Section Type
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: section_id
+                    label: Section ID
+                    type: string
+                  - name: template
+                    label: Template
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: component
+                    label: Partial
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: features
+                    label: Cards
+                    type: object
+                    list: true
+                    fields:
+                      - name: title
+                        label: Title
+                        type: string
+                        required: true
+                      - name: icon
+                        label: Icon
+                        type: object
+                        fields:
+                          - name: enabled
+                            label: Show Icon
+                            type: boolean
+                          - name: icon
+                            label: Icon Class
+                            type: select
+                            options:
+                              values:
+                                - fa-compass
+                                - fa-medkit
+                                - fa-life-ring
+                                - fa-gift
+                                - fa-heart
+                                - fa-paw
+                                - fa-info-circle
+                          - name: style
+                            label: Icon Style
+                            type: select
+                            options:
+                              values:
+                                - style1
+                                - style2
+                                - style3
+                      - name: description
+                        label: Description
+                        type: rich-text
+                        options:
+                          format: markdown
+                          rename: safe
+              - name: cta
+                label: Highlight Section
+                fields:
+                  - name: type
+                    label: Section Type
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: section_id
+                    label: Section ID
+                    type: string
+                  - name: template
+                    label: Template
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: component
+                    label: Partial
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: title
+                    label: Heading
+                    type: string
+                    required: true
+                  - name: actions
+                    label: Buttons
+                    type: object
+                    list: true
+                    fields:
+                      - name: label
+                        label: Label
+                        type: string
+                        required: true
+                      - name: url
+                        label: URL
+                        type: string
+                        required: true
+                      - name: is_primary
+                        label: Primary
+                        type: boolean
+                      - name: is_scrolly
+                        label: Smooth Scroll
+                        type: boolean
+                  - name: text
+                    label: Text
+                    type: rich-text
+                    options:
+                      format: markdown
+                      rename: safe
+              - name: posts
+                label: Vision Section
+                fields:
+                  - name: type
+                    label: Section Type
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: section_id
+                    label: Section ID
+                    type: string
+                  - name: template
+                    label: Template
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: component
+                    label: Partial
+                    type: string
+                    hidden: true
+                    readonly: true
+                  - name: title
+                    label: Heading
+                    type: string
+                    required: true
+                  - name: subtitle
+                    label: Text
+                    type: rich-text
+                    options:
+                      format: markdown
+                      rename: safe
+                  - name: show_posts
+                    label: Show Post Cards
+                    type: boolean
+          - name: layout
+            label: Layout
+            type: string
+            hidden: true
+            readonly: true
+
+      - name: footer
+        label: Footer
+        type: file
+        path: data/footer.yml
+        format: yaml
+        fields:
+          - name: about
+            label: About Section
             type: object
             fields:
-            - name: name
-              label: Name
-              type: string
-            - name: weight
-              label: Weight
-              type: number
-      - name: content_img
-        label: "Content Image"
-        type: object
+              - name: enabled
+                label: Enabled
+                type: boolean
+              - name: title
+                label: Title
+                type: string
+              - name: text
+                label: Text
+                type: rich-text
+                options:
+                  format: markdown
+              - name: actions
+                label: Buttons
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    label: Label
+                    type: string
+                  - name: url
+                    label: URL
+                    type: string
+                  - name: is_primary
+                    label: Primary
+                    type: boolean
+                  - name: is_scrolly
+                    label: Smooth Scroll
+                    type: boolean
+          - name: contact_methods
+            label: Contact Methods
+            type: object
+            fields:
+              - name: enabled
+                label: Enabled
+                type: boolean
+              - name: social_icons
+                label: Social Icons
+                type: object
+                list: true
+                fields:
+                  - name: title
+                    label: Title
+                    type: string
+                    required: true
+                  - name: icon
+                    label: Icon Class
+                    type: select
+                    options:
+                      values:
+                        - fa-facebook
+                        - fa-instagram
+                  - name: url
+                    label: URL
+                    type: string
+                    required: true
+          - name: copyright
+            label: Copyright
+            type: object
+            fields:
+              - name: enabled
+                label: Enabled
+                type: boolean
+              - name: text
+                label: Text
+                type: string
+
+      - name: site_settings
+        label: Organization Details
+        type: file
+        path: data/site_settings.yml
+        format: yaml
         fields:
-          - name: enabled
-            label: Enabled
-            type: boolean
-          - name: path
-            label: "Image Path"
-            type: string
-          - name: url
-            label: "Image URL"
-            type: string
-      - name: sidebar
-        label: Sidebar
-        type: object
+          - name: organization
+            label: Organization
+            type: object
+            fields:
+              - name: name
+                label: Name
+                type: string
+                required: true
+          - name: contact
+            label: Contact
+            type: object
+            fields:
+              - name: email
+                label: Email
+                type: string
+                required: true
+              - name: email_subject_adoption
+                label: Adoption Email Subject
+                type: string
+              - name: text_phone_display
+                label: Display Phone Number
+                type: string
+                required: true
+              - name: text_phone_href
+                label: Link Phone Number
+                type: string
+                required: true
+              - name: address_lines
+                label: Mailing Address Lines
+                type: string
+                list: true
+          - name: donations
+            label: Donations
+            type: object
+            fields:
+              - name: memorial_fund_url
+                label: Memorial Fund URL
+                type: string
+              - name: paypal_url
+                label: PayPal URL
+                type: string
+                required: true
+              - name: givebutter_url
+                label: GiveButter URL
+                type: string
+                required: true
+              - name: venmo_handle
+                label: Venmo Handle
+                type: string
+              - name: venmo_note
+                label: Venmo Note
+                type: string
+              - name: cashapp_handle
+                label: Cash App Handle
+                type: string
+          - name: links
+            label: Common Links
+            type: object
+            fields:
+              - name: adoptable_cats_url
+                label: Adoptable Cats URL
+                type: string
+              - name: clinic_intake_form_url
+                label: Clinic Intake Form URL
+                type: string
+
+      - name: config
+        label: Site Config
+        type: file
+        path: config.yaml
+        format: yaml
         fields:
-          - name: enabled
-            label: Enabled
-            type: boolean
-          - name: side
-            label: Side
+          - name: title
+            label: Site Title
             type: string
+          - name: baseURL
+            label: Base URL
+            type: string
+          - name: params
+            label: Theme Settings
+            type: object
+            fields:
+              - name: landing_template
+                label: Landing Template
+                type: string
+                hidden: true
+              - name: palette
+                label: Color Palette
+                type: select
+                options:
+                  values:
+                    - blue
+                    - green
+              - name: palettes
+                label: Palette Colors
+                type: object
+                fields:
+                  - name: blue
+                    label: Blue Palette
+                    type: object
+                    fields:
+                      - name: sass
+                        label: Sass Colors
+                        type: object
+                        fields:
+                          - name: gradient1
+                            label: Gradient 1
+                            type: string
+                          - name: gradient2
+                            label: Gradient 2
+                            type: string
+                          - name: accent1
+                            label: Accent 1
+                            type: string
+                          - name: accent2
+                            label: Accent 2
+                            type: string
+                          - name: accent3
+                            label: Accent 3
+                            type: string
+                  - name: green
+                    label: Green Palette
+                    type: object
+                    fields:
+                      - name: sass
+                        label: Sass Colors
+                        type: object
+                        fields:
+                          - name: gradient1
+                            label: Gradient 1
+                            type: string
+                          - name: gradient2
+                            label: Gradient 2
+                            type: string
+                          - name: accent1
+                            label: Accent 1
+                            type: string
+                          - name: accent2
+                            label: Accent 2
+                            type: string
+                          - name: accent3
+                            label: Accent 3
+                            type: string
+          - name: disableKinds
+            label: Disabled Hugo Kinds
+            type: string
+            list: true
+
+  - name: content
+    label: Content
+    type: group
+    items:
+      - name: pages
+        label: Pages
+        type: collection
+        path: content
+        format: yaml-frontmatter
+        filename:
+          template: "{primary}.md"
+          field: create
+        subfolders: false
+        exclude:
+          - _index.md
+          - posts/**
+        view:
+          primary: title
+          fields: [title, subtitle]
+        fields:
+          - name: title
+            label: Title
+            type: string
+            required: true
+          - name: subtitle
+            label: Subtitle
+            type: string
+          - name: description
+            label: SEO Description
+            type: text
+          - name: social_image
+            label: Social Share Image
+            type: image
+          - name: body
+            label: Body
+            type: rich-text
             options:
-              - left
-              - right
-      - name: layout
-        label: Layout
-        type: string
-  - name: blog
-    label: Posts
-    path: content/posts
-    view:
-      fields: [ title, subtitle ]
-    type: collection
-    fields:
-      - name: title
-        label: Title
-        type: string
-      - name: subtitle
-        label: Subtitle
-        type: string
-      - name: excerpt
-        label: Excerpt
-        type: string
-      - name: body
-        label: Body
-        type: rich-text
-        options:
-          image:
-            path: static/images
-            extensions: [ jpg, jpeg, png ]
-      - name: menu
-        label: "Menu"
-        type: object
-        fields:
-          - name: main
-            label: Main
+              format: markdown
+              rename: safe
+          - name: menu
+            label: Menu
             type: object
             fields:
-            - name: name
-              label: Name
-              type: string
-            - name: weight
-              label: Weight
-              type: number
-          - name: footer
-            label: Footer
+              - name: main
+                label: Main Navigation
+                type: object
+                fields:
+                  - name: name
+                    label: Link Label
+                    type: string
+                  - name: weight
+                    label: Sort Order
+                    type: number
+              - name: footer
+                label: Footer Navigation
+                type: object
+                fields:
+                  - name: name
+                    label: Link Label
+                    type: string
+                  - name: weight
+                    label: Sort Order
+                    type: number
+          - name: content_img
+            label: Content Image
             type: object
             fields:
-            - name: name
-              label: Name
-              type: string
-            - name: weight
-              label: Weight
-              type: number
-      - name: date
-        label: Date
-        type: date
-        options:
-          format: dd-MM-yyyy
-      - name: content_img
-        label: "Content Image"
-        type: object
-        fields:
-          - name: alt
-            label: Alt Text
-            type: string
-          - name: enabled
-            label: Enabled
+              - name: enabled
+                label: Enabled
+                type: boolean
+              - name: alt
+                label: Alt Text
+                type: string
+              - name: path
+                label: Image
+                type: image
+              - name: url
+                label: Image Link
+                type: string
+          - name: sidebar
+            label: Sidebar
+            type: object
+            fields:
+              - name: enabled
+                label: Enabled
+                type: boolean
+              - name: side
+                label: Side
+                type: select
+                options:
+                  values:
+                    - left
+                    - right
+          - name: show_contact_panel
+            label: Show Contact Panel
             type: boolean
-          - name: path
-            label: Image Path
+          - name: show_donation_panel
+            label: Show Donation Panel
+            type: boolean
+          - name: link_groups
+            label: Link Groups
+            type: object
+            list: true
+            fields:
+              - name: title
+                label: Group Title
+                type: string
+              - name: text
+                label: Intro Text
+                type: rich-text
+                options:
+                  format: markdown
+                  rename: safe
+              - name: links
+                label: Links
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    label: Label
+                    type: string
+                    required: true
+                  - name: url
+                    label: URL
+                    type: string
+                    required: true
+                  - name: description
+                    label: Description
+                    type: string
+          - name: gallery
+            label: Gallery
+            type: object
+            list: true
+            fields:
+              - name: image
+                label: Image
+                type: image
+                required: true
+              - name: alt
+                label: Alt Text
+                type: string
+                required: true
+              - name: caption
+                label: Caption
+                type: string
+              - name: link
+                label: Link URL
+                type: string
+          - name: layout
+            label: Layout
+            type: select
+            options:
+              values:
+                - page
+                - adoption
+          - name: form
+            label: Adoption Form Intro
+            type: rich-text
+            options:
+              format: markdown
+              rename: safe
+          - name: cats
+            label: Adoptable Cats
+            type: object
+            list: true
+            fields:
+              - name: image_of_cat
+                label: Cat Image
+                type: image
+                required: true
+              - name: name_of_cat
+                label: Name
+                type: string
+                required: true
+              - name: sex_of_cat
+                label: Sex
+                type: string
+              - name: age_of_cat
+                label: Age
+                type: string
+              - name: breed_of_cat
+                label: Breed
+                type: string
+              - name: size_of_cat
+                label: Size
+                type: string
+              - name: weight_of_cat
+                label: Weight
+                type: string
+              - name: notes
+                label: Notes
+                type: text
+              - name: adoption_fee
+                label: Adoption Fee
+                type: number
+
+      - name: blog
+        label: Posts
+        type: collection
+        path: content/posts
+        format: yaml-frontmatter
+        filename:
+          template: "{year}-{month}-{day}-{primary}.md"
+          field: create
+        subfolders: false
+        view:
+          primary: title
+          fields: [title, date, subtitle]
+          sort: date
+          order: desc
+        fields:
+          - name: title
+            label: Title
             type: string
-      - name: show_in_home_posts
-        label: "Show in Home Posts"
-        type: boolean
-      - name: show_in_sidebar
-        label: "Show in Sidebar"
-        type: boolean
-      - name: alt_img
-        label: Alternative Image
-        type: string
-      - name: layout
-        label: Layout
-        type: string
+            required: true
+          - name: subtitle
+            label: Subtitle
+            type: string
+          - name: description
+            label: SEO Description
+            type: text
+          - name: social_image
+            label: Social Share Image
+            type: image
+          - name: excerpt
+            label: Excerpt
+            type: text
+          - name: body
+            label: Body
+            type: rich-text
+            options:
+              format: markdown
+              rename: safe
+          - name: menu
+            label: Menu
+            type: object
+            fields:
+              - name: main
+                label: Main Navigation
+                type: object
+                fields:
+                  - name: name
+                    label: Link Label
+                    type: string
+                  - name: weight
+                    label: Sort Order
+                    type: number
+              - name: footer
+                label: Footer Navigation
+                type: object
+                fields:
+                  - name: name
+                    label: Link Label
+                    type: string
+                  - name: weight
+                    label: Sort Order
+                    type: number
+          - name: date
+            label: Date
+            type: date
+            required: true
+          - name: content_img
+            label: Content Image
+            type: object
+            fields:
+              - name: alt
+                label: Alt Text
+                type: string
+              - name: enabled
+                label: Enabled
+                type: boolean
+              - name: path
+                label: Image
+                type: image
+              - name: url
+                label: Image Link
+                type: string
+          - name: alt_img
+            label: Featured Image
+            type: image
+          - name: show_in_home_posts
+            label: Show on Home Page
+            type: boolean
+          - name: show_in_sidebar
+            label: Show in Sidebar
+            type: boolean
+          - name: sidebar
+            label: Sidebar
+            type: object
+            fields:
+              - name: enabled
+                label: Enabled
+                type: boolean
+              - name: side
+                label: Side
+                type: select
+                options:
+                  values:
+                    - left
+                    - right
+          - name: show_contact_panel
+            label: Show Contact Panel
+            type: boolean
+          - name: show_donation_panel
+            label: Show Donation Panel
+            type: boolean
+          - name: link_groups
+            label: Link Groups
+            type: object
+            list: true
+            fields:
+              - name: title
+                label: Group Title
+                type: string
+              - name: text
+                label: Intro Text
+                type: rich-text
+                options:
+                  format: markdown
+                  rename: safe
+              - name: links
+                label: Links
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    label: Label
+                    type: string
+                    required: true
+                  - name: url
+                    label: URL
+                    type: string
+                    required: true
+                  - name: description
+                    label: Description
+                    type: string
+          - name: gallery
+            label: Gallery
+            type: object
+            list: true
+            fields:
+              - name: image
+                label: Image
+                type: image
+                required: true
+              - name: alt
+                label: Alt Text
+                type: string
+                required: true
+              - name: caption
+                label: Caption
+                type: string
+              - name: link
+                label: Link URL
+                type: string
+          - name: layout
+            label: Layout
+            type: select
+            options:
+              values:
+                - page

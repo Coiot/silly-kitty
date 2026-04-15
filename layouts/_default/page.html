@@ -11,9 +11,10 @@
             <!-- Content -->
             <div class="content">
        {{ if .Params.content_img.enabled }}
-                    <img class="contentimg" src="{{ .Params.content_img.path }}" alt="{{ .Params.content_img.alt }}" />
+                    <img class="contentimg" src="{{ .Params.content_img.path | relURL }}" alt="{{ if .Params.content_img.alt }}{{ .Params.content_img.alt }}{{ else }}Image for {{ .Title }}{{ end }}" loading="lazy" decoding="async" />
                 {{ end }}
                 {{ .Content }}
+                {{ partial "supplemental-content.html" . }}
             </div>
             
             {{ if .Params.sidebar.enabled }}
@@ -25,7 +26,7 @@
                     {{ range $post_idx, $post := $post_list }}
                         <section>
                             {{ if $post.Params.alt_img }}
-                                <a href="{{ $post.URL }}" class="image fit"><img src="{{ $post.Params.alt_img | relURL }}" alt="" /></a>
+                                <a href="{{ $post.URL }}" class="image fit"><img src="{{ $post.Params.alt_img | relURL }}" alt="Featured image for {{ $post.Title }}" loading="lazy" decoding="async" /></a>
                             {{ end }}
                             <h3>{{ $post.Title }}</h3>
                             {{ partial "markdownify-block" $post.Params.excerpt }}

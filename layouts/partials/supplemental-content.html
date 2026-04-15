@@ -1,0 +1,16 @@
+{{ if or .Params.show_donation_panel .Params.show_contact_panel .Params.link_groups .Params.gallery }}
+    <div class="supplemental-sections">
+        {{ if .Params.show_donation_panel }}
+            {{ partial "donation-panel.html" . }}
+        {{ end }}
+        {{ if .Params.show_contact_panel }}
+            {{ partial "contact-panel.html" . }}
+        {{ end }}
+        {{ with .Params.link_groups }}
+            {{ partial "link-groups.html" . }}
+        {{ end }}
+        {{ with .Params.gallery }}
+            {{ partial "gallery.html" . }}
+        {{ end }}
+    </div>
+{{ end }}

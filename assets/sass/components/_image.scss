@@ -58,3 +58,23 @@
 			}
 		}
 	}
+
+	.gallery-grid {
+		.image,
+		span.image {
+			display: block;
+			height: 100%;
+			width: 100%;
+
+			img {
+				height: 16rem;
+				object-fit: cover;
+				width: 100%;
+			}
+		}
+
+		.caption {
+			font-size: 0.9em;
+			margin-top: 0.75em;
+		}
+	}

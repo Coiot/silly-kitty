@@ -3,8 +3,9 @@
         {{ partial "banner.html" . }}
 
         {{ range $section := .Params.sections }}
+            {{ $component := or $section.component (printf "%s.html" $section.type) }}
             {{ $include_dict := dict "section" $section "page" $ "Site" $.Site }}
-            {{ partial $section.component $include_dict }}
+            {{ partial $component $include_dict }}
         {{ end }}
 
 {{ end }}

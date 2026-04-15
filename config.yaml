@@ -1,6 +1,6 @@
 ---
 title: NWA Community Cat Project
-baseURL: "/"
+baseURL: "https://nwacommunitycatproject.org/"
 params:
   landing_template: home
   palette: blue

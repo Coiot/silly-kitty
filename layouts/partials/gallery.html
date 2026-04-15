@@ -1,0 +1,18 @@
+{{ with . }}
+<section class="box">
+    <h3>Gallery</h3>
+    <div class="row gallery-grid">
+        {{ range $image := . }}
+            <div class="col-4 col-6-medium col-12-small">
+                {{ $src := $image.image | relURL }}
+                {{ if $image.link }}
+                    <a href="{{ $image.link }}" class="image fit"><img src="{{ $src }}" alt="{{ $image.alt }}" loading="lazy" decoding="async" /></a>
+                {{ else }}
+                    <span class="image fit"><img src="{{ $src }}" alt="{{ $image.alt }}" loading="lazy" decoding="async" /></span>
+                {{ end }}
+                {{ with $image.caption }}<p class="caption">{{ . }}</p>{{ end }}
+            </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

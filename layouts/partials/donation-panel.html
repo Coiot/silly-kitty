@@ -1,0 +1,13 @@
+{{ $donations := .Site.Data.site_settings.donations }}
+{{ if $donations }}
+<section class="box">
+    <h3>Ways To Donate</h3>
+    <ul>
+        {{ with $donations.memorial_fund_url }}<li><a href="{{ . }}">The Marcia Donley Memorial Fund</a></li>{{ end }}
+        <li><a href="{{ $donations.paypal_url }}">PayPal</a></li>
+        <li><a href="{{ $donations.givebutter_url }}">GiveButter</a></li>
+        <li>Venmo: {{ $donations.venmo_handle }}{{ with $donations.venmo_note }} ({{ . }}){{ end }}</li>
+        <li>Cash App: {{ $donations.cashapp_handle }}</li>
+    </ul>
+</section>
+{{ end }}

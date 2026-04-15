@@ -11,16 +11,17 @@
              <div class="content">
                  <h3>Adoption Form</h3>
                  {{ partial "markdownify-block" .Params.form }}
+                 {{ partial "supplemental-content.html" . }}
                  {{ if .Params.cats }}
                   <h2>Cats ready for adoption.</h2>
                  <p>Below are cats in our network currently ready for adoption.</p> 
-                 <p>If there is a cat you are interested in, please contact us at <a href="mailto:nwacommunitycatproject@gmail.com?subject=Adoption Availability">our email address</a> to check if the cat is still available. This website is typically updated a day after each adoption, so it is good to recieve a confirmaton before filling out the adoption form.</p>
+                 <p>If there is a cat you are interested in, please contact us at <a href="mailto:nwacommunitycatproject@gmail.com?subject=Adoption Availability">our email address</a> to check if the cat is still available. This website is typically updated a day after each adoption, so it is good to receive confirmation before filling out the adoption form.</p>
                  <hr />
                 <ul class="features" style="display:flex; flex-flow: column">
                  {{ range $cat := .Params.cats }}
                  <li style="flex-direction:column;">
                      <div>
-                         <img class="contentimg" src="{{ $cat.image_of_cat }}" style="width:450px;max-height:400px;object-fit:cover;" alt="Picture of {{ $cat.name_of_cat }}" />
+                         <img class="contentimg" src="{{ $cat.image_of_cat }}" style="width:450px;max-height:400px;object-fit:cover;" alt="Picture of {{ $cat.name_of_cat }}" loading="lazy" decoding="async" />
                      </div>
                      {{ if $cat.name_of_cat }}
                      <div>
@@ -54,7 +55,7 @@
                      {{ end }}
                      {{ if $cat.notes }}
                      <div>
-                     <strong>Additonal Notes:</strong>
+                     <strong>Additional Notes:</strong>
                     {{ $cat.notes }}
                      </div>
                      {{ end }}
@@ -88,7 +89,7 @@
                     {{ range $post_idx, $post := $post_list }}
                         <section>
                             {{ if $post.Params.alt_img }}
-                                <a href="{{ $post.URL }}" class="image fit"><img src="{{ $post.Params.alt_img | relURL }}" alt="" /></a>
+                                <a href="{{ $post.URL }}" class="image fit"><img src="{{ $post.Params.alt_img | relURL }}" alt="Featured image for {{ $post.Title }}" loading="lazy" decoding="async" /></a>
                             {{ end }}
                             <h3>{{ $post.Title }}</h3>
                             {{ partial "markdownify-block" $post.Params.excerpt }}

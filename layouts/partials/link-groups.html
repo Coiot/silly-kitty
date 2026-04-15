@@ -1,0 +1,15 @@
+{{ with . }}
+    {{ range $group := . }}
+        <section class="box">
+            {{ with $group.title }}<h3>{{ . }}</h3>{{ end }}
+            {{ with $group.text }}{{ partial "markdownify-block" . }}{{ end }}
+            {{ if $group.links }}
+                <ul>
+                    {{ range $link := $group.links }}
+                        <li><a href="{{ $link.url }}">{{ $link.label }}</a>{{ with $link.description }}: {{ . }}{{ end }}</li>
+                    {{ end }}
+                </ul>
+            {{ end }}
+        </section>
+    {{ end }}
+{{ end }}

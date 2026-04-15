@@ -1,0 +1,14 @@
+{{ $contact := .Site.Data.site_settings.contact }}
+{{ if $contact }}
+<section class="box">
+    <h3>Contact Details</h3>
+    <p>Email us at <a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a> or text <a href="{{ $contact.text_phone_href }}">{{ $contact.text_phone_display }}</a>.</p>
+    {{ if $contact.address_lines }}
+        <p>
+            {{ range $idx, $line := $contact.address_lines }}
+                {{ if gt $idx 0 }}<br />{{ end }}{{ $line }}
+            {{ end }}
+        </p>
+    {{ end }}
+</section>
+{{ end }}

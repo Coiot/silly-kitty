@@ -4,6 +4,14 @@ menu:
   main:
     name: Clinic Instructions
     weight: 4
+link_groups:
+  - title: Clinic Forms
+    links:
+      - label: Clinic intake form
+        url: https://nwacommunitycatproject.org/images/Clinic%20intake%20form%20Jan%202026.pdf
+gallery:
+  - image: /images/img_0215.jpg
+    alt: Cat resting after clinic treatment
 content_img:
   enabled: true
   path: /images/img_0216.jpg
@@ -23,7 +31,7 @@ layout: page
 - Hard sided carriers are much preferred over fabric carriers.
 - Please have only the cat (and a pee pad, cardboard pad, or newspapers) in the carrier/trap. No blankets, towels, or other non-disposable objects.
 - Please place a label on each carrier with your cat’s name, your name, and your phone number.
-- For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. [Clinic intake form](https://nwacommunitycatproject.org/images/Clinic%20intake%20form%20Jan%202026.pdf) Please complete a form for each cat you are bringing to the clinic.
+- For speedier checkin, please print, fill out, and bring the clinic intake form with you to your cat’s appointment. Please complete a form for each cat you are bringing to the clinic.
 - Payment due at pickup. Payment accepted:
   - Cash
   - Paypal: [https://www.paypal.com/fundraiser/charity/2408427](https://www.paypal.com/fundraiser/charity/2408427)
@@ -47,8 +55,6 @@ Optional Services:
 Please note: optional services are only available as part of a spay/neuter appointment.
 
 We are open to anyone regardless of where you live or your income level!
-
-![](/images/img_0215.jpg)
 
 **Location:**
 

@@ -1,10 +1,10 @@
 <!-- Header -->
 <header id="header" {{ if eq .Params.layout .Site.Params.landing_template }}class="alt"{{ end }}>
-    <h1 id="logo"><img alt="NWA Community Cat Project Dark Cat Logo" src="../../images/cropped-cover.jpg"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+    <h1 id="logo"><img alt="NWA Community Cat Project logo" src="{{ "images/cropped-cover.jpg" | relURL }}" width="250" height="250"><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
     <nav id="nav">
         {{ $menu := .Site.Menus.main }}
         {{ $include_dict := dict "menu" $menu "page" . }}
         {{ partial "menu.html" $include_dict }}
     </nav>
-    <a href="#navPanel" class="navPanelToggle"></a>
+    <a href="#navPanel" class="navPanelToggle" aria-label="Open navigation menu" title="Open navigation menu"></a>
 </header>

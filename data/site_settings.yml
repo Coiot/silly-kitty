@@ -1,0 +1,21 @@
+organization:
+  name: NWA Community Cat Project
+contact:
+  email: nwacommunitycatproject@gmail.com
+  email_subject_adoption: Adoption Availability
+  text_phone_display: "(501) 500-3855"
+  text_phone_href: "tel:+15015003855"
+  address_lines:
+    - NWA Community Cat Project
+    - 1021 S Janelle Ave.
+    - Fayetteville, AR 72701
+donations:
+  memorial_fund_url: http://www.arcf.org/mdonley
+  paypal_url: https://www.paypal.com/US/fundraiser/charity/2408427
+  givebutter_url: https://givebutter.com/nwaccp
+  venmo_handle: "@NWACCP"
+  venmo_note: Select "Charities" on the search page to find the account.
+  cashapp_handle: "$NWACCP"
+links:
+  adoptable_cats_url: https://www.adoptapet.com/shelter/195015-nwa-community-cat-project-fayetteville-arkansas
+  clinic_intake_form_url: https://nwacommunitycatproject.org/images/Clinic%20intake%20form%20Jan%202026.pdf

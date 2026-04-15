@@ -78,11 +78,6 @@ content:
               - name: features
                 label: Feature Cards
                 fields:
-                  - name: type
-                    label: Section Type
-                    type: string
-                    hidden: true
-                    readonly: true
                   - name: section_id
                     label: Section ID
                     type: string
@@ -141,11 +136,6 @@ content:
               - name: cta
                 label: Highlight Section
                 fields:
-                  - name: type
-                    label: Section Type
-                    type: string
-                    hidden: true
-                    readonly: true
                   - name: section_id
                     label: Section ID
                     type: string
@@ -191,11 +181,6 @@ content:
               - name: posts
                 label: Vision Section
                 fields:
-                  - name: type
-                    label: Section Type
-                    type: string
-                    hidden: true
-                    readonly: true
                   - name: section_id
                     label: Section ID
                     type: string

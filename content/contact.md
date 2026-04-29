@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle: You can email us at nwacommunitycatproject@gmail.com, use the form
-  below, or TEXT (501) 500-3855
+  below, or TEXT [(501) 500-3855](tel:+15015003855)
 menu:
   main:
     name: Contact Us

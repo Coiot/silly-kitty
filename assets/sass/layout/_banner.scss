@@ -8,6 +8,7 @@
 
 	#banner {
 		@include banner-bg('../../images/banner1.jpg');
+		background-position: center center, 55% 52%;
 		position: relative;
 		min-height: 70vh;
 		height: 35em;
@@ -44,6 +45,7 @@
 		}
 
 		@include breakpoint('<=large') {
+			background-attachment: scroll;
 			min-height: 0;
 
 			.content {
@@ -61,7 +63,7 @@
 			}
 
 			@include orientation(portrait) {
-				height: 50em;
+				height: 40em;
 			}
 
 			.content {

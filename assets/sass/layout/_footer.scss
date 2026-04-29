@@ -8,6 +8,7 @@
 
 	#footer {
 		@include banner-bg('../../images/11.jpg');
+		background-position: center center, 60% 38%;
 		@include color-typography(accent4);
 		@include color-button(accent4);
 		@include color-section(accent4);
@@ -132,5 +133,10 @@
 
 		body.is-mobile & {
 			background-attachment: scroll;
+		}
+
+		@include breakpoint('<=large') {
+			background-attachment: scroll;
+			background-position: center center, 58% 36%;
 		}
 	}

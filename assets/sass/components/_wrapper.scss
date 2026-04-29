@@ -33,6 +33,7 @@
 
 		&.cta {
 			@include banner-bg('../../images/cta.jpg', true);
+			background-position: center center, center center, 62% 50%;
 			@include color-typography(accent4);
 			@include color-button(accent4);
 
@@ -55,7 +56,14 @@
 				background-attachment: scroll;
 			}
 
+			@include breakpoint('<=large') {
+				background-attachment: scroll;
+				background-position: center center, center center, 60% 50%;
+			}
+
 			@include breakpoint('<=medium') {
+				background-position: center center, center center, 58% 50%;
+
 				> .inner {
 					> * {
 						width: 100% !important;

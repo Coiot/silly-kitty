@@ -2259,6 +2259,7 @@ table.alt tbody tr td {
     background-size: auto, auto, cover, cover;
     background-attachment: fixed, fixed, fixed, fixed;
     background-repeat: repeat, repeat, no-repeat, no-repeat;
+    background-position: center center, center center, 62% 50%;
     background-color: rgba(21, 27, 33, 0.8);
     color: #ffffff; }
     .wrapper.cta input, .wrapper.cta select, .wrapper.cta textarea {
@@ -2332,10 +2333,16 @@ table.alt tbody tr td {
         width: 50%; }
     body.is-mobile .wrapper.cta {
       background-attachment: scroll; }
+    @media screen and (max-width: 1280px) {
+      .wrapper.cta {
+        background-attachment: scroll;
+        background-position: center center, center center, 60% 50%; } }
     @media screen and (max-width: 980px) {
-      .wrapper.cta > .inner > * {
-        width: 100% !important;
-        padding-left: 0 !important; } }
+      .wrapper.cta {
+        background-position: center center, center center, 58% 50%; }
+        .wrapper.cta > .inner > * {
+          width: 100% !important;
+          padding-left: 0 !important; } }
     .wrapper.cta p {
       font-weight: 400; }
   .wrapper.sidebar > .inner {
@@ -2637,6 +2644,7 @@ body {
   background-size: auto, cover, cover;
   background-attachment: fixed, fixed, fixed;
   background-repeat: repeat, no-repeat, no-repeat;
+  background-position: center center, 55% 52%;
   position: relative;
   min-height: 70vh;
   height: 35em; }
@@ -2729,6 +2737,7 @@ body {
     background-attachment: scroll; }
   @media screen and (max-width: 1280px) {
     #banner {
+      background-attachment: scroll;
       min-height: 0; }
       #banner .content {
         padding: 3em 3em 1.85em 3em ; }
@@ -2740,7 +2749,7 @@ body {
 
 @media screen and (max-width: 980px) and (orientation: portrait) {
   #banner {
-    height: 50em; } }
+    height: 40em; } }
   @media screen and (max-width: 980px) {
     #banner .content > .inner {
       -moz-flex-direction: column;
@@ -2773,6 +2782,7 @@ body {
   background-size: auto, cover, cover;
   background-attachment: fixed, fixed, fixed;
   background-repeat: repeat, no-repeat, no-repeat;
+  background-position: center center, 60% 38%;
   background-color: rgba(21, 27, 33, 0.8);
   color: #ffffff; }
   #footer input, #footer select, #footer textarea {
@@ -2921,7 +2931,10 @@ body {
         display: block; } }
   body.is-mobile #footer {
     background-attachment: scroll; }
-
+  @media screen and (max-width: 1280px) {
+    #footer {
+      background-attachment: scroll;
+      background-position: center center, 58% 36%; } }
 /* Nav Panel */
 #navPanel {
   background-color: rgba(21, 27, 33, 0.8);

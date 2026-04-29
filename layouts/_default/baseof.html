@@ -4,28 +4,35 @@
         {{ $siteTitle := .Site.Title }}
         {{ $pageTitle := cond .IsHome $siteTitle (printf "%s - %s" .Title $siteTitle) }}
         {{ $descriptionSource := "" }}
-        {{ with .Params.description }}
-            {{ $descriptionSource = . }}
-        {{ else if .IsHome }}
+        {{ if .Params.description }}
+            {{ $descriptionSource = .Params.description }}
+        {{ end }}
+        {{ if and (eq $descriptionSource "") .IsHome }}
             {{ with .Params.banner.subtitle }}
                 {{ $descriptionSource = . }}
             {{ end }}
-        {{ else if .Params.subtitle }}
+        {{ end }}
+        {{ if and (eq $descriptionSource "") .Params.subtitle }}
             {{ $descriptionSource = .Params.subtitle }}
-        {{ else if .Summary }}
+        {{ end }}
+        {{ if and (eq $descriptionSource "") .Summary }}
             {{ $descriptionSource = .Summary }}
-        {{ else if .Content }}
+        {{ end }}
+        {{ if and (eq $descriptionSource "") .Content }}
             {{ $descriptionSource = .Content }}
         {{ end }}
         {{ $description := cond (ne $descriptionSource "") ($descriptionSource | markdownify | plainify | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace | truncate 160) "Northwest Arkansas Community Cat Project provides low-cost spay/neuter services, TNR support, and education to improve the lives of community cats." }}
         {{ $shareImage := "" }}
-        {{ with .Params.social_image }}
-            {{ $shareImage = . | absURL }}
-        {{ else if and .Params.content_img.enabled .Params.content_img.path }}
+        {{ if .Params.social_image }}
+            {{ $shareImage = .Params.social_image | absURL }}
+        {{ end }}
+        {{ if and (eq $shareImage "") .Params.content_img.enabled .Params.content_img.path }}
             {{ $shareImage = .Params.content_img.path | absURL }}
-        {{ else if .Params.alt_img }}
+        {{ end }}
+        {{ if and (eq $shareImage "") .Params.alt_img }}
             {{ $shareImage = .Params.alt_img | absURL }}
-        {{ else }}
+        {{ end }}
+        {{ if eq $shareImage "" }}
             {{ $shareImage = "images/banner1.jpg" | absURL }}
         {{ end }}
         <title>{{ $pageTitle }}</title>
@@ -47,7 +54,8 @@
         {{ if .IsHome }}
             <link rel="preload" as="image" href="{{ "images/banner1.jpg" | relURL }}">
         {{ end }}
-        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)).Permalink }}" />
+        {{ $cssOptions := dict "indentWidth" 4 "outputStyle" (cond hugo.IsProduction "compressed" "nested") "precision" 10 }}
+        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | toCSS $cssOptions).Permalink }}" />
         <link rel="stylesheet" href="{{ "assets/css/markdown-images.css" | relURL }}" />
     </head>
     <body class="{{ if eq .Params.layout .Site.Params.landing_template }}landing {{ end }}">

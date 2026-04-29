@@ -4,7 +4,7 @@ subtitle: You’ve got questions? We have answers!
 menu:
   footer:
     weight: 2
-date: 10-04-2026
+date: 2026-10-04
 content_img:
   enabled: false
 show_in_home_posts: false

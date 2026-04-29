@@ -4,7 +4,7 @@ menu:
   footer:
     name: Trap-Neuter-Return (TNR)
     weight: 1
-date: 10-04-2026
+date: 2026-10-04
 content_img:
   enabled: false
 show_in_home_posts: false

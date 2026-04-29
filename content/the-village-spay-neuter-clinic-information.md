@@ -25,7 +25,11 @@ show_donation_panel: false
 ---
 ### **BASIC INSTRUCTIONS**:
 
+<<<<<<< HEAD
 - Appointments required. Please TEXT (501) 500-3855 to schedule.
+=======
+- Appointments required. Please TEXT [(501) 500-3855](tel:+15015003855) to schedule.
+>>>>>>> dfd8ca0 (Updates)
 - Drop off time is between 8-9am.
 - Kittens must weigh 3lbs (roughly 3 months of age).
 - No food after midnight the night before surgery (leaving water out is okay).

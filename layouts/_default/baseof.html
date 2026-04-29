@@ -21,7 +21,7 @@
         {{ if and (eq $descriptionSource "") .Content }}
             {{ $descriptionSource = .Content }}
         {{ end }}
-        {{ $description := cond (ne $descriptionSource "") ($descriptionSource | markdownify | plainify | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace | truncate 160) "Northwest Arkansas Community Cat Project provides low-cost spay/neuter services, TNR support, and education to improve the lives of community cats." }}
+        {{ $description := cond (ne $descriptionSource "") ($descriptionSource | markdownify | plainify | htmlUnescape | replaceRE "\\s+" " " | replaceRE "^\\s+|\\s+$" "" | truncate 160) "Northwest Arkansas Community Cat Project provides low-cost spay/neuter services, TNR support, and education to improve the lives of community cats." }}
         {{ $shareImage := "" }}
         {{ if .Params.social_image }}
             {{ $shareImage = .Params.social_image | absURL }}

@@ -54,8 +54,7 @@
         {{ if .IsHome }}
             <link rel="preload" as="image" href="{{ "images/banner1.jpg" | relURL }}">
         {{ end }}
-        {{ $cssOptions := dict "indentWidth" 4 "outputStyle" (cond hugo.IsProduction "compressed" "nested") "precision" 10 }}
-        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | toCSS $cssOptions).Permalink }}" />
+        <link rel="stylesheet" href="{{ "assets/css/main.css" | relURL }}" />
         <link rel="stylesheet" href="{{ "assets/css/markdown-images.css" | relURL }}" />
     </head>
     <body class="{{ if eq .Params.layout .Site.Params.landing_template }}landing {{ end }}">
